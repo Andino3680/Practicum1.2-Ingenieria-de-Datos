@@ -1,7 +1,7 @@
 # Estado del Arte de la Ingeniería de Datos
 
 **Nombre:** Raúl Andino  
-**Fecha:**7/5/2026
+Fecha:7/5/2026
 
 ---
 
