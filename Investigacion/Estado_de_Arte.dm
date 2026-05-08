@@ -95,25 +95,14 @@ El estudio demuestra que tecnologías como Apache Spark, Prefect, dbt y platafor
 Dentro de la Dirección General de Tecnologías de la Información y Transformación Digital (DGTITD) de la UTPL, la Ingeniería de Datos representa una herramienta estratégica para fortalecer la automatización institucional, mejorar la gestión de información académica y administrativa, y apoyar procesos de análisis basados en datos confiables y actualizados.
 
 VIII. REFERENCIAS
-IBM – What Is Data Engineering?
-. (s.f.). What is data engineering? IBM. https://www.ibm.com/es-es/think/topics/data-engineering
-AWS – What is ETL?
-. (s.f.). What is ETL? Amazon Web Services. https://aws.amazon.com/what-is/etl/
-IBM – What is an API?
-. (s.f.). What is an API? IBM. https://www.ibm.com/think/topics/api
-DataCamp – Introduction to Data Pipelines
-. (s.f.). Introduction to data pipelines for data professionals. DataCamp. https://www.datacamp.com/tutorial/introduction-to-data-pipelines-for-data-professionals
-Apache Spark Official Site
-. (s.f.). Apache Spark. Apache Software Foundation. https://spark.apache.org/
-Prefect Official Website
-. (s.f.). Prefect. Prefect Technologies. https://www.prefect.io/
-dbt Documentation
-. (s.f.). dbt documentation. dbt Labs. https://docs.getdbt.com/docs/platform/dbt-copilot?version=1.12
-IBM – Data Observability
-. (s.f.). Smart data engineering: How observability drives productivity and efficiency. IBM. https://www.ibm.com/new/product-blog/smart-data-engineering-how-observability-drives-productivity-and-efficiency
-AWS EMR Spark Documentation
-. (s.f.). Apache Spark in Amazon EMR. Amazon Web Services. https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-spark.html
-Distributed Streaming Analytics using Apache Spark
-. (2019). Distributed streaming analytics using Apache Spark. arXiv. https://arxiv.org/abs/1907.13264
-AI-Native Data Engineering Discipline
-. (2026). Why 2026 will redefine data engineering as an AI-native discipline. CDO Magazine. https://www.cdomagazine.tech/opinion-analysis/why-2026-will-redefine-data-engineering-as-an-ai-native-discipline
+IBM – What Is Data Engineering?. (s.f.). What is data engineering? IBM. https://www.ibm.com/es-es/think/topics/data-engineering
+AWS – What is ETL?. (s.f.). What is ETL? Amazon Web Services. https://aws.amazon.com/what-is/etl/
+IBM – What is an API?. (s.f.). What is an API? IBM. https://www.ibm.com/think/topics/api
+DataCamp – Introduction to Data Pipelines. (s.f.). Introduction to data pipelines for data professionals. DataCamp. https://www.datacamp.com/tutorial/introduction-to-data-pipelines-for-data-professionals
+Apache Spark Official Site. (s.f.). Apache Spark. Apache Software Foundation. https://spark.apache.org/
+Prefect Official Website. (s.f.). Prefect. Prefect Technologies. https://www.prefect.io/
+dbt Documentation. (s.f.). dbt documentation. dbt Labs. https://docs.getdbt.com/docs/platform/dbt-copilot?version=1.12
+IBM – Data Observability. (s.f.). Smart data engineering: How observability drives productivity and efficiency. IBM. https://www.ibm.com/new/product-blog/smart-data-engineering-how-observability-drives-productivity-and-efficiency
+AWS EMR Spark Documentation. (s.f.). Apache Spark in Amazon EMR. Amazon Web Services. https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-spark.html
+Distributed Streaming Analytics using Apache Spark. (2019). Distributed streaming analytics using Apache Spark. arXiv. https://arxiv.org/abs/1907.13264
+AI-Native Data Engineering Discipline. (2026). Why 2026 will redefine data engineering as an AI-native discipline. CDO Magazine. https://www.cdomagazine.tech/opinion-analysis/why-2026-will-redefine-data-engineering-as-an-ai-native-discipline
