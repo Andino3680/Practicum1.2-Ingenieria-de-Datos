@@ -1,0 +1,148 @@
+DIAGNÓSTICO DEL DATASET AMIE - MINEDUC
+======================================
+
+Total de filas antes de limpiar: 133707
+Total de filas después de limpiar: 133705
+Duplicados eliminados: 2
+Total de columnas: 79
+
+COLUMNAS DISPONIBLES:
+- anio_lectivo
+- cod_amie
+- nombre_institucion
+- zona
+- provincia
+- cod_provincia
+- canton
+- cod_canton
+- parroquia
+- cod_parroquia
+- escolarizacion
+- tipo_educacion
+- nivel_educacion
+- sostenimiento
+- area
+- regimen_escolar
+- jurisdiccion
+- modalidad
+- jornada
+- tenencia_inmueble_edificio
+- acceso_edificio
+- docentes_f
+- docentes_m
+- total_docentes
+- administrativos_femenino
+- administrativos_masculino
+- total_administrativos
+- estudiantes_f
+- estudiantes_m
+- total_estudiantes
+- estudiantesfemeninomenor3anos
+- estudiantesmasculinomenor3anos
+- estudiantesfemenino3anos
+- estudiantesmasculino3anos
+- estudiantesfemenino4anos
+- estudiantesmasculino4anos
+- estudiantesfemeninoprimeranoegb
+- estudiantesmasculinoprimeranoegb
+- estudiantesfemeninosegundoanoegb
+- estudiantesmasculinosegundoanoegb
+- estudiantesfemeninoterceranoegb
+- estudiantesmasculinoterceranoegb
+- estudiantesfemeninocuartoanoegb
+- estudiantesmasculinocuartoanoegb
+- estudiantesfemeninoquintoanoegb
+- estudiantesmasculinoquintoanoegb
+- estudiantesfemeninosextoanoegb
+- estudiantesmasculinosextoanoegb
+- estudiantesfemeninoseptimoanoegb
+- estudiantesmasculinoseptimoanoegb
+- estudiantesfemeninooctavoanoegb
+- estudiantesmasculinooctavoanoegb
+- estudiantesfemeninonovenoanoegb
+- estudiantesmasculinonovenoanoegb
+- estudiantesfemeninodecimoanoegb
+- estudiantesmasculinodecimoanoegb
+- estudiantesfemeninoprimeranobach
+- estudiantesmasculinoprimeranobach
+- estudiantesfemeninosegundoanobach
+- estudiantesmasculinosegundoanobach
+- estudiantesfemeninoterceranobach
+- estudiantesmasculinoterceranobach
+- estudiantesfemeninonoescolarizada
+- estudiantesmasculinonoescolarizada
+- estudiantesfemeninodesconoce
+- estudiantesmasculinodesconoce
+- estudiantesfemeninopostbasico
+- estudiantesmasculinopostbasico
+- estudiantesfemeninoalfabetizacion
+- estudiantesmasculinoalfabetizacion
+- estudiantesfemeninoartesanal
+- estudiantesmasculinoartesanal
+- estudiantesfemeninobasicaacelerada
+- estudiantesmasculinobasicaacelerada
+- estudiantes_masculinoalfabetizacion
+- estudiantes_femeninoalfabetizacion
+- estudiantes_masculinobasica_acelerada
+- estudiantes_femeninobasica_acelerada
+- diferencia_estudiantes
+
+NULOS POR COLUMNA:
+anio_lectivo                                  0
+cod_amie                                      0
+nombre_institucion                            0
+zona                                          0
+provincia                                     0
+                                          ...  
+estudiantes_masculinoalfabetizacion      117504
+estudiantes_femeninoalfabetizacion       117504
+estudiantes_masculinobasica_acelerada    117504
+estudiantes_femeninobasica_acelerada     117504
+diferencia_estudiantes                        0
+Length: 79, dtype: int64
+
+REGISTROS POR PROVINCIA:
+provincia
+GUAYAS                            21751
+MANABI                            18116
+PICHINCHA                         14770
+LOJA                               9055
+AZUAY                              6901
+LOS RIOS                           6631
+ESMERALDAS                         6592
+MORONA SANTIAGO                    5054
+EL ORO                             4603
+COTOPAXI                           4307
+CHIMBORAZO                         4065
+BOLIVAR                            3528
+SUCUMBIOS                          3477
+SANTO DOMINGO DE LOS TSACHILAS     3335
+ORELLANA                           3050
+CAÑAR                              2745
+ZAMORA CHINCHIPE                   2514
+PASTAZA                            2487
+IMBABURA                           2435
+NAPO                               2352
+TUNGURAHUA                         2319
+SANTA ELENA                        1851
+CARCHI                             1325
+Zona No Delimitada                  266
+GALAPAGOS                           176
+Name: count, dtype: int64
+
+REGISTROS POR AÑO LECTIVO:
+anio_lectivo
+2015-2016 Inicio                  18986
+2017-2018 Inicio                  16778
+2018-2019 Inicio                  16690
+2019-2020 Inicio                  16516
+2020-2021 Inicio                  16290
+2023-2024 Inicio                  16201
+2021-2022 Inicio                  16169
+2022-2023 Inicio                  15997
+2022-2023 Inicio Sierra Revisi       46
+2022-2023 Inicio Costa Revisió       32
+Name: count, dtype: int64
+
+VALIDACIÓN DE CONSISTENCIA:
+No se encontraron inconsistencias en matrícula.
