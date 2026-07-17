@@ -66,7 +66,7 @@ GROUP BY provincia
 ORDER BY total_vab_2023 DESC
 LIMIT 10;
 
--- 7. Sectores con más VAB en 2023
+-- 7. Sectores con mas VAB en 2023
 SELECT 
     sector,
     SUM(vab_total_usd) AS total_vab_2023
