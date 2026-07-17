@@ -395,7 +395,7 @@ def cargar_sqlite(tablas):
     conexion.close()
 
 
-if __name__ == "__main__":
+def ejecutar_pipeline():
     print("Iniciando pipeline 4to ciclo...")
 
     silver_pib_nominal = limpiar_pib_nominal()
@@ -407,7 +407,10 @@ if __name__ == "__main__":
     silver_mineduc = limpiar_mineduc()
 
     gold_pib = crear_gold_pib(silver_pib_real)
-    gold_petroleo = crear_gold_petroleo(silver_petroleo, silver_riesgo_pais)
+    gold_petroleo = crear_gold_petroleo(
+        silver_petroleo,
+        silver_riesgo_pais
+    )
     gold_vab = crear_gold_vab(silver_vab)
     gold_bachilleres = crear_gold_bachilleres(silver_mineduc)
 
@@ -430,7 +433,7 @@ if __name__ == "__main__":
     print()
     print("Pipeline terminado correctamente.")
     print("CSV limpios creados en: salida-csv-limpio")
-    print("Base SQLite creada en: base-datos/macroentorno_4to.db")
+    print("Base SQLite creada en: base-datos/macroentorno.db")
     print()
     print("Filas generadas:")
     print("silver_pib_nominal:", len(silver_pib_nominal))
@@ -441,5 +444,9 @@ if __name__ == "__main__":
     print("silver_vab:", len(silver_vab))
     print("silver_mineduc_bachillerato:", len(silver_mineduc))
     print("gold_bachilleres_provincia:", len(gold_bachilleres))
-    print()
-    print(gold_bachilleres.head(10))
+
+    return "Pipeline ejecutado correctamente"
+
+
+if __name__ == "__main__":
+    ejecutar_pipeline()
