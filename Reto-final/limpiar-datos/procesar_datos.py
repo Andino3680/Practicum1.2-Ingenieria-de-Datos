@@ -3,11 +3,12 @@ from pathlib import Path
 import unicodedata
 import sqlite3
 
-carpeta_datos = Path("reto-macroentorno")
-carpeta_salida = Path("salida-csv-limpio")
-carpeta_db = Path("base-datos")
-carpeta_sql = Path("sql")
+BASE_DIR = Path(__file__).resolve().parent.parent
 
+carpeta_datos = BASE_DIR / "reto-macroentorno"
+carpeta_salida = BASE_DIR / "salida-csv-limpio"
+carpeta_db = BASE_DIR / "base-datos"
+carpeta_sql = BASE_DIR / "sql"
 carpeta_salida.mkdir(exist_ok=True)
 carpeta_db.mkdir(exist_ok=True)
 carpeta_sql.mkdir(exist_ok=True)
