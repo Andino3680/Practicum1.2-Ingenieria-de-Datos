@@ -1,0 +1,1873 @@
+﻿encuesta,periodo_original,anio_fiscal,mes_fiscal,nombre_indicador,total_nacional,total_urbana,total_rural
+ENEMDU*,may-22,2022,5,Empleo no clasificado,26807,24788,2018
+ENEMDU,sep-19,2019,9,Empleo Adecuado/Pleno,3228032,2633820,594213
+ENEMDU,sep-19,2019,9,Subempleo,1649346,1024458,624888
+ENEMDU,sep-19,2019,9,Subempleo por insuficiencia de tiempo de trabajo,1369552,866211,503341
+ENEMDU,sep-19,2019,9,Subempleo por insuficiencia de ingresos,279794,158247,121548
+ENEMDU,sep-19,2019,9,Empleo no remunerado,870833,270698,600135
+ENEMDU,sep-19,2019,9,Otro Empleo no pleno,2171045,1258855,912190
+ENEMDU,sep-19,2019,9,Empleo no clasificado,53228,49222,4005
+ENEMDU,sep-19,2019,9,Desempleo,406871,330941,75929
+ENEMDU,sep-19,2019,9,Desempleo Abierto,347428,291813,55615
+ENEMDU,sep-19,2019,9,Desempleo Oculto,59442,39129,20314
+ENEMDU,sep-19,2019,9,Desempleo Cesante,289479,242259,47219
+ENEMDU,sep-19,2019,9,Desempleo Nuevo,117392,88682,28710
+ENEMDU,sep-19,2019,9,Poblaciï¿½n Econï¿½micamente Inactiva,3980045,3045100,934944
+ENEMDU*,mar-21,2021,3,Poblaciï¿½n Econï¿½micamente Inactiva,4562366,3516758,1045608
+ENEMDU*,abr-21,2021,4,Poblaciï¿½n Total,17775940,12118513,5657427
+ENEMDU*,abr-21,2021,4,Poblaciï¿½n menor de 15 aï¿½os,5145015,3315545,1829470
+ENEMDU*,abr-21,2021,4,Poblaciï¿½n en Edad de Trabajar (PET),12630925,8802968,3827957
+ENEMDU*,abr-21,2021,4,Poblaciï¿½n Econï¿½micamente Activa,8324590,5429841,2894749
+ENEMDU*,abr-21,2021,4,Empleo,7898750,5062501,2836249
+ENEMDU*,abr-21,2021,4,Empleo Adecuado/Pleno,2565865,2080984,484881
+ENEMDU*,abr-21,2021,4,Subempleo,1941860,1287448,654412
+ENEMDU*,abr-21,2021,4,Subempleo por insuficiencia de tiempo de trabajo,1770788,1179159,591629
+ENEMDU*,abr-21,2021,4,Subempleo por insuficiencia de ingresos,171072,108289,62782
+ENEMDU*,abr-21,2021,4,Empleo no remunerado,1079300,302075,777224
+ENEMDU*,abr-21,2021,4,Otro Empleo no pleno,2243726,1328171,915556
+ENEMDU*,abr-21,2021,4,Empleo no clasificado,67998,63822,4176
+ENEMDU*,nov-23,2023,11,Poblaciï¿½n Total,18453181,12580265,5872916
+ENEMDU*,nov-23,2023,11,Poblaciï¿½n menor de 15 aï¿½os,5338665,3440062,1898603
+ENEMDU*,nov-23,2023,11,Poblaciï¿½n en Edad de Trabajar (PET),13114516,9140203,3974313
+ENEMDU*,nov-23,2023,11,Poblaciï¿½n Econï¿½micamente Activa,8492303,5558723,2933580
+ENEMDU*,nov-23,2023,11,Empleo,8198722,5293318,2905404
+ENEMDU,mar-19,2019,3,Empleo no clasificado,50267,48244,2022
+ENEMDU,mar-19,2019,3,Desempleo,376255,314452,61803
+ENEMDU,mar-19,2019,3,Desempleo Abierto,318393,271854,46539
+ENEMDU,mar-19,2019,3,Desempleo Oculto,57862,42597,15264
+ENEMDU*,feb-22,2022,2,Desempleo Oculto,53403,34547,18857
+ENEMDU*,feb-22,2022,2,Desempleo Cesante,287464,251173,36291
+ENEMDU*,feb-22,2022,2,Desempleo Nuevo,80190,52608,27581
+ENEMDU*,feb-22,2022,2,Poblaciï¿½n Econï¿½micamente Inactiva,4308555,3337404,971151
+ENEMDU*,mar-22,2022,3,Poblaciï¿½n Total,17998889,12270523,5728366
+ENEMDU*,mar-22,2022,3,Poblaciï¿½n menor de 15 aï¿½os,5193229,3349290,1843939
+ENEMDU*,mar-22,2022,3,Poblaciï¿½n en Edad de Trabajar (PET),12805660,8921233,3884427
+ENEMDU*,mar-22,2022,3,Poblaciï¿½n Econï¿½micamente Activa,8314561,5480770,2833792
+ENEMDU*,mar-22,2022,3,Empleo,7916916,5141772,2775144
+ENEMDU*,mar-22,2022,3,Empleo Adecuado/Pleno,2721202,2223544,497658
+ENEMDU*,mar-22,2022,3,Subempleo,1911075,1204779,706296
+ENEMDU*,mar-22,2022,3,Subempleo por insuficiencia de tiempo de trabajo,1720362,1091571,628791
+ENEMDU*,mar-22,2022,3,Subempleo por insuficiencia de ingresos,190713,113208,77505
+ENEMDU*,abr-22,2022,4,Poblaciï¿½n Econï¿½micamente Inactiva,4296574,3254527,1042047
+ENEMDU*,may-22,2022,5,Poblaciï¿½n Total,18039769,12298410,5741359
+ENEMDU*,may-22,2022,5,Poblaciï¿½n menor de 15 aï¿½os,5204032,3356255,1847777
+ENEMDU*,may-22,2022,5,Poblaciï¿½n en Edad de Trabajar (PET),12835737,8942155,3893582
+ENEMDU*,may-22,2022,5,Poblaciï¿½n Econï¿½micamente Activa,8557854,5624871,2932983
+ENEMDU*,may-22,2022,5,Empleo,8242866,5374751,2868115
+ENEMDU*,may-22,2022,5,Empleo Adecuado/Pleno,2843061,2331214,511848
+ENEMDU*,may-22,2022,5,Subempleo,1888344,1193915,694429
+ENEMDU*,may-22,2022,5,Subempleo por insuficiencia de tiempo de trabajo,1717642,1089853,627789
+ENEMDU*,may-22,2022,5,Subempleo por insuficiencia de ingresos,170702,104062,66640
+ENEMDU*,may-22,2022,5,Empleo no remunerado,1011882,279389,732493
+ENEMDU*,may-22,2022,5,Otro Empleo no pleno,2472772,1545445,927327
+ENEMDU,mar-19,2019,3,Poblaciï¿½n en Edad de Trabajar (PET),12272857,8552501,3720356
+ENEMDU,mar-19,2019,3,Poblaciï¿½n Econï¿½micamente Activa,8162787,5397912,2764876
+ENEMDU,mar-19,2019,3,Empleo,7786532,5083460,2703072
+ENEMDU,mar-19,2019,3,Empleo Adecuado/Pleno,3094795,2536513,558282
+ENEMDU,mar-19,2019,3,Subempleo,1524118,996390,527727
+ENEMDU,mar-19,2019,3,Subempleo por insuficiencia de tiempo de trabajo,1275305,843442,431862
+ENEMDU,mar-19,2019,3,Subempleo por insuficiencia de ingresos,248813,152948,95865
+ENEMDU,mar-19,2019,3,Empleo no remunerado,895242,252447,642795
+ENEMDU,mar-19,2019,3,Otro Empleo no pleno,2222111,1249865,972245
+ENEMDU*,sep-20,2020,9,Desempleo Oculto,61832,48664,13168
+ENEMDU*,sep-20,2020,9,Desempleo Cesante,384528,333076,51452
+ENEMDU*,sep-20,2020,9,Desempleo Nuevo,107081,90369,16712
+ENEMDU*,sep-20,2020,9,Poblaciï¿½n Econï¿½micamente Inactiva,4537991,3456845,1081146
+ENEMDU*,oct-20,2020,10,Poblaciï¿½n Total,17655492,12036399,5619093
+ENEMDU*,oct-20,2020,10,Poblaciï¿½n menor de 15 aï¿½os,5110152,3293078,1817074
+ENEMDU*,oct-20,2020,10,Poblaciï¿½n en Edad de Trabajar (PET),12545340,8743321,3802019
+ENEMDU*,jun-21,2021,6,Poblaciï¿½n en Edad de Trabajar (PET),12659586,8822944,3836642
+ENEMDU*,jun-21,2021,6,Poblaciï¿½n Econï¿½micamente Activa,8332656,5536162,2796494
+ENEMDU*,jun-21,2021,6,Empleo,7905781,5161607,2744173
+ENEMDU*,jun-21,2021,6,Empleo Adecuado/Pleno,2604263,2111636,492627
+ENEMDU*,jun-21,2021,6,Subempleo,1917390,1310574,606816
+ENEMDU*,jun-21,2021,6,Subempleo por insuficiencia de tiempo de trabajo,1707045,1180924,526121
+ENEMDU*,jun-21,2021,6,Subempleo por insuficiencia de ingresos,210346,129651,80695
+ENEMDU*,jun-21,2021,6,Empleo no remunerado,1074505,327361,747144
+ENEMDU*,jun-21,2021,6,Otro Empleo no pleno,2254112,1358535,895577
+ENEMDU*,jun-21,2021,6,Empleo no clasificado,55511,53502,2009
+ENEMDU*,jun-21,2021,6,Desempleo,426875,374555,52320
+ENEMDU*,jun-21,2021,6,Desempleo Abierto,390459,346003,44455
+ENEMDU*,jun-21,2021,6,Desempleo Oculto,36416,28551,7865
+ENEMDU*,jul-22,2022,7,Poblaciï¿½n en Edad de Trabajar (PET),12865821,8963029,3902792
+ENEMDU*,jul-22,2022,7,Poblaciï¿½n Econï¿½micamente Activa,8579754,5672051,2907704
+ENEMDU*,jul-22,2022,7,Empleo,8247528,5394045,2853483
+ENEMDU*,jul-22,2022,7,Empleo Adecuado/Pleno,2752904,2332417,420487
+ENEMDU*,jul-22,2022,7,Subempleo,1890850,1243222,647628
+ENEMDU*,jul-22,2022,7,Subempleo por insuficiencia de tiempo de trabajo,1702774,1133234,569540
+ENEMDU*,jul-22,2022,7,Subempleo por insuficiencia de ingresos,188076,109988,78088
+ENEMDU*,jul-22,2022,7,Empleo no remunerado,1064681,279403,785278
+ENEMDU*,jul-22,2022,7,Otro Empleo no pleno,2521255,1525108,996147
+ENEMDU*,jul-22,2022,7,Empleo no clasificado,17838,13895,3943
+ENEMDU*,jul-22,2022,7,Desempleo,332227,278006,54221
+ENEMDU*,jul-22,2022,7,Desempleo Abierto,299309,254840,44469
+ENEMDU*,jul-22,2022,7,Desempleo Oculto,32918,23166,9752
+ENEMDU*,abr-23,2023,4,Empleo no remunerado,881302,189626,691676
+ENEMDU*,abr-23,2023,4,Otro Empleo no pleno,2577450,1538210,1039240
+ENEMDU*,abr-23,2023,4,Empleo no clasificado,20512,15924,4588
+ENEMDU*,abr-23,2023,4,Desempleo,341849,300085,41764
+ENEMDU*,abr-23,2023,4,Desempleo Abierto,305944,276996,28948
+ENEMDU*,abr-23,2023,4,Desempleo Oculto,35905,23089,12816
+ENEMDU*,abr-23,2023,4,Desempleo Cesante,234283,205438,28845
+ENEMDU*,abr-23,2023,4,Desempleo Nuevo,107566,94647,12919
+ENEMDU*,abr-23,2023,4,Poblaciï¿½n Econï¿½micamente Inactiva,4498937,3462991,1035946
+ENEMDU*,may-23,2023,5,Poblaciï¿½n Total,18286780,12466774,5820006
+ENEMDU*,may-23,2023,5,Poblaciï¿½n menor de 15 aï¿½os,5269301,3398340,1870961
+ENEMDU*,may-23,2023,5,Poblaciï¿½n en Edad de Trabajar (PET),13017479,9068434,3949045
+ENEMDU*,may-23,2023,5,Poblaciï¿½n Econï¿½micamente Activa,8263434,5444463,2818971
+ENEMDU*,oct-20,2020,10,Poblaciï¿½n Econï¿½micamente Activa,8282798,5474057,2808742
+ENEMDU*,oct-20,2020,10,Empleo,7805426,5060713,2744713
+ENEMDU*,oct-20,2020,10,Empleo Adecuado/Pleno,2339425,1847178,492247
+ENEMDU*,oct-20,2020,10,Subempleo,2145933,1517928,628005
+ENEMDU*,oct-20,2020,10,Subempleo por insuficiencia de tiempo de trabajo,1890025,1354209,535816
+ENEMDU*,oct-20,2020,10,Subempleo por insuficiencia de ingresos,255907,163718,92189
+ENEMDU*,oct-20,2020,10,Empleo no remunerado,1027840,313840,714000
+ENEMDU*,oct-20,2020,10,Otro Empleo no pleno,2221732,1316861,904872
+ENEMDU*,abr-23,2023,4,Subempleo por insuficiencia de tiempo de trabajo,1571492,960206,611287
+ENEMDU*,abr-23,2023,4,Subempleo por insuficiencia de ingresos,120255,63116,57139
+ENEMDU*,sep-20,2020,9,Subempleo por insuficiencia de ingresos,214259,140728,73531
+ENEMDU*,sep-20,2020,9,Empleo no remunerado,945753,286911,658842
+ENEMDU*,sep-20,2020,9,Otro Empleo no pleno,2091314,1216506,874808
+ENEMDU*,sep-20,2020,9,Empleo no clasificado,55816,47347,8469
+ENEMDU*,sep-20,2020,9,Desempleo,491609,423445,68164
+ENEMDU*,sep-20,2020,9,Desempleo Abierto,429777,374781,54996
+ENEMDU*,mar-23,2023,3,Poblaciï¿½n Econï¿½micamente Activa,8329980,5462721,2867258
+ENEMDU*,mar-23,2023,3,Empleo,8027315,5197139,2830175
+ENEMDU*,mar-23,2023,3,Empleo Adecuado/Pleno,2881193,2369091,512102
+ENEMDU*,mar-23,2023,3,Subempleo,1643088,1046432,596656
+ENEMDU*,mar-23,2023,3,Subempleo por insuficiencia de tiempo de trabajo,1531278,992240,539038
+ENEMDU*,mar-23,2023,3,Subempleo por insuficiencia de ingresos,111810,54192,57618
+ENEMDU*,mar-23,2023,3,Empleo no remunerado,915994,255764,660231
+ENEMDU*,mar-23,2023,3,Otro Empleo no pleno,2574987,1514314,1060673
+ENEMDU*,mar-23,2023,3,Empleo no clasificado,12052,11538,514
+ENEMDU*,mar-23,2023,3,Desempleo,302665,265582,37083
+ENEMDU*,mar-23,2023,3,Desempleo Abierto,272881,242598,30283
+ENEMDU,dic-19,2019,12,Desempleo Abierto,271917,239489,32428
+ENEMDU,dic-19,2019,12,Desempleo Oculto,39217,26920,12296
+ENEMDU,dic-19,2019,12,Desempleo Cesante,222297,192998,29299
+ENEMDU,dic-19,2019,12,Desempleo Nuevo,88836,73411,15425
+ENEMDU,dic-19,2019,12,Poblaciï¿½n Econï¿½micamente Inactiva,4303535,3261939,1041596
+ENEMDU*,sep-20,2020,9,Poblaciï¿½n Total,17635490,12022763,5612727
+ENEMDU*,sep-20,2020,9,Poblaciï¿½n menor de 15 aï¿½os,5104363,3289347,1815016
+ENEMDU*,sep-20,2020,9,Poblaciï¿½n en Edad de Trabajar (PET),12531127,8733416,3797711
+ENEMDU*,sep-20,2020,9,Poblaciï¿½n Econï¿½micamente Activa,7993136,5276571,2716565
+ENEMDU*,sep-20,2020,9,Empleo,7501527,4853126,2648401
+ENEMDU*,sep-20,2020,9,Empleo Adecuado/Pleno,2458819,2012438,446380
+ENEMDU*,sep-20,2020,9,Subempleo,1949825,1289924,659901
+ENEMDU*,sep-20,2020,9,Subempleo por insuficiencia de tiempo de trabajo,1735566,1149196,586370
+ENEMDU*,may-21,2021,5,Subempleo por insuficiencia de tiempo de trabajo,1742660,1154765,587895
+ENEMDU*,may-21,2021,5,Subempleo por insuficiencia de ingresos,227818,121601,106217
+ENEMDU*,may-21,2021,5,Empleo no remunerado,1082268,347145,735123
+ENEMDU*,may-21,2021,5,Otro Empleo no pleno,2248648,1307540,941108
+ENEMDU*,may-21,2021,5,Empleo no clasificado,92910,92404,506
+ENEMDU*,may-21,2021,5,Desempleo,537958,475964,61994
+ENEMDU*,may-21,2021,5,Desempleo Abierto,484646,427000,57646
+ENEMDU*,nov-23,2023,11,Empleo Adecuado/Pleno,3037803,2476347,561456
+ENEMDU*,may-21,2021,5,Desempleo Oculto,53312,48964,4348
+ENEMDU*,may-21,2021,5,Desempleo Cesante,449379,403845,45534
+ENEMDU*,may-21,2021,5,Desempleo Nuevo,88579,72119,16460
+ENEMDU*,may-21,2021,5,Poblaciï¿½n Econï¿½micamente Inactiva,4143957,3224310,919647
+ENEMDU*,jun-21,2021,6,Poblaciï¿½n Total,17816276,12146012,5670264
+ENEMDU*,jun-21,2021,6,Poblaciï¿½n menor de 15 aï¿½os,5156690,3323068,1833622
+ENEMDU*,jun-22,2022,6,Subempleo por insuficiencia de tiempo de trabajo,1832496,1208301,624195
+ENEMDU*,nov-23,2023,11,Subempleo,1783421,1093702,689719
+ENEMDU*,nov-23,2023,11,Subempleo por insuficiencia de tiempo de trabajo,1650827,1046013,604814
+ENEMDU*,nov-23,2023,11,Subempleo por insuficiencia de ingresos,132594,47689,84905
+ENEMDU*,nov-23,2023,11,Empleo no remunerado,962820,207812,755009
+ENEMDU*,nov-23,2023,11,Otro Empleo no pleno,2396809,1498345,898464
+ENEMDU*,nov-23,2023,11,Empleo no clasificado,17868,17113,756
+ENEMDU*,nov-23,2023,11,Desempleo,293581,265405,28177
+ENEMDU*,jun-22,2022,6,Subempleo por insuficiencia de ingresos,180236,82339,97897
+ENEMDU*,jun-22,2022,6,Empleo no remunerado,887005,255180,631825
+ENEMDU*,jun-22,2022,6,Otro Empleo no pleno,2362022,1401873,960149
+ENEMDU*,jun-22,2022,6,Empleo no clasificado,22576,20847,1729
+ENEMDU*,jun-22,2022,6,Desempleo,345620,297845,47776
+ENEMDU*,jun-22,2022,6,Desempleo Abierto,309338,269067,40270
+ENEMDU*,jun-22,2022,6,Desempleo Oculto,36283,28777,7506
+ENEMDU*,feb-23,2023,2,Subempleo,1835936,1148234,687702
+ENEMDU*,feb-23,2023,2,Subempleo por insuficiencia de tiempo de trabajo,1683721,1079259,604462
+ENEMDU*,feb-23,2023,2,Subempleo por insuficiencia de ingresos,152214,68975,83239
+ENEMDU*,feb-23,2023,2,Empleo no remunerado,937121,232045,705076
+ENEMDU*,feb-23,2023,2,Otro Empleo no pleno,2588381,1586551,1001830
+ENEMDU*,feb-23,2023,2,Empleo no clasificado,14430,14430,0
+ENEMDU*,feb-23,2023,2,Desempleo,328662,289590,39072
+ENEMDU*,jun-22,2022,6,Desempleo Cesante,257370,226006,31364
+ENEMDU*,jun-22,2022,6,Desempleo Nuevo,88250,71838,16412
+ENEMDU*,jun-22,2022,6,Poblaciï¿½n Econï¿½micamente Inactiva,4314144,3278561,1035583
+ENEMDU*,jul-22,2022,7,Poblaciï¿½n Total,18080680,12326257,5754423
+ENEMDU*,jul-22,2022,7,Poblaciï¿½n menor de 15 aï¿½os,5214859,3363228,1851631
+ENEMDU*,mar-23,2023,3,Desempleo Oculto,29784,22984,6800
+ENEMDU*,mar-23,2023,3,Desempleo Cesante,230185,203896,26289
+ENEMDU*,feb-23,2023,2,Desempleo Abierto,293606,261817,31789
+ENEMDU*,feb-23,2023,2,Desempleo Oculto,35056,27773,7283
+ENEMDU*,feb-23,2023,2,Desempleo Cesante,260793,231130,29663
+ENEMDU*,feb-23,2023,2,Desempleo Nuevo,67869,58460,9409
+ENEMDU*,feb-23,2023,2,Poblaciï¿½n Econï¿½micamente Inactiva,4463972,3439144,1024828
+ENEMDU*,mar-23,2023,3,Poblaciï¿½n Total,18245394,12438547,5806847
+ENEMDU,dic-19,2019,12,Poblaciï¿½n Total,17454560,11904109,5550451
+ENEMDU*,mar-23,2023,3,Desempleo Nuevo,72480,61686,10794
+ENEMDU*,mar-23,2023,3,Poblaciï¿½n Econï¿½micamente Inactiva,4657047,3584531,1072517
+ENEMDU*,abr-23,2023,4,Poblaciï¿½n Total,18266060,12452639,5813421
+ENEMDU*,abr-23,2023,4,Poblaciï¿½n menor de 15 aï¿½os,5263810,3394799,1869011
+ENEMDU*,abr-23,2023,4,Poblaciï¿½n en Edad de Trabajar (PET),13002250,9057840,3944410
+ENEMDU*,abr-23,2023,4,Poblaciï¿½n Econï¿½micamente Activa,8503313,5594849,2908464
+ENEMDU*,abr-23,2023,4,Empleo,8161465,5294764,2866701
+ENEMDU,dic-19,2019,12,Poblaciï¿½n menor de 15 aï¿½os,5051995,3257474,1794521
+ENEMDU,dic-19,2019,12,Poblaciï¿½n en Edad de Trabajar (PET),12402565,8646635,3755930
+ENEMDU,dic-19,2019,12,Poblaciï¿½n Econï¿½micamente Activa,8099030,5384696,2714334
+ENEMDU,dic-19,2019,12,Empleo,7787896,5118287,2669609
+ENEMDU,dic-19,2019,12,Empleo Adecuado/Pleno,3146297,2585800,560497
+ENEMDU,dic-19,2019,12,Subempleo,1440983,914201,526782
+ENEMDU,dic-19,2019,12,Subempleo por insuficiencia de tiempo de trabajo,1190073,772706,417368
+ENEMDU*,abr-23,2023,4,Empleo Adecuado/Pleno,2990453,2527682,462771
+ENEMDU*,abr-23,2023,4,Subempleo,1691748,1023322,668426
+ENEMDU,dic-19,2019,12,Subempleo por insuficiencia de ingresos,250910,141495,109414
+ENEMDU,dic-19,2019,12,Empleo no remunerado,884617,263041,621575
+ENEMDU,dic-19,2019,12,Otro Empleo no pleno,2268077,1309199,958877
+ENEMDU,dic-19,2019,12,Empleo no clasificado,47923,46045,1877
+ENEMDU,dic-19,2019,12,Desempleo,311134,266409,44724
+ENEMDU*,abr-21,2021,4,Desempleo,425840,367340,58500
+ENEMDU*,abr-21,2021,4,Desempleo Abierto,375794,323264,52530
+ENEMDU*,abr-21,2021,4,Desempleo Oculto,50046,44076,5970
+ENEMDU*,abr-21,2021,4,Desempleo Cesante,345075,296115,48960
+ENEMDU*,abr-21,2021,4,Desempleo Nuevo,80764,71225,9540
+ENEMDU*,abr-21,2021,4,Poblaciï¿½n Econï¿½micamente Inactiva,4306335,3373127,933208
+ENEMDU*,may-21,2021,5,Poblaciï¿½n Total,17796100,12132257,5663843
+ENEMDU*,may-21,2021,5,Poblaciï¿½n menor de 15 aï¿½os,5150850,3319305,1831545
+ENEMDU*,may-21,2021,5,Poblaciï¿½n en Edad de Trabajar (PET),12645250,8812952,3832298
+ENEMDU*,may-21,2021,5,Poblaciï¿½n Econï¿½micamente Activa,8501293,5588642,2912651
+ENEMDU*,may-21,2021,5,Empleo,7963336,5112679,2850657
+ENEMDU*,may-21,2021,5,Empleo Adecuado/Pleno,2569033,2089224,479809
+ENEMDU*,may-21,2021,5,Subempleo,1970477,1276366,694112
+ENEMDU*,may-22,2022,5,Desempleo,314988,250120,64868
+ENEMDU*,may-22,2022,5,Desempleo Abierto,278099,221759,56340
+ENEMDU*,may-22,2022,5,Desempleo Oculto,36889,28361,8528
+ENEMDU*,may-22,2022,5,Desempleo Cesante,245930,197724,48207
+ENEMDU*,may-22,2022,5,Desempleo Nuevo,69058,52397,16661
+ENEMDU*,may-22,2022,5,Poblaciï¿½n Econï¿½micamente Inactiva,4277883,3317284,960599
+ENEMDU*,jun-22,2022,6,Poblaciï¿½n Total,18060182,12312297,5747885
+ENEMDU*,jun-22,2022,6,Poblaciï¿½n menor de 15 aï¿½os,5209419,3359705,1849714
+ENEMDU*,jun-22,2022,6,Poblaciï¿½n en Edad de Trabajar (PET),12850763,8952592,3898171
+ENEMDU*,jun-22,2022,6,Poblaciï¿½n Econï¿½micamente Activa,8536619,5674031,2862588
+ENEMDU*,jun-22,2022,6,Empleo,8190999,5376187,2814812
+ENEMDU*,jun-22,2022,6,Empleo Adecuado/Pleno,2906664,2407647,499017
+ENEMDU*,jun-22,2022,6,Subempleo,2012731,1290640,722091
+ENEMDU*,mar-23,2023,3,Poblaciï¿½n menor de 15 aï¿½os,5258367,3391295,1867072
+ENEMDU*,mar-23,2023,3,Poblaciï¿½n en Edad de Trabajar (PET),12987027,9047252,3939775
+ENEMDU*,oct-22,2022,10,Subempleo,1728936,1210346,518590
+ENEMDU*,oct-22,2022,10,Subempleo por insuficiencia de tiempo de trabajo,1597695,1130760,466935
+ENEMDU*,oct-22,2022,10,Subempleo por insuficiencia de ingresos,131241,79586,51655
+ENEMDU*,oct-22,2022,10,Empleo no remunerado,1016921,268891,748030
+ENEMDU*,sep-22,2022,9,Subempleo,1765761,1092755,673006
+ENEMDU*,sep-22,2022,9,Subempleo por insuficiencia de tiempo de trabajo,1616744,1013538,603206
+ENEMDU*,sep-22,2022,9,Subempleo por insuficiencia de ingresos,149017,79217,69800
+ENEMDU*,sep-22,2022,9,Empleo no remunerado,938663,272938,665725
+ENEMDU*,sep-22,2022,9,Otro Empleo no pleno,2535383,1505966,1029417
+ENEMDU*,sep-22,2022,9,Empleo no clasificado,21262,18236,3025
+ENEMDU*,sep-22,2022,9,Desempleo,354324,295134,59190
+ENEMDU*,sep-22,2022,9,Desempleo Abierto,325663,275398,50264
+ENEMDU*,sep-22,2022,9,Desempleo Oculto,28662,19736,8926
+ENEMDU*,sep-22,2022,9,Desempleo Cesante,276010,236806,39204
+ENEMDU*,sep-22,2022,9,Desempleo Nuevo,78314,58328,19987
+ENEMDU*,sep-22,2022,9,Poblaciï¿½n Econï¿½micamente Inactiva,4202807,3299382,903425
+ENEMDU*,jun-23,2023,6,Desempleo,323612,278346,45266
+ENEMDU*,jun-23,2023,6,Desempleo Abierto,309242,268664,40578
+ENEMDU*,jun-23,2023,6,Desempleo Oculto,14370,9682,4688
+ENEMDU*,jun-23,2023,6,Desempleo Cesante,250741,217257,33484
+ENEMDU*,jun-23,2023,6,Desempleo Nuevo,72871,61089,11782
+ENEMDU*,jun-23,2023,6,Poblaciï¿½n Econï¿½micamente Inactiva,4591355,3517335,1074021
+ENEMDU*,jul-23,2023,7,Poblaciï¿½n Total,18369613,12523339,5846274
+ENEMDU*,jul-23,2023,7,Poblaciï¿½n menor de 15 aï¿½os,5314484,3424489,1889995
+ENEMDU*,jul-23,2023,7,Poblaciï¿½n en Edad de Trabajar (PET),13055129,9098850,3956279
+ENEMDU*,jul-23,2023,7,Poblaciï¿½n Econï¿½micamente Activa,8423105,5554328,2868777
+ENEMDU*,jul-23,2023,7,Empleo,8110823,5279233,2831590
+ENEMDU*,jul-23,2023,7,Empleo Adecuado/Pleno,2988083,2476271,511812
+ENEMDU*,jul-23,2023,7,Subempleo,1699076,991253,707823
+ENEMDU*,dic-20,2020,12,Subempleo,1847631,1297291,550340
+ENEMDU*,dic-20,2020,12,Subempleo por insuficiencia de tiempo de trabajo,1637545,1166654,470891
+ENEMDU*,dic-20,2020,12,Subempleo por insuficiencia de ingresos,210085,130636,79449
+ENEMDU*,dic-20,2020,12,Empleo no remunerado,1028848,295218,733630
+ENEMDU*,dic-20,2020,12,Otro Empleo no pleno,2282616,1384416,898200
+ENEMDU*,dic-20,2020,12,Empleo no clasificado,70075,65532,4544
+ENEMDU*,dic-20,2020,12,Desempleo,396504,322958,73546
+ENEMDU*,dic-20,2020,12,Desempleo Abierto,320746,267127,53618
+ENEMDU*,dic-20,2020,12,Desempleo Oculto,75758,55831,19928
+ENEMDU*,dic-20,2020,12,Desempleo Cesante,253035,211315,41720
+ENEMDU*,dic-20,2020,12,Desempleo Nuevo,143469,111643,31826
+ENEMDU*,dic-20,2020,12,Poblaciï¿½n Econï¿½micamente Inactiva,4489608,3404247,1085361
+ENEMDU*,ene-21,2021,1,Poblaciï¿½n Total,17715615,12077386,5638229
+ENEMDU*,sep-21,2021,9,Poblaciï¿½n Total,17876935,12187353,5689582
+ENEMDU*,sep-21,2021,9,Poblaciï¿½n menor de 15 aï¿½os,5163280,3330248,1833032
+ENEMDU*,sep-21,2021,9,Poblaciï¿½n en Edad de Trabajar (PET),12713655,8857105,3856550
+ENEMDU*,sep-21,2021,9,Poblaciï¿½n Econï¿½micamente Activa,8479137,5584638,2894499
+ENEMDU*,sep-21,2021,9,Empleo,8066696,5221035,2845661
+ENEMDU*,sep-21,2021,9,Empleo Adecuado/Pleno,2843732,2304048,539684
+ENEMDU*,sep-21,2021,9,Subempleo,1921312,1170752,750560
+ENEMDU*,sep-21,2021,9,Subempleo por insuficiencia de tiempo de trabajo,1715190,1054926,660263
+ENEMDU*,sep-21,2021,9,Subempleo por insuficiencia de ingresos,206122,115826,90297
+ENEMDU*,sep-21,2021,9,Empleo no remunerado,917971,290830,627141
+ENEMDU*,sep-21,2021,9,Otro Empleo no pleno,2340071,1413295,926776
+ENEMDU*,sep-21,2021,9,Empleo no clasificado,43609,42109,1500
+ENEMDU*,sep-21,2021,9,Desempleo,412441,363603,48838
+ENEMDU*,oct-22,2022,10,Poblaciï¿½n Total,18142271,12368250,5774021
+ENEMDU*,oct-22,2022,10,Poblaciï¿½n menor de 15 aï¿½os,5231139,3373721,1857418
+ENEMDU*,oct-22,2022,10,Poblaciï¿½n en Edad de Trabajar (PET),12911132,8994529,3916603
+ENEMDU*,oct-22,2022,10,Poblaciï¿½n Econï¿½micamente Activa,8677809,5739760,2938049
+ENEMDU*,oct-22,2022,10,Empleo,8323300,5437924,2885375
+ENEMDU*,oct-22,2022,10,Empleo Adecuado/Pleno,2928005,2448582,479423
+ENEMDU*,may-23,2023,5,Desempleo Nuevo,74061,61513,12548
+ENEMDU*,oct-20,2020,10,Desempleo Nuevo,96639,79732,16907
+ENEMDU*,oct-20,2020,10,Poblaciï¿½n Econï¿½micamente Inactiva,4262542,3269264,993277
+ENEMDU*,nov-20,2020,11,Poblaciï¿½n Total,17675513,12050049,5625464
+ENEMDU*,nov-20,2020,11,Poblaciï¿½n menor de 15 aï¿½os,5115951,3296815,1819136
+ENEMDU*,nov-20,2020,11,Poblaciï¿½n en Edad de Trabajar (PET),12559563,8753234,3806329
+ENEMDU*,nov-20,2020,11,Poblaciï¿½n Econï¿½micamente Activa,8159078,5370225,2788853
+ENEMDU*,nov-20,2020,11,Empleo,7698733,4957659,2741073
+ENEMDU*,nov-20,2020,11,Empleo Adecuado/Pleno,2327015,1889741,437274
+ENEMDU*,nov-20,2020,11,Subempleo,1969078,1279236,689842
+ENEMDU*,nov-20,2020,11,Subempleo por insuficiencia de tiempo de trabajo,1779350,1153983,625367
+ENEMDU*,nov-20,2020,11,Subempleo por insuficiencia de ingresos,189729,125253,64476
+ENEMDU*,nov-20,2020,11,Empleo no remunerado,914484,267227,647257
+ENEMDU*,nov-20,2020,11,Otro Empleo no pleno,2416513,1454434,962079
+ENEMDU*,jul-21,2021,7,Otro Empleo no pleno,2204818,1314829,889989
+ENEMDU*,jul-21,2021,7,Empleo no clasificado,62744,62039,705
+ENEMDU*,jul-21,2021,7,Desempleo,426684,351672,75012
+ENEMDU*,jul-21,2021,7,Desempleo Abierto,389392,323940,65453
+ENEMDU*,jul-21,2021,7,Desempleo Oculto,37292,27732,9560
+ENEMDU*,jul-21,2021,7,Desempleo Cesante,349254,290361,58893
+ENEMDU*,jul-21,2021,7,Desempleo Nuevo,77430,61310,16120
+ENEMDU*,jul-21,2021,7,Poblaciï¿½n Econï¿½micamente Inactiva,4396460,3336202,1060258
+ENEMDU*,ago-21,2021,8,Poblaciï¿½n Total,17856714,12173545,5683169
+ENEMDU*,ago-21,2021,8,Poblaciï¿½n menor de 15 aï¿½os,5157946,3326802,1831144
+ENEMDU*,ago-21,2021,8,Poblaciï¿½n en Edad de Trabajar (PET),12698768,8846743,3852025
+ENEMDU*,ago-21,2021,8,Poblaciï¿½n Econï¿½micamente Activa,8540363,5641720,2898643
+ENEMDU*,ago-21,2021,8,Empleo,8125322,5289816,2835506
+ENEMDU*,ago-22,2022,8,Otro Empleo no pleno,2429362,1523910,905453
+ENEMDU*,ago-22,2022,8,Empleo no clasificado,32726,32043,683
+ENEMDU*,ago-22,2022,8,Desempleo,343235,293199,50036
+ENEMDU*,ago-22,2022,8,Desempleo Abierto,302094,258185,43909
+ENEMDU*,ago-22,2022,8,Desempleo Oculto,41141,35013,6127
+ENEMDU*,ago-22,2022,8,Desempleo Cesante,249954,214017,35936
+ENEMDU*,ago-22,2022,8,Desempleo Nuevo,93281,79181,14100
+ENEMDU*,ago-22,2022,8,Poblaciï¿½n Econï¿½micamente Inactiva,4344328,3290998,1053329
+ENEMDU*,sep-22,2022,9,Poblaciï¿½n Total,18121687,12354198,5767489
+ENEMDU*,sep-22,2022,9,Poblaciï¿½n menor de 15 aï¿½os,5225686,3370207,1855479
+ENEMDU*,sep-22,2022,9,Poblaciï¿½n en Edad de Trabajar (PET),12896001,8983991,3912010
+ENEMDU*,sep-22,2022,9,Poblaciï¿½n Econï¿½micamente Activa,8693194,5684609,3008585
+ENEMDU*,sep-22,2022,9,Empleo,8338869,5389475,2949395
+ENEMDU*,may-23,2023,5,Poblaciï¿½n Econï¿½micamente Inactiva,4754045,3623971,1130074
+ENEMDU*,jun-23,2023,6,Poblaciï¿½n Total,18307520,12480922,5826598
+ENEMDU*,jun-23,2023,6,Poblaciï¿½n menor de 15 aï¿½os,5274772,3401881,1872891
+ENEMDU*,jun-23,2023,6,Poblaciï¿½n en Edad de Trabajar (PET),13032748,9079041,3953707
+ENEMDU*,jun-23,2023,6,Poblaciï¿½n Econï¿½micamente Activa,8441393,5561706,2879686
+ENEMDU*,jun-23,2023,6,Empleo,8117781,5283360,2834420
+ENEMDU*,jun-23,2023,6,Empleo Adecuado/Pleno,2908862,2427442,481420
+ENEMDU*,oct-20,2020,10,Empleo no clasificado,70495,64907,5588
+ENEMDU*,jun-23,2023,6,Subempleo,1698817,1068890,629927
+ENEMDU*,jun-23,2023,6,Subempleo por insuficiencia de tiempo de trabajo,1539779,979482,560297
+ENEMDU*,jun-23,2023,6,Subempleo por insuficiencia de ingresos,159038,89407,69630
+ENEMDU*,jun-23,2023,6,Empleo no remunerado,976772,245789,730983
+ENEMDU*,jun-23,2023,6,Otro Empleo no pleno,2506046,1519683,986363
+ENEMDU*,jun-23,2023,6,Empleo no clasificado,27284,21556,5728
+ENEMDU*,nov-20,2020,11,Empleo no clasificado,71642,67021,4621
+ENEMDU*,oct-20,2020,10,Desempleo,477372,413344,64029
+ENEMDU*,oct-20,2020,10,Desempleo Abierto,419232,366036,53196
+ENEMDU*,oct-20,2020,10,Desempleo Oculto,58141,47308,10833
+ENEMDU*,oct-20,2020,10,Desempleo Cesante,380733,333612,47121
+ENEMDU*,jun-21,2021,6,Desempleo Cesante,334708,297790,36919
+ENEMDU*,jun-21,2021,6,Desempleo Nuevo,92167,76765,15402
+ENEMDU*,jun-21,2021,6,Poblaciï¿½n Econï¿½micamente Inactiva,4326930,3286782,1040148
+ENEMDU*,nov-20,2020,11,Desempleo,460345,412566,47779
+ENEMDU*,nov-20,2020,11,Desempleo Abierto,398897,361858,37039
+ENEMDU*,nov-20,2020,11,Desempleo Oculto,61448,50708,10740
+ENEMDU*,nov-20,2020,11,Desempleo Cesante,374618,338398,36220
+ENEMDU*,nov-20,2020,11,Desempleo Nuevo,85728,74168,11559
+ENEMDU*,nov-20,2020,11,Poblaciï¿½n Econï¿½micamente Inactiva,4400485,3383009,1017476
+ENEMDU*,dic-20,2020,12,Poblaciï¿½n Total,17695545,12063706,5631839
+ENEMDU*,jul-21,2021,7,Poblaciï¿½n Total,17836481,12159788,5676693
+ENEMDU*,jul-21,2021,7,Poblaciï¿½n menor de 15 aï¿½os,5162538,3326837,1835701
+ENEMDU*,jul-21,2021,7,Poblaciï¿½n en Edad de Trabajar (PET),12673943,8832951,3840992
+ENEMDU*,jul-21,2021,7,Poblaciï¿½n Econï¿½micamente Activa,8277483,5496749,2780734
+ENEMDU*,jul-21,2021,7,Empleo,7850799,5145078,2705722
+ENEMDU*,jul-21,2021,7,Empleo Adecuado/Pleno,2631708,2119242,512466
+ENEMDU*,jul-21,2021,7,Subempleo,2035106,1389069,646037
+ENEMDU*,dic-20,2020,12,Poblaciï¿½n menor de 15 aï¿½os,5121746,3300550,1821196
+ENEMDU*,dic-20,2020,12,Poblaciï¿½n en Edad de Trabajar (PET),12573799,8763156,3810643
+ENEMDU*,dic-20,2020,12,Poblaciï¿½n Econï¿½micamente Activa,8084191,5358909,2725282
+ENEMDU*,dic-20,2020,12,Empleo,7687687,5035951,2651736
+ENEMDU*,dic-20,2020,12,Empleo Adecuado/Pleno,2458516,1993494,465022
+ENEMDU*,ago-21,2021,8,Empleo Adecuado/Pleno,2770656,2237145,533511
+ENEMDU*,ago-21,2021,8,Subempleo,1887050,1221012,666038
+ENEMDU*,jul-21,2021,7,Subempleo por insuficiencia de tiempo de trabajo,1814549,1261597,552952
+ENEMDU*,jul-21,2021,7,Subempleo por insuficiencia de ingresos,220556,127472,93084
+ENEMDU*,jul-21,2021,7,Empleo no remunerado,916424,259899,656525
+ENEMDU*,jul-22,2022,7,Desempleo Cesante,251080,216467,34613
+ENEMDU*,jul-22,2022,7,Desempleo Nuevo,81147,61539,19608
+ENEMDU*,jul-22,2022,7,Poblaciï¿½n Econï¿½micamente Inactiva,4286067,3290978,995088
+ENEMDU*,ago-22,2022,8,Poblaciï¿½n Total,18101202,12340242,5760960
+ENEMDU*,ago-21,2021,8,Subempleo por insuficiencia de tiempo de trabajo,1657001,1090839,566162
+ENEMDU*,ago-21,2021,8,Subempleo por insuficiencia de ingresos,230049,130173,99876
+ENEMDU*,ago-21,2021,8,Empleo no remunerado,950882,313241,637641
+ENEMDU*,ago-21,2021,8,Otro Empleo no pleno,2451125,1454867,996258
+ENEMDU*,ago-21,2021,8,Empleo no clasificado,65610,63551,2058
+ENEMDU*,ago-21,2021,8,Desempleo,415041,351904,63137
+ENEMDU*,ago-21,2021,8,Desempleo Abierto,366825,312992,53833
+ENEMDU*,ago-22,2022,8,Poblaciï¿½n menor de 15 aï¿½os,5220269,3366715,1853554
+ENEMDU*,ago-22,2022,8,Poblaciï¿½n en Edad de Trabajar (PET),12880933,8973527,3907406
+ENEMDU*,ago-22,2022,8,Poblaciï¿½n Econï¿½micamente Activa,8536605,5682529,2854077
+ENEMDU*,ago-22,2022,8,Empleo,8193371,5389330,2804041
+ENEMDU*,ago-22,2022,8,Empleo Adecuado/Pleno,2844726,2369318,475408
+ENEMDU*,ago-22,2022,8,Subempleo,1970437,1156397,814040
+ENEMDU*,ago-22,2022,8,Subempleo por insuficiencia de tiempo de trabajo,1723352,1055894,667458
+ENEMDU*,ago-21,2021,8,Desempleo Oculto,48216,38912,9304
+ENEMDU*,ago-21,2021,8,Desempleo Cesante,329454,278480,50973
+ENEMDU*,ago-21,2021,8,Desempleo Nuevo,85587,73424,12164
+ENEMDU*,ago-21,2021,8,Poblaciï¿½n Econï¿½micamente Inactiva,4158405,3205023,953382
+ENEMDU*,sep-22,2022,9,Empleo Adecuado/Pleno,3077801,2499579,578222
+ENEMDU*,ago-22,2022,8,Subempleo por insuficiencia de ingresos,247085,100503,146582
+ENEMDU*,ago-22,2022,8,Empleo no remunerado,916120,307662,608458
+ENEMDU*,may-23,2023,5,Empleo,7998639,5221252,2777386
+ENEMDU*,may-23,2023,5,Empleo Adecuado/Pleno,3005243,2469235,536008
+ENEMDU*,may-23,2023,5,Subempleo,1559193,977462,581731
+ENEMDU*,may-23,2023,5,Subempleo por insuficiencia de tiempo de trabajo,1464582,924852,539730
+ENEMDU*,may-23,2023,5,Subempleo por insuficiencia de ingresos,94611,52610,42001
+ENEMDU*,may-23,2023,5,Empleo no remunerado,886274,230207,656068
+ENEMDU*,may-23,2023,5,Otro Empleo no pleno,2526815,1524478,1002337
+ENEMDU*,may-23,2023,5,Empleo no clasificado,21113,19871,1242
+ENEMDU*,may-23,2023,5,Desempleo,264796,223211,41585
+ENEMDU*,may-23,2023,5,Desempleo Abierto,239376,203779,35597
+ENEMDU*,may-23,2023,5,Desempleo Oculto,25420,19432,5988
+ENEMDU*,may-23,2023,5,Desempleo Cesante,190735,161698,29037
+ENEMDU*,dic-22,2022,12,Desempleo Abierto,234246,202196,32050
+ENEMDU*,dic-22,2022,12,Desempleo Oculto,32696,27535,5162
+ENEMDU*,dic-22,2022,12,Desempleo Cesante,196508,170785,25723
+ENEMDU*,sep-23,2023,9,Otro Empleo no pleno,2566969,1509655,1057313
+ENEMDU*,sep-23,2023,9,Empleo no clasificado,41427,35240,6187
+ENEMDU*,sep-23,2023,9,Desempleo,322548,272956,49592
+ENEMDU*,sep-23,2023,9,Desempleo Abierto,290944,253527,37416
+ENEMDU*,sep-23,2023,9,Desempleo Cesante,247470,212194,35276
+ENEMDU*,sep-23,2023,9,Desempleo Nuevo,75078,60762,14316
+ENEMDU*,sep-23,2023,9,Poblaciï¿½n Econï¿½micamente Inactiva,4315758,3421604,894154
+ENEMDU*,oct-23,2023,10,Poblaciï¿½n Total,18432224,12565969,5866255
+ENEMDU*,oct-23,2023,10,Poblaciï¿½n menor de 15 aï¿½os,5332603,3436164,1896439
+ENEMDU*,sep-23,2023,9,Desempleo Oculto,31604,19428,12176
+ENEMDU*,oct-23,2023,10,Poblaciï¿½n en Edad de Trabajar (PET),13099621,9129805,3969816
+ENEMDU*,oct-23,2023,10,Poblaciï¿½n Econï¿½micamente Activa,8393864,5493021,2900842
+ENEMDU*,oct-23,2023,10,Empleo,8095039,5241330,2853709
+ENEMDU*,mar-21,2021,3,Empleo,7661623,4954518,2707105
+ENEMDU*,mar-21,2021,3,Empleo Adecuado/Pleno,2547396,2055971,491425
+ENEMDU*,mar-21,2021,3,Subempleo,1853492,1232621,620871
+ENEMDU*,mar-21,2021,3,Subempleo por insuficiencia de tiempo de trabajo,1674864,1118501,556364
+ENEMDU*,mar-21,2021,3,Subempleo por insuficiencia de ingresos,178627,114120,64507
+ENEMDU*,mar-21,2021,3,Empleo no remunerado,1015623,307820,707803
+ENEMDU*,mar-21,2021,3,Otro Empleo no pleno,2190745,1308886,881859
+ENEMDU*,mar-21,2021,3,Empleo no clasificado,54368,49221,5147
+ENEMDU*,mar-21,2021,3,Desempleo,392631,321722,70909
+ENEMDU*,mar-21,2021,3,Desempleo Abierto,336608,278076,58533
+ENEMDU*,mar-21,2021,3,Desempleo Oculto,56022,43646,12377
+ENEMDU*,mar-21,2021,3,Desempleo Cesante,305788,252673,53114
+ENEMDU*,mar-21,2021,3,Desempleo Nuevo,86843,69048,17795
+ENEMDU*,feb-21,2021,2,Desempleo,447181,374058,73124
+ENEMDU*,feb-21,2021,2,Desempleo Abierto,396347,327354,68993
+ENEMDU*,feb-21,2021,2,Desempleo Oculto,50834,46704,4130
+ENEMDU*,feb-21,2021,2,Desempleo Cesante,354842,310861,43981
+ENEMDU*,feb-21,2021,2,Desempleo Nuevo,92339,63197,29143
+ENEMDU*,feb-21,2021,2,Poblaciï¿½n Econï¿½micamente Inactiva,4364629,3360486,1004144
+ENEMDU*,mar-21,2021,3,Poblaciï¿½n Total,17755809,12104788,5651021
+ENEMDU*,mar-21,2021,3,Poblaciï¿½n menor de 15 aï¿½os,5139189,3311790,1827399
+ENEMDU*,mar-21,2021,3,Poblaciï¿½n en Edad de Trabajar (PET),12616620,8792998,3823622
+ENEMDU*,mar-21,2021,3,Poblaciï¿½n Econï¿½micamente Activa,8054254,5276240,2778014
+ENEMDU*,nov-21,2021,11,Poblaciï¿½n Econï¿½micamente Activa,8479555,5570456,2909099
+ENEMDU*,nov-21,2021,11,Empleo,8105431,5246387,2859045
+ENEMDU*,nov-21,2021,11,Empleo Adecuado/Pleno,2857882,2326501,531382
+ENEMDU*,nov-21,2021,11,Subempleo,2076425,1276667,799759
+ENEMDU*,nov-21,2021,11,Subempleo por insuficiencia de tiempo de trabajo,1839448,1158153,681296
+ENEMDU*,nov-21,2021,11,Subempleo por insuficiencia de ingresos,236977,118514,118463
+ENEMDU*,nov-21,2021,11,Empleo no remunerado,845813,270324,575490
+ENEMDU*,nov-21,2021,11,Otro Empleo no pleno,2264066,1313510,950556
+ENEMDU*,nov-21,2021,11,Empleo no clasificado,61244,59385,1859
+ENEMDU*,nov-21,2021,11,Desempleo,374124,324069,50054
+ENEMDU*,nov-21,2021,11,Desempleo Abierto,345518,302021,43497
+ENEMDU*,nov-21,2021,11,Desempleo Oculto,28606,22048,6558
+ENEMDU*,nov-21,2021,11,Desempleo Cesante,278487,245805,32682
+ENEMDU*,dic-22,2022,12,Poblaciï¿½n Econï¿½micamente Activa,8357837,5465707,2892130
+ENEMDU*,dic-22,2022,12,Empleo,8090895,5235977,2854918
+ENEMDU*,dic-22,2022,12,Empleo Adecuado/Pleno,3011800,2433701,578099
+ENEMDU*,dic-22,2022,12,Subempleo,1618846,1081992,536854
+ENEMDU*,dic-22,2022,12,Subempleo por insuficiencia de tiempo de trabajo,1496089,1008692,487396
+ENEMDU*,dic-22,2022,12,Subempleo por insuficiencia de ingresos,122757,73300,49457
+ENEMDU*,dic-22,2022,12,Empleo no remunerado,893980,240971,653008
+ENEMDU*,dic-22,2022,12,Otro Empleo no pleno,2549766,1463141,1086625
+ENEMDU*,dic-22,2022,12,Empleo no clasificado,16504,16172,332
+ENEMDU*,dic-22,2022,12,Desempleo,266942,229730,37212
+ENEMDU*,sep-23,2023,9,Empleo Adecuado/Pleno,3110029,2569149,540880
+ENEMDU*,sep-23,2023,9,Subempleo,1768245,1108056,660189
+ENEMDU*,sep-23,2023,9,Subempleo por insuficiencia de tiempo de trabajo,1626341,1046986,579355
+ENEMDU*,sep-23,2023,9,Subempleo por insuficiencia de ingresos,141904,61070,80834
+ENEMDU*,sep-23,2023,9,Empleo no remunerado,959776,202798,756977
+ENEMDU*,feb-21,2021,2,Empleo no remunerado,991265,320368,670896
+ENEMDU*,feb-21,2021,2,Otro Empleo no pleno,2207163,1266139,941025
+ENEMDU*,ene-21,2021,1,Subempleo por insuficiencia de tiempo de trabajo,1654387,1080671,573715
+ENEMDU*,ene-21,2021,1,Subempleo por insuficiencia de ingresos,226064,144963,81101
+ENEMDU*,ene-21,2021,1,Empleo no remunerado,1089328,337443,751885
+ENEMDU*,ene-21,2021,1,Otro Empleo no pleno,2193853,1219345,974508
+ENEMDU*,ene-21,2021,1,Empleo no clasificado,66268,63925,2343
+ENEMDU*,ene-21,2021,1,Desempleo,445172,377232,67940
+ENEMDU*,ene-21,2021,1,Desempleo Abierto,375611,320435,55176
+ENEMDU*,feb-21,2021,2,Empleo no clasificado,92833,86443,6390
+ENEMDU*,sep-21,2021,9,Desempleo Abierto,365938,327679,38259
+ENEMDU*,sep-21,2021,9,Desempleo Oculto,46503,35924,10579
+ENEMDU*,sep-21,2021,9,Desempleo Cesante,326590,292200,34390
+ENEMDU*,sep-21,2021,9,Desempleo Nuevo,85851,71403,14448
+ENEMDU*,sep-21,2021,9,Poblaciï¿½n Econï¿½micamente Inactiva,4234518,3272467,962051
+ENEMDU*,oct-21,2021,10,Poblaciï¿½n Total,17897230,12201204,5696026
+ENEMDU*,oct-21,2021,10,Poblaciï¿½n menor de 15 aï¿½os,5168642,3333702,1834940
+ENEMDU*,oct-21,2021,10,Poblaciï¿½n en Edad de Trabajar (PET),12728588,8867502,3861086
+ENEMDU*,oct-21,2021,10,Poblaciï¿½n Econï¿½micamente Activa,8398347,5560082,2838265
+ENEMDU*,oct-21,2021,10,Empleo,8014144,5240876,2773268
+ENEMDU*,oct-21,2021,10,Empleo Adecuado/Pleno,2684258,2237457,446800
+ENEMDU*,oct-21,2021,10,Subempleo,2005393,1269913,735480
+ENEMDU*,oct-21,2021,10,Subempleo por insuficiencia de tiempo de trabajo,1789372,1161744,627628
+ENEMDU*,oct-22,2022,10,Desempleo Abierto,310815,265297,45518
+ENEMDU*,oct-22,2022,10,Desempleo Oculto,43694,36539,7156
+ENEMDU*,oct-22,2022,10,Desempleo Cesante,238750,204461,34289
+ENEMDU*,oct-22,2022,10,Desempleo Nuevo,115760,97375,18385
+ENEMDU*,oct-22,2022,10,Poblaciï¿½n Econï¿½micamente Inactiva,4233323,3254769,978554
+ENEMDU*,nov-22,2022,11,Poblaciï¿½n Total,18162830,12382219,5780611
+ENEMDU*,nov-22,2022,11,Poblaciï¿½n menor de 15 aï¿½os,5236541,3377201,1859340
+ENEMDU*,nov-22,2022,11,Poblaciï¿½n en Edad de Trabajar (PET),12926289,9005018,3921271
+ENEMDU*,nov-22,2022,11,Poblaciï¿½n Econï¿½micamente Activa,8380304,5596290,2784013
+ENEMDU*,nov-22,2022,11,Empleo,8061941,5332131,2729810
+ENEMDU*,nov-22,2022,11,Empleo Adecuado/Pleno,2981886,2495941,485944
+ENEMDU*,nov-22,2022,11,Subempleo,1921319,1153629,767689
+ENEMDU*,nov-22,2022,11,Subempleo por insuficiencia de tiempo de trabajo,1670045,1035788,634257
+ENEMDU*,ago-23,2023,8,Poblaciï¿½n en Edad de Trabajar (PET),13069937,9109145,3960792
+ENEMDU*,ago-23,2023,8,Poblaciï¿½n Econï¿½micamente Activa,8507480,5588678,2918803
+ENEMDU*,ago-23,2023,8,Empleo,8211821,5334922,2876899
+ENEMDU*,ago-23,2023,8,Empleo Adecuado/Pleno,2975380,2444988,530391
+ENEMDU*,ago-23,2023,8,Subempleo,1800406,1144490,655916
+ENEMDU*,ago-23,2023,8,Subempleo por insuficiencia de tiempo de trabajo,1674319,1081120,593199
+ENEMDU*,ago-23,2023,8,Subempleo por insuficiencia de ingresos,126087,63370,62717
+ENEMDU*,ago-23,2023,8,Empleo no remunerado,895083,234297,660786
+ENEMDU*,ago-23,2023,8,Otro Empleo no pleno,2518471,1489630,1028841
+ENEMDU*,ago-23,2023,8,Empleo no clasificado,22481,21517,964
+ENEMDU*,ago-23,2023,8,Desempleo,295660,253756,41904
+ENEMDU*,ago-23,2023,8,Desempleo Abierto,274025,234570,39454
+ENEMDU*,ago-23,2023,8,Desempleo Oculto,21635,19185,2450
+ENEMDU*,ene-21,2021,1,Desempleo Oculto,69560,56797,12763
+ENEMDU*,ene-21,2021,1,Desempleo Cesante,333142,281482,51659
+ENEMDU*,ene-21,2021,1,Desempleo Nuevo,112030,95750,16280
+ENEMDU*,ene-21,2021,1,Poblaciï¿½n Econï¿½micamente Inactiva,4241960,3343363,898597
+ENEMDU*,feb-21,2021,2,Poblaciï¿½n Total,17735700,12091079,5644621
+ENEMDU*,feb-21,2021,2,Poblaciï¿½n menor de 15 aï¿½os,5133368,3308039,1825329
+ENEMDU*,feb-21,2021,2,Poblaciï¿½n en Edad de Trabajar (PET),12602332,8783040,3819292
+ENEMDU*,feb-21,2021,2,Poblaciï¿½n Econï¿½micamente Activa,8237703,5422554,2815148
+ENEMDU*,feb-21,2021,2,Empleo,7790521,5048496,2742025
+ENEMDU*,feb-21,2021,2,Empleo Adecuado/Pleno,2575860,2101635,474225
+ENEMDU*,feb-21,2021,2,Subempleo,1923400,1273912,649488
+ENEMDU*,feb-21,2021,2,Subempleo por insuficiencia de tiempo de trabajo,1700036,1133133,566903
+ENEMDU*,feb-21,2021,2,Subempleo por insuficiencia de ingresos,223364,140779,82586
+ENEMDU*,oct-21,2021,10,Subempleo por insuficiencia de ingresos,216021,108169,107852
+ENEMDU*,oct-21,2021,10,Empleo no remunerado,947623,289744,657879
+ENEMDU*,oct-21,2021,10,Otro Empleo no pleno,2325638,1397591,928046
+ENEMDU*,oct-21,2021,10,Empleo no clasificado,51233,46170,5063
+ENEMDU*,oct-21,2021,10,Desempleo,384204,319206,64997
+ENEMDU*,oct-21,2021,10,Desempleo Abierto,336101,291606,44495
+ENEMDU*,oct-22,2022,10,Otro Empleo no pleno,2637893,1498951,1138942
+ENEMDU*,oct-21,2021,10,Desempleo Oculto,48103,27600,20503
+ENEMDU*,oct-21,2021,10,Desempleo Cesante,298846,257856,40991
+ENEMDU*,oct-21,2021,10,Desempleo Nuevo,85358,61351,24007
+ENEMDU*,oct-21,2021,10,Poblaciï¿½n Econï¿½micamente Inactiva,4330241,3307420,1022821
+ENEMDU*,nov-21,2021,11,Poblaciï¿½n Total,17917508,12215016,5702492
+ENEMDU*,nov-21,2021,11,Poblaciï¿½n menor de 15 aï¿½os,5174001,3337135,1836866
+ENEMDU*,nov-21,2021,11,Poblaciï¿½n en Edad de Trabajar (PET),12743507,8877881,3865626
+ENEMDU*,oct-22,2022,10,Empleo no clasificado,11546,11154,391
+ENEMDU*,oct-22,2022,10,Desempleo,354509,301836,52673
+ENEMDU*,jul-23,2023,7,Subempleo por insuficiencia de tiempo de trabajo,1585742,928672,657070
+ENEMDU*,jul-23,2023,7,Subempleo por insuficiencia de ingresos,113334,62581,50753
+ENEMDU*,jul-23,2023,7,Empleo no remunerado,884198,238291,645907
+ENEMDU*,jul-23,2023,7,Otro Empleo no pleno,2525133,1560951,964181
+ENEMDU*,jul-23,2023,7,Empleo no clasificado,14334,12467,1866
+ENEMDU*,nov-22,2022,11,Subempleo por insuficiencia de ingresos,251273,117841,133432
+ENEMDU*,nov-22,2022,11,Empleo no remunerado,743203,226003,517200
+ENEMDU*,nov-22,2022,11,Otro Empleo no pleno,2398662,1440813,957848
+ENEMDU*,nov-22,2022,11,Empleo no clasificado,16872,15744,1128
+ENEMDU*,nov-22,2022,11,Desempleo,318363,264159,54204
+ENEMDU*,nov-22,2022,11,Desempleo Abierto,282494,234256,48238
+ENEMDU*,nov-22,2022,11,Desempleo Oculto,35869,29903,5966
+ENEMDU*,jul-23,2023,7,Desempleo,312283,275095,37187
+ENEMDU*,jul-23,2023,7,Desempleo Abierto,280743,248553,32190
+ENEMDU*,jul-23,2023,7,Desempleo Oculto,31539,26542,4998
+ENEMDU*,jul-23,2023,7,Desempleo Cesante,232159,202605,29553
+ENEMDU*,jul-23,2023,7,Desempleo Nuevo,80124,72490,7634
+ENEMDU*,jul-23,2023,7,Poblaciï¿½n Econï¿½micamente Inactiva,4632024,3544522,1087502
+ENEMDU*,ago-23,2023,8,Poblaciï¿½n Total,18390471,12537532,5852939
+ENEMDU*,nov-22,2022,11,Desempleo Cesante,228400,196406,31994
+ENEMDU*,nov-22,2022,11,Desempleo Nuevo,89963,67753,22210
+ENEMDU*,nov-22,2022,11,Poblaciï¿½n Econï¿½micamente Inactiva,4545985,3408728,1137258
+ENEMDU*,dic-22,2022,12,Poblaciï¿½n Total,18183483,12396320,5787163
+ENEMDU*,dic-22,2022,12,Poblaciï¿½n menor de 15 aï¿½os,5242003,3380743,1861260
+ENEMDU*,dic-22,2022,12,Poblaciï¿½n en Edad de Trabajar (PET),12941480,9015577,3925903
+ENEMDU*,ago-23,2023,8,Desempleo Cesante,199132,173471,25662
+ENEMDU*,ago-23,2023,8,Poblaciï¿½n menor de 15 aï¿½os,5320534,3428387,1892147
+ENEMDU*,ene-21,2021,1,Poblaciï¿½n menor de 15 aï¿½os,5127554,3304292,1823262
+ENEMDU*,ene-21,2021,1,Poblaciï¿½n en Edad de Trabajar (PET),12588061,8773094,3814967
+ENEMDU*,ene-21,2021,1,Poblaciï¿½n Econï¿½micamente Activa,8346101,5429731,2916370
+ENEMDU*,ene-21,2021,1,Empleo,7900929,5052499,2848431
+ENEMDU*,ene-21,2021,1,Empleo Adecuado/Pleno,2671030,2206151,464879
+ENEMDU*,ene-21,2021,1,Subempleo,1880451,1225634,654816
+ENEMDU*,ago-23,2023,8,Desempleo Nuevo,96527,80285,16242
+ENEMDU*,ago-23,2023,8,Poblaciï¿½n Econï¿½micamente Inactiva,4562457,3520467,1041990
+ENEMDU*,sep-23,2023,9,Poblaciï¿½n Total,18411314,12551722,5859592
+ENEMDU*,sep-23,2023,9,Poblaciï¿½n menor de 15 aï¿½os,5326564,3432264,1894300
+ENEMDU*,sep-23,2023,9,Poblaciï¿½n en Edad de Trabajar (PET),13084750,9119458,3965292
+ENEMDU*,sep-23,2023,9,Poblaciï¿½n Econï¿½micamente Activa,8768992,5697854,3071138
+ENEMDU*,sep-23,2023,9,Empleo,8446444,5424898,3021546
+ENEMDU,jun-19,2019,6,Desempleo Abierto,302374,256581,45793
+ENEMDU,jun-19,2019,6,Desempleo Oculto,63790,45944,17846
+ENEMDU,jun-19,2019,6,Desempleo Cesante,248305,208495,39811
+ENEMDU,jun-19,2019,6,Desempleo Nuevo,117858,94030,23828
+ENEMDU,jun-19,2019,6,Poblaciï¿½n Econï¿½micamente Inactiva,4084245,3145500,938744
+ENEMDU,sep-19,2019,9,Poblaciï¿½n Total,17393811,11857315,5536496
+ENEMDU,sep-19,2019,9,Poblaciï¿½n menor de 15 aï¿½os,5034411,3244220,1790191
+ENEMDU,sep-19,2019,9,Poblaciï¿½n Econï¿½micamente Activa,8379355,5567995,2811361
+ENEMDU,sep-19,2019,9,Empleo,7972485,5237053,2735431
+ENEMDU,dic-18,2018,12,Subempleo por insuficiencia de tiempo de trabajo,1074228,716073,358155
+ENEMDU,dic-18,2018,12,Subempleo por insuficiencia de ingresos,249497,162355,87142
+ENEMDU,dic-18,2018,12,Empleo no remunerado,798391,261391,537000
+ENEMDU,sep-19,2019,9,Poblaciï¿½n en Edad de Trabajar (PET),12359400,8613095,3746305
+ENEMDU*,abr-22,2022,4,Desempleo Nuevo,91371,71231,20141
+ENEMDU,dic-09,2009,12,Empleo no clasificado,127047,120344,6703
+ENEMDU,dic-09,2009,12,Desempleo,423802,347068,76734
+ENEMDU,dic-18,2018,12,Otro Empleo no pleno,2313023,1300129,1012895
+ENEMDU,dic-18,2018,12,Empleo no clasificado,33814,32499,1315
+ENEMDU,dic-18,2018,12,Desempleo,296097,258619,37478
+ENEMDU,dic-18,2018,12,Desempleo Abierto,239361,215943,23417
+ENEMDU,dic-18,2018,12,Desempleo Oculto,56737,42676,14061
+ENEMDU,dic-18,2018,12,Desempleo Cesante,195168,175295,19873
+ENEMDU,dic-18,2018,12,Desempleo Nuevo,100929,83323,17605
+ENEMDU,dic-18,2018,12,Poblaciï¿½n Econï¿½micamente Inactiva,4211893,3150209,1061684
+ENEMDU,mar-19,2019,3,Poblaciï¿½n Total,17272020,11773337,5498683
+ENEMDU,mar-19,2019,3,Poblaciï¿½n menor de 15 aï¿½os,4999163,3220836,1778327
+ENEMDU*,feb-22,2022,2,Poblaciï¿½n menor de 15 aï¿½os,5187822,3345796,1842026
+ENEMDU*,feb-22,2022,2,Poblaciï¿½n en Edad de Trabajar (PET),12790651,8910782,3879869
+ENEMDU*,feb-22,2022,2,Poblaciï¿½n Econï¿½micamente Activa,8482096,5573378,2908718
+ENEMDU*,feb-22,2022,2,Empleo,8114443,5269597,2844845
+ENEMDU*,feb-22,2022,2,Empleo Adecuado/Pleno,2685359,2208088,477271
+ENEMDU*,feb-22,2022,2,Subempleo,1984800,1272257,712543
+ENEMDU*,feb-22,2022,2,Subempleo por insuficiencia de tiempo de trabajo,1754297,1120110,634187
+ENEMDU*,feb-22,2022,2,Subempleo por insuficiencia de ingresos,230502,152147,78356
+ENEMDU*,feb-22,2022,2,Empleo no remunerado,925558,269697,655860
+ENEMDU*,feb-22,2022,2,Otro Empleo no pleno,2499556,1502170,997386
+ENEMDU*,feb-22,2022,2,Empleo no clasificado,19170,17385,1785
+ENEMDU*,feb-22,2022,2,Desempleo,367654,303781,63873
+ENEMDU*,feb-22,2022,2,Desempleo Abierto,314250,269234,45016
+ENEMDU*,abr-22,2022,4,Empleo,8124631,5344862,2779769
+ENEMDU*,abr-22,2022,4,Empleo Adecuado/Pleno,2770255,2280587,489668
+ENEMDU*,abr-22,2022,4,Subempleo,2041359,1397635,643724
+ENEMDU*,abr-22,2022,4,Subempleo por insuficiencia de tiempo de trabajo,1883288,1289625,593663
+ENEMDU*,abr-22,2022,4,Subempleo por insuficiencia de ingresos,158071,108010,50061
+ENEMDU*,abr-22,2022,4,Empleo no remunerado,902331,243409,658921
+ENEMDU*,abr-22,2022,4,Otro Empleo no pleno,2395780,1408607,987173
+ENEMDU*,abr-22,2022,4,Empleo no clasificado,14906,14623,283
+ENEMDU*,abr-22,2022,4,Desempleo,399432,332235,67197
+ENEMDU*,abr-22,2022,4,Desempleo Abierto,359062,305684,53378
+ENEMDU*,abr-22,2022,4,Desempleo Oculto,40371,26551,13819
+ENEMDU*,abr-22,2022,4,Desempleo Cesante,308061,261004,47056
+ENEMDU*,mar-22,2022,3,Desempleo Cesante,315239,276502,38737
+ENEMDU*,mar-22,2022,3,Desempleo Nuevo,82406,62496,19911
+ENEMDU*,mar-22,2022,3,Poblaciï¿½n Econï¿½micamente Inactiva,4491099,3440463,1050635
+ENEMDU*,abr-22,2022,4,Poblaciï¿½n Total,18019269,12284388,5734881
+ENEMDU*,abr-22,2022,4,Poblaciï¿½n menor de 15 aï¿½os,5198632,3352764,1845868
+ENEMDU*,abr-22,2022,4,Poblaciï¿½n en Edad de Trabajar (PET),12820637,8931624,3889013
+ENEMDU*,abr-22,2022,4,Poblaciï¿½n Econï¿½micamente Activa,8524063,5677097,2846966
+ENEMDU,jun-19,2019,6,Otro Empleo no pleno,2169741,1230909,938832
+ENEMDU,jun-19,2019,6,Empleo no clasificado,49282,46477,2805
+ENEMDU,jun-19,2019,6,Desempleo,366163,302525,63639
+ENEMDU,sep-18,2018,9,Desempleo Cesante,230035,205023,25012
+ENEMDU,sep-18,2018,9,Desempleo Nuevo,102783,81811,20972
+ENEMDU,sep-18,2018,9,Poblaciï¿½n Econï¿½micamente Inactiva,3873320,2943601,929719
+ENEMDU,dic-18,2018,12,Poblaciï¿½n Total,17223542,11748197,5475345
+ENEMDU,dic-18,2018,12,Poblaciï¿½n menor de 15 aï¿½os,4984519,3213682,1770837
+ENEMDU,dic-18,2018,12,Poblaciï¿½n en Edad de Trabajar (PET),12239023,8534515,3704508
+ENEMDU,dic-18,2018,12,Poblaciï¿½n Econï¿½micamente Activa,8027130,5384306,2642824
+ENEMDU*,nov-21,2021,11,Desempleo Nuevo,95637,78264,17372
+ENEMDU*,nov-21,2021,11,Poblaciï¿½n Econï¿½micamente Inactiva,4263952,3307425,956527
+ENEMDU*,dic-21,2021,12,Poblaciï¿½n Total,17937815,12228837,5708978
+ENEMDU,dic-18,2018,12,Empleo,7731032,5125687,2605345
+ENEMDU,dic-18,2018,12,Empleo Adecuado/Pleno,3262079,2653241,608838
+ENEMDU,dic-18,2018,12,Subempleo,1323724,878428,445297
+ENEMDU*,ene-22,2022,1,Subempleo,1923563,1271645,651918
+ENEMDU*,ene-22,2022,1,Subempleo por insuficiencia de tiempo de trabajo,1722143,1165298,556845
+ENEMDU*,ene-22,2022,1,Subempleo por insuficiencia de ingresos,201420,106347,95074
+ENEMDU*,ene-22,2022,1,Empleo no remunerado,1067315,277546,789768
+ENEMDU*,dic-21,2021,12,Poblaciï¿½n menor de 15 aï¿½os,5179377,3340619,1838758
+ENEMDU*,dic-21,2021,12,Poblaciï¿½n en Edad de Trabajar (PET),12758438,8888218,3870220
+ENEMDU*,dic-21,2021,12,Poblaciï¿½n Econï¿½micamente Activa,8602937,5710393,2892544
+ENEMDU*,dic-21,2021,12,Empleo,8246212,5405460,2840753
+ENEMDU*,dic-21,2021,12,Empleo Adecuado/Pleno,2919910,2340774,579136
+ENEMDU*,dic-21,2021,12,Subempleo,1976088,1225882,750206
+ENEMDU*,dic-21,2021,12,Subempleo por insuficiencia de tiempo de trabajo,1759315,1100195,659120
+ENEMDU*,ene-22,2022,1,Otro Empleo no pleno,2195548,1261006,934542
+ENEMDU*,ene-22,2022,1,Empleo no clasificado,46835,44753,2082
+ENEMDU*,ene-22,2022,1,Desempleo,458573,410412,48161
+ENEMDU*,ene-22,2022,1,Desempleo Abierto,385702,349865,35837
+ENEMDU*,ene-22,2022,1,Desempleo Oculto,72871,60547,12324
+ENEMDU*,ene-22,2022,1,Desempleo Cesante,356261,320116,36145
+ENEMDU*,ene-22,2022,1,Desempleo Nuevo,102313,90296,12017
+ENEMDU*,dic-21,2021,12,Subempleo por insuficiencia de ingresos,216773,125687,91086
+ENEMDU*,dic-21,2021,12,Empleo no remunerado,926055,321360,604695
+ENEMDU*,dic-21,2021,12,Otro Empleo no pleno,2381839,1477646,904194
+ENEMDU*,dic-22,2022,12,Desempleo Nuevo,70434,58945,11489
+ENEMDU*,dic-22,2022,12,Poblaciï¿½n Econï¿½micamente Inactiva,4583643,3549870,1033773
+ENEMDU*,ene-23,2023,1,Poblaciï¿½n Total,18204042,12410344,5793698
+ENEMDU*,ene-23,2023,1,Poblaciï¿½n menor de 15 aï¿½os,5247467,3384258,1863209
+ENEMDU*,ene-22,2022,1,Poblaciï¿½n Econï¿½micamente Inactiva,4270543,3328100,942443
+ENEMDU*,feb-22,2022,2,Poblaciï¿½n Total,17978473,12256578,5721895
+ENEMDU*,mar-22,2022,3,Empleo no remunerado,880365,280460,599905
+ENEMDU*,mar-22,2022,3,Otro Empleo no pleno,2365496,1394211,971286
+ENEMDU*,mar-22,2022,3,Empleo no clasificado,38778,38778,0
+ENEMDU*,mar-22,2022,3,Desempleo,397645,338998,58647
+ENEMDU*,mar-22,2022,3,Desempleo Abierto,354404,307340,47064
+ENEMDU*,ene-23,2023,1,Poblaciï¿½n en Edad de Trabajar (PET),12956575,9026086,3930489
+ENEMDU*,ene-23,2023,1,Poblaciï¿½n Econï¿½micamente Activa,8568867,5621742,2947125
+ENEMDU*,ene-23,2023,1,Empleo,8247269,5343715,2903553
+ENEMDU*,ene-23,2023,1,Empleo Adecuado/Pleno,2982924,2495468,487455
+ENEMDU*,ene-23,2023,1,Subempleo,1656685,1088632,568053
+ENEMDU*,ene-23,2023,1,Subempleo por insuficiencia de tiempo de trabajo,1552157,1027340,524817
+ENEMDU*,ene-23,2023,1,Subempleo por insuficiencia de ingresos,104528,61292,43236
+ENEMDU*,mar-22,2022,3,Desempleo Oculto,43241,31657,11584
+ENEMDU*,ene-23,2023,1,Empleo no remunerado,987221,241504,745717
+ENEMDU*,ene-23,2023,1,Otro Empleo no pleno,2578442,1476710,1101732
+ENEMDU*,oct-23,2023,10,Empleo Adecuado/Pleno,2923165,2435874,487291
+ENEMDU*,oct-23,2023,10,Subempleo,1534925,1013269,521656
+ENEMDU*,oct-23,2023,10,Subempleo por insuficiencia de tiempo de trabajo,1409862,953232,456631
+ENEMDU*,oct-23,2023,10,Subempleo por insuficiencia de ingresos,125063,60037,65025
+ENEMDU*,oct-23,2023,10,Empleo no remunerado,969520,228630,740890
+ENEMDU*,oct-23,2023,10,Otro Empleo no pleno,2660249,1556377,1103871
+ENEMDU*,oct-23,2023,10,Empleo no clasificado,7180,7180,0
+ENEMDU*,oct-23,2023,10,Desempleo,298825,251691,47134
+ENEMDU*,oct-23,2023,10,Desempleo Abierto,266756,227554,39202
+ENEMDU*,oct-23,2023,10,Desempleo Oculto,32069,24137,7932
+ENEMDU*,oct-23,2023,10,Desempleo Cesante,216746,184632,32114
+ENEMDU*,oct-23,2023,10,Desempleo Nuevo,82079,67059,15020
+ENEMDU*,oct-23,2023,10,Poblaciï¿½n Econï¿½micamente Inactiva,4705758,3636784,1068974
+ENEMDU,jun-18,2018,6,Poblaciï¿½n Econï¿½micamente Inactiva,4044977,3080720,964257
+ENEMDU,sep-18,2018,9,Poblaciï¿½n Total,17084713,11650950,5433763
+ENEMDU,sep-18,2018,9,Poblaciï¿½n menor de 15 aï¿½os,4944950,3187834,1757116
+ENEMDU,sep-18,2018,9,Poblaciï¿½n en Edad de Trabajar (PET),12139763,8463116,3676647
+ENEMDU,sep-18,2018,9,Poblaciï¿½n Econï¿½micamente Activa,8266443,5519515,2746928
+ENEMDU,sep-18,2018,9,Empleo,7933625,5232681,2700944
+ENEMDU,sep-18,2018,9,Empleo Adecuado/Pleno,3274463,2691697,582766
+ENEMDU,sep-18,2018,9,Subempleo,1605884,987731,618153
+ENEMDU,sep-18,2018,9,Subempleo por insuficiencia de tiempo de trabajo,1296762,808250,488512
+ENEMDU,sep-18,2018,9,Subempleo por insuficiencia de ingresos,309122,179481,129641
+ENEMDU,sep-18,2018,9,Empleo no remunerado,879552,290093,589459
+ENEMDU,sep-18,2018,9,Otro Empleo no pleno,2124567,1216217,908350
+ENEMDU,sep-18,2018,9,Empleo no clasificado,49159,46943,2216
+ENEMDU*,dic-21,2021,12,Empleo no clasificado,42320,39798,2522
+ENEMDU*,dic-21,2021,12,Desempleo,356725,304933,51792
+ENEMDU*,dic-21,2021,12,Desempleo Abierto,317561,280886,36674
+ENEMDU*,dic-21,2021,12,Desempleo Oculto,39164,24047,15117
+ENEMDU*,dic-21,2021,12,Desempleo Cesante,284063,247566,36497
+ENEMDU*,dic-21,2021,12,Desempleo Nuevo,72662,57368,15294
+ENEMDU*,dic-21,2021,12,Poblaciï¿½n Econï¿½micamente Inactiva,4155501,3177825,977676
+ENEMDU*,ene-22,2022,1,Poblaciï¿½n Total,17958067,12242702,5715365
+ENEMDU*,ene-22,2022,1,Poblaciï¿½n menor de 15 aï¿½os,5182430,3342319,1840111
+ENEMDU*,ene-22,2022,1,Poblaciï¿½n en Edad de Trabajar (PET),12775637,8900383,3875254
+ENEMDU*,ene-22,2022,1,Poblaciï¿½n Econï¿½micamente Activa,8505094,5572283,2932811
+ENEMDU*,ene-22,2022,1,Empleo,8046520,5161871,2884649
+ENEMDU*,ene-22,2022,1,Empleo Adecuado/Pleno,2813259,2306921,506338
+ENEMDU*,ene-23,2023,1,Empleo no clasificado,41997,41401,596
+ENEMDU*,ene-23,2023,1,Desempleo,321598,278026,43572
+ENEMDU*,ene-23,2023,1,Desempleo Abierto,272533,237729,34804
+ENEMDU*,ene-23,2023,1,Desempleo Oculto,49065,40297,8768
+ENEMDU*,ene-23,2023,1,Desempleo Cesante,241769,213821,27948
+ENEMDU*,ene-23,2023,1,Desempleo Nuevo,79829,64205,15624
+ENEMDU*,ene-23,2023,1,Poblaciï¿½n Econï¿½micamente Inactiva,4387708,3404344,983364
+ENEMDU*,feb-23,2023,2,Poblaciï¿½n Total,18224686,12424445,5800241
+ENEMDU*,feb-23,2023,2,Poblaciï¿½n menor de 15 aï¿½os,5252920,3387781,1865139
+ENEMDU*,feb-23,2023,2,Poblaciï¿½n en Edad de Trabajar (PET),12971766,9036664,3935102
+ENEMDU*,feb-23,2023,2,Poblaciï¿½n Econï¿½micamente Activa,8507794,5597520,2910274
+ENEMDU*,feb-23,2023,2,Empleo,8179132,5307930,2871202
+ENEMDU*,feb-23,2023,2,Empleo Adecuado/Pleno,2803265,2326670,476595
+ENEMDU,mar-19,2019,3,Desempleo Cesante,281108,236596,44511
+ENEMDU,mar-19,2019,3,Desempleo Nuevo,95147,77855,17292
+ENEMDU,mar-19,2019,3,Poblaciï¿½n Econï¿½micamente Inactiva,4110070,3154589,955481
+ENEMDU,jun-19,2019,6,Poblaciï¿½n Total,17332994,11799598,5533396
+ENEMDU,jun-19,2019,6,Poblaciï¿½n menor de 15 aï¿½os,5016800,3226438,1790362
+ENEMDU,jun-19,2019,6,Poblaciï¿½n en Edad de Trabajar (PET),12316194,8573161,3743033
+ENEMDU,jun-19,2019,6,Poblaciï¿½n Econï¿½micamente Activa,8231949,5427660,2804289
+ENEMDU,jun-19,2019,6,Empleo,7865786,5125136,2740650
+ENEMDU,jun-19,2019,6,Empleo Adecuado/Pleno,3123743,2548973,574770
+ENEMDU,jun-19,2019,6,Subempleo,1667278,1035658,631620
+ENEMDU,jun-19,2019,6,Subempleo por insuficiencia de tiempo de trabajo,1377417,870880,506538
+ENEMDU,jun-19,2019,6,Subempleo por insuficiencia de ingresos,289861,164778,125082
+ENEMDU,jun-19,2019,6,Empleo no remunerado,855741,263118,592623
+ENEMDU,sep-18,2018,9,Desempleo,332818,286834,45984
+ENEMDU,sep-18,2018,9,Desempleo Abierto,283082,250000,33081
+ENEMDU,sep-18,2018,9,Desempleo Oculto,49736,36834,12903
+ENEMDU,jun-16,2016,6,Desempleo,416883,349811,67072
+ENEMDU,jun-16,2016,6,Desempleo Abierto,364300,310947,53353
+ENEMDU,jun-16,2016,6,Desempleo Oculto,52582,38864,13718
+ENEMDU,jun-16,2016,6,Desempleo Cesante,351373,295933,55440
+ENEMDU,jun-16,2016,6,Desempleo Nuevo,65510,53878,11632
+ENEMDU,dic-13,2013,12,Poblaciï¿½n Total,15872755,10721616,5151139
+ENEMDU,dic-13,2013,12,Poblaciï¿½n menor de 15 aï¿½os,4672384,3003893,1668492
+ENEMDU,dic-13,2013,12,Poblaciï¿½n en Edad de Trabajar (PET),11200371,7717723,3482647
+ENEMDU,sep-16,2016,9,Poblaciï¿½n Total,16593827,11313724,5280103
+ENEMDU,sep-16,2016,9,Poblaciï¿½n menor de 15 aï¿½os,4954502,3222330,1732172
+ENEMDU,jun-16,2016,6,Poblaciï¿½n Econï¿½micamente Inactiva,3725303,2811617,913687
+ENEMDU,sep-16,2016,9,Poblaciï¿½n en Edad de Trabajar (PET),11639325,8091394,3547931
+ENEMDU,sep-16,2016,9,Poblaciï¿½n Econï¿½micamente Activa,8057159,5363829,2693330
+ENEMDU,sep-16,2016,9,Empleo,7637986,5005457,2632529
+ENEMDU,sep-16,2016,9,Empleo Adecuado/Pleno,3154513,2546754,607759
+ENEMDU,sep-16,2016,9,Subempleo,1560342,963920,596421
+ENEMDU,sep-16,2016,9,Subempleo por insuficiencia de tiempo de trabajo,1272473,807076,465397
+ENEMDU,sep-16,2016,9,Subempleo por insuficiencia de ingresos,287869,156845,131024
+ENEMDU,sep-16,2016,9,Empleo no remunerado,834147,292263,541884
+ENEMDU,sep-16,2016,9,Otro Empleo no pleno,2063849,1182648,881202
+ENEMDU,sep-16,2016,9,Empleo no clasificado,25135,19871,5264
+ENEMDU,sep-16,2016,9,Desempleo,419173,358372,60802
+ENEMDU,jun-13,2013,6,Subempleo por insuficiencia de ingresos,147180,86811,60369
+ENEMDU,jun-13,2013,6,Empleo no remunerado,669102,227170,441931
+ENEMDU,jun-13,2013,6,Otro Empleo no pleno,2145528,1130495,1015033
+ENEMDU,jun-13,2013,6,Empleo no clasificado,94558,89522,5036
+ENEMDU,jun-13,2013,6,Desempleo,273951,225105,48845
+ENEMDU,jun-13,2013,6,Desempleo Abierto,218894,188644,30250
+ENEMDU,jun-13,2013,6,Desempleo Oculto,55057,36462,18595
+ENEMDU,jun-13,2013,6,Desempleo Cesante,185092,155945,29147
+ENEMDU,jun-13,2013,6,Desempleo Nuevo,88859,69161,19698
+ENEMDU,jun-13,2013,6,Poblaciï¿½n Econï¿½micamente Inactiva,3993794,2785957,1207836
+ENEMDU,jun-13,2013,6,Subempleo,818126,528550,289576
+ENEMDU,jun-13,2013,6,Subempleo por insuficiencia de tiempo de trabajo,670946,441739,229207
+ENEMDU,jun-16,2016,6,Empleo Adecuado/Pleno,3214776,2621987,592789
+ENEMDU,jun-16,2016,6,Subempleo,1277717,801621,476096
+ENEMDU,jun-16,2016,6,Subempleo por insuficiencia de tiempo de trabajo,1060671,678760,381911
+ENEMDU,jun-16,2016,6,Subempleo por insuficiencia de ingresos,217045,122861,94185
+ENEMDU,jun-16,2016,6,Empleo no remunerado,759390,251728,507662
+ENEMDU,jun-16,2016,6,Otro Empleo no pleno,2138678,1195585,943092
+ENEMDU,jun-16,2016,6,Empleo no clasificado,24539,18975,5564
+ENEMDU,mar-16,2016,3,Desempleo Nuevo,81992,71168,10824
+ENEMDU,mar-16,2016,3,Poblaciï¿½n Econï¿½micamente Inactiva,3605856,2692809,913048
+ENEMDU,jun-16,2016,6,Poblaciï¿½n Total,16560742,11285239,5275503
+ENEMDU,jun-16,2016,6,Poblaciï¿½n menor de 15 aï¿½os,5003458,3233917,1769541
+ENEMDU,jun-16,2016,6,Poblaciï¿½n en Edad de Trabajar (PET),11557285,8051323,3505962
+ENEMDU,jun-16,2016,6,Poblaciï¿½n Econï¿½micamente Activa,7831981,5239706,2592275
+ENEMDU,jun-16,2016,6,Empleo,7415099,4889895,2525203
+ENEMDU,dic-09,2009,12,Desempleo Abierto,294590,265013,29576
+ENEMDU,dic-09,2009,12,Desempleo Oculto,129212,82054,47158
+ENEMDU,dic-09,2009,12,Desempleo Cesante,277080,241255,35825
+ENEMDU,dic-12,2012,12,Desempleo Abierto,210173,180684,29489
+ENEMDU,dic-12,2012,12,Desempleo Oculto,66001,44654,21346
+ENEMDU,dic-12,2012,12,Desempleo Cesante,166212,141854,24358
+ENEMDU,dic-12,2012,12,Desempleo Nuevo,109962,83485,26478
+ENEMDU,dic-09,2009,12,Desempleo Nuevo,146722,105813,40909
+ENEMDU,dic-09,2009,12,Poblaciï¿½n Econï¿½micamente Inactiva,3483779,2411387,1072392
+ENEMDU,jun-10,2010,6,Poblaciï¿½n Total,14180534,9406062,4774472
+ENEMDU,jun-10,2010,6,Poblaciï¿½n menor de 15 aï¿½os,4033148,2505781,1527367
+ENEMDU,jun-10,2010,6,Poblaciï¿½n en Edad de Trabajar (PET),10147386,6900281,3247105
+ENEMDU,jun-10,2010,6,Poblaciï¿½n Econï¿½micamente Activa,6582460,4414069,2168390
+ENEMDU,jun-10,2010,6,Empleo,6174141,4075417,2098724
+ENEMDU,dic-12,2012,12,Poblaciï¿½n Econï¿½micamente Inactiva,4162884,2818194,1344691
+ENEMDU,jun-13,2013,6,Poblaciï¿½n Total,14787691,9815388,4972303
+ENEMDU,jun-13,2013,6,Poblaciï¿½n menor de 15 aï¿½os,3794152,2421936,1372216
+ENEMDU,jun-13,2013,6,Poblaciï¿½n en Edad de Trabajar (PET),10993539,7393452,3600087
+ENEMDU,jun-13,2013,6,Poblaciï¿½n Econï¿½micamente Activa,6999745,4607495,2392250
+ENEMDU,jun-13,2013,6,Empleo,6725795,4382389,2343405
+ENEMDU,jun-13,2013,6,Empleo Adecuado/Pleno,2998481,2406652,591829
+ENEMDU,jun-10,2010,6,Empleo Adecuado/Pleno,2715542,2211148,504394
+ENEMDU,dic-15,2015,12,Desempleo Cesante,254234,217720,36515
+ENEMDU,dic-15,2015,12,Desempleo Nuevo,103658,71961,31697
+ENEMDU,dic-15,2015,12,Poblaciï¿½n Econï¿½micamente Inactiva,3900748,2807481,1093267
+ENEMDU,mar-16,2016,3,Poblaciï¿½n Total,16467779,11215431,5252348
+ENEMDU,mar-16,2016,3,Poblaciï¿½n menor de 15 aï¿½os,5000261,3252169,1748091
+ENEMDU,mar-16,2016,3,Poblaciï¿½n en Edad de Trabajar (PET),11467518,7963261,3504256
+ENEMDU,mar-16,2016,3,Poblaciï¿½n Econï¿½micamente Activa,7861661,5270453,2591208
+ENEMDU,mar-16,2016,3,Empleo,7412671,4882929,2529742
+ENEMDU,mar-16,2016,3,Empleo Adecuado/Pleno,3142554,2560967,581587
+ENEMDU,mar-16,2016,3,Subempleo,1348231,902334,445897
+ENEMDU,mar-16,2016,3,Subempleo por insuficiencia de tiempo de trabajo,1109514,753245,356269
+ENEMDU,mar-16,2016,3,Subempleo por insuficiencia de ingresos,238717,149089,89629
+ENEMDU,mar-16,2016,3,Empleo no remunerado,796919,271830,525089
+ENEMDU,dic-12,2012,12,Poblaciï¿½n Total,14682556,9745918,4936638
+ENEMDU,dic-12,2012,12,Poblaciï¿½n menor de 15 aï¿½os,3818409,2423369,1395041
+ENEMDU,dic-12,2012,12,Poblaciï¿½n en Edad de Trabajar (PET),10864147,7322550,3541598
+ENEMDU,dic-12,2012,12,Poblaciï¿½n Econï¿½micamente Activa,6701014,4504356,2196658
+ENEMDU,dic-12,2012,12,Empleo,6424840,4279017,2145823
+ENEMDU,dic-12,2012,12,Empleo Adecuado/Pleno,3118174,2546940,571234
+ENEMDU,dic-12,2012,12,Subempleo,603890,345283,258607
+ENEMDU,dic-12,2012,12,Subempleo por insuficiencia de tiempo de trabajo,485512,288186,197326
+ENEMDU,dic-12,2012,12,Subempleo por insuficiencia de ingresos,118378,57097,61281
+ENEMDU,dic-12,2012,12,Empleo no remunerado,537431,212515,324916
+ENEMDU,dic-12,2012,12,Otro Empleo no pleno,2018582,1035693,982889
+ENEMDU,dic-12,2012,12,Empleo no clasificado,146763,138587,8176
+ENEMDU,dic-12,2012,12,Desempleo,276174,225339,50835
+ENEMDU,mar-16,2016,3,Otro Empleo no pleno,2100225,1124168,976056
+ENEMDU,mar-16,2016,3,Empleo no clasificado,24742,23630,1113
+ENEMDU,mar-16,2016,3,Desempleo,448990,387524,61466
+ENEMDU,mar-16,2016,3,Desempleo Abierto,388149,338543,49606
+ENEMDU,mar-16,2016,3,Desempleo Oculto,60842,48981,11860
+ENEMDU,mar-16,2016,3,Desempleo Cesante,366999,316356,50643
+ENEMDU,sep-16,2016,9,Desempleo Nuevo,95680,77819,17861
+ENEMDU,sep-16,2016,9,Poblaciï¿½n Econï¿½micamente Inactiva,3582166,2727565,854601
+ENEMDU,dic-16,2016,12,Poblaciï¿½n Total,16714929,11366255,5348674
+ENEMDU,dic-16,2016,12,Poblaciï¿½n menor de 15 aï¿½os,5018798,3223678,1795120
+ENEMDU,dic-16,2016,12,Poblaciï¿½n en Edad de Trabajar (PET),11696131,8142577,3553554
+ENEMDU,dic-16,2016,12,Poblaciï¿½n Econï¿½micamente Activa,7874021,5318281,2555740
+ENEMDU,dic-16,2016,12,Empleo,7463579,4971669,2491910
+ENEMDU,dic-16,2016,12,Empleo Adecuado/Pleno,3243293,2533751,709542
+ENEMDU,dic-16,2016,12,Subempleo,1564825,1001485,563340
+ENEMDU,dic-16,2016,12,Subempleo por insuficiencia de tiempo de trabajo,1253264,807184,446080
+ENEMDU,dic-10,2010,12,Poblaciï¿½n menor de 15 aï¿½os,3988185,2498411,1489773
+ENEMDU,dic-10,2010,12,Poblaciï¿½n en Edad de Trabajar (PET),10291500,6976934,3314567
+ENEMDU,dic-10,2010,12,Poblaciï¿½n Econï¿½micamente Activa,6436257,4318937,2117320
+ENEMDU,dic-10,2010,12,Empleo,6113230,4054350,2058880
+ENEMDU,dic-10,2010,12,Empleo Adecuado/Pleno,2875533,2326713,548819
+ENEMDU,dic-10,2010,12,Subempleo,889255,559150,330106
+ENEMDU,mar-14,2014,3,Empleo no clasificado,17758,17279,479
+ENEMDU,mar-14,2014,3,Desempleo,342096,265791,76304
+ENEMDU,dic-10,2010,12,Subempleo por insuficiencia de tiempo de trabajo,673317,430631,242685
+ENEMDU,dic-10,2010,12,Subempleo por insuficiencia de ingresos,215939,128518,87420
+ENEMDU,dic-10,2010,12,Empleo no remunerado,528991,178786,350206
+ENEMDU,dic-10,2010,12,Otro Empleo no pleno,1765688,939902,825786
+ENEMDU,mar-14,2014,3,Desempleo Abierto,268520,223140,45379
+ENEMDU,mar-14,2014,3,Desempleo Oculto,73576,42651,30925
+ENEMDU,mar-14,2014,3,Desempleo Cesante,247754,194577,53177
+ENEMDU,mar-14,2014,3,Desempleo Nuevo,94342,71214,23127
+ENEMDU,mar-14,2014,3,Poblaciï¿½n Econï¿½micamente Inactiva,4190271,2990707,1199564
+ENEMDU,jun-14,2014,6,Poblaciï¿½n Total,16027466,10836812,5190654
+ENEMDU,jun-14,2014,6,Poblaciï¿½n menor de 15 aï¿½os,4790673,3077556,1713117
+ENEMDU,dic-10,2010,12,Empleo no clasificado,53763,49800,3963
+ENEMDU,dic-10,2010,12,Desempleo,323027,264587,58440
+ENEMDU,dic-10,2010,12,Desempleo Abierto,224553,195799,28754
+ENEMDU,dic-10,2010,12,Desempleo Oculto,98474,68788,29686
+ENEMDU,dic-10,2010,12,Desempleo Cesante,216213,184231,31982
+ENEMDU,dic-10,2010,12,Desempleo Nuevo,106814,80355,26458
+ENEMDU,dic-10,2010,12,Poblaciï¿½n Econï¿½micamente Inactiva,3855244,2657997,1197247
+ENEMDU,jun-14,2014,6,Poblaciï¿½n en Edad de Trabajar (PET),11236793,7759256,3477537
+ENEMDU,jun-14,2014,6,Poblaciï¿½n Econï¿½micamente Activa,6967747,4804595,2163152
+ENEMDU,jun-14,2014,6,Empleo,6643458,4529978,2113480
+ENEMDU,jun-14,2014,6,Empleo Adecuado/Pleno,3401156,2783995,617162
+ENEMDU,sep-16,2016,9,Desempleo Abierto,362204,314417,47787
+ENEMDU,sep-16,2016,9,Desempleo Oculto,56969,43955,13014
+ENEMDU,sep-16,2016,9,Desempleo Cesante,323493,280552,42940
+ENEMDU,jun-11,2011,6,Poblaciï¿½n Total,14378837,9544628,4834209
+ENEMDU,jun-11,2011,6,Poblaciï¿½n menor de 15 aï¿½os,3902852,2433764,1469088
+ENEMDU,jun-14,2014,6,Subempleo,851939,510987,340952
+ENEMDU,jun-14,2014,6,Subempleo por insuficiencia de tiempo de trabajo,670964,408279,262685
+ENEMDU,jun-18,2018,6,Otro Empleo no pleno,2116670,1208742,907928
+ENEMDU,jun-18,2018,6,Empleo no clasificado,43325,37648,5677
+ENEMDU,jun-18,2018,6,Desempleo,330097,275783,54314
+ENEMDU,jun-18,2018,6,Desempleo Abierto,286484,251307,35177
+ENEMDU,jun-18,2018,6,Desempleo Oculto,43613,24476,19137
+ENEMDU,jun-18,2018,6,Desempleo Cesante,239154,199188,39967
+ENEMDU,jun-18,2018,6,Desempleo Nuevo,90943,76595,14348
+ENEMDU,jun-10,2010,6,Desempleo,408318,338652,69666
+ENEMDU,jun-10,2010,6,Desempleo Abierto,295709,258837,36872
+ENEMDU,jun-10,2010,6,Desempleo Oculto,112610,79815,32794
+ENEMDU,jun-10,2010,6,Desempleo Cesante,253325,215747,37578
+ENEMDU,jun-10,2010,6,Desempleo Nuevo,154993,122905,32088
+ENEMDU,jun-10,2010,6,Poblaciï¿½n Econï¿½micamente Inactiva,3564926,2486211,1078715
+ENEMDU,dic-10,2010,12,Poblaciï¿½n Total,14279685,9475345,4804340
+ENEMDU,jun-10,2010,6,Subempleo,1041266,663688,377578
+ENEMDU,jun-10,2010,6,Subempleo por insuficiencia de tiempo de trabajo,762700,499598,263103
+ENEMDU,jun-10,2010,6,Subempleo por insuficiencia de ingresos,278566,164090,114475
+ENEMDU,jun-10,2010,6,Empleo no remunerado,518542,170555,347988
+ENEMDU,jun-10,2010,6,Otro Empleo no pleno,1811893,958283,853610
+ENEMDU,jun-10,2010,6,Empleo no clasificado,86898,71743,15155
+ENEMDU,dic-13,2013,12,Desempleo Nuevo,120096,86711,33386
+ENEMDU,dic-13,2013,12,Poblaciï¿½n Econï¿½micamente Inactiva,4247385,3007576,1239809
+ENEMDU,mar-14,2014,3,Poblaciï¿½n Total,15935761,10776249,5159512
+ENEMDU,mar-14,2014,3,Poblaciï¿½n menor de 15 aï¿½os,4697080,3018245,1678835
+ENEMDU,mar-14,2014,3,Poblaciï¿½n en Edad de Trabajar (PET),11238681,7758004,3480677
+ENEMDU,mar-14,2014,3,Poblaciï¿½n Econï¿½micamente Activa,7048410,4767297,2281113
+ENEMDU,mar-14,2014,3,Empleo,6706314,4501505,2204809
+ENEMDU,mar-14,2014,3,Empleo Adecuado/Pleno,3206080,2616012,590068
+ENEMDU,mar-14,2014,3,Subempleo,890360,517872,372489
+ENEMDU,mar-14,2014,3,Subempleo por insuficiencia de tiempo de trabajo,706156,415940,290216
+ENEMDU,mar-14,2014,3,Subempleo por insuficiencia de ingresos,184205,101932,82273
+ENEMDU,mar-14,2014,3,Empleo no remunerado,497262,186701,310561
+ENEMDU,mar-14,2014,3,Otro Empleo no pleno,2094854,1163642,931212
+ENEMDU,jun-18,2018,6,Empleo,7648773,5015089,2633683
+ENEMDU,jun-18,2018,6,Empleo Adecuado/Pleno,3105674,2520593,585081
+ENEMDU,jun-18,2018,6,Subempleo,1544373,976038,568335
+ENEMDU,jun-18,2018,6,Subempleo por insuficiencia de tiempo de trabajo,1223986,777596,446390
+ENEMDU,jun-18,2018,6,Subempleo por insuficiencia de ingresos,320388,198442,121945
+ENEMDU,jun-18,2018,6,Empleo no remunerado,838730,272068,566662
+ENEMDU,dic-13,2013,12,Poblaciï¿½n Econï¿½micamente Activa,6952986,4710148,2242838
+ENEMDU,dic-13,2013,12,Empleo,6664241,4481130,2183111
+ENEMDU,dic-13,2013,12,Empleo Adecuado/Pleno,3328048,2680988,647060
+ENEMDU,dic-13,2013,12,Subempleo,809269,477717,331552
+ENEMDU,dic-13,2013,12,Subempleo por insuficiencia de tiempo de trabajo,654050,395291,258759
+ENEMDU,dic-13,2013,12,Subempleo por insuficiencia de ingresos,155219,82427,72793
+ENEMDU,dic-13,2013,12,Empleo no remunerado,493182,187999,305183
+ENEMDU,dic-13,2013,12,Otro Empleo no pleno,2019279,1120868,898411
+ENEMDU,dic-13,2013,12,Empleo no clasificado,14463,13558,905
+ENEMDU,dic-13,2013,12,Desempleo,288745,229018,59727
+ENEMDU,dic-13,2013,12,Desempleo Abierto,205127,173716,31411
+ENEMDU,dic-13,2013,12,Desempleo Oculto,83618,55302,28317
+ENEMDU,dic-13,2013,12,Desempleo Cesante,168649,142307,26342
+ENEMDU,mar-17,2017,3,Desempleo Nuevo,77768,59859,17909
+ENEMDU,mar-17,2017,3,Poblaciï¿½n Econï¿½micamente Inactiva,3642068,2809179,832889
+ENEMDU,jun-17,2017,6,Poblaciï¿½n Total,16746087,11385717,5360370
+ENEMDU,jun-17,2017,6,Poblaciï¿½n menor de 15 aï¿½os,4889667,3109207,1780460
+ENEMDU,jun-17,2017,6,Poblaciï¿½n en Edad de Trabajar (PET),11856420,8276510,3579910
+ENEMDU,jun-17,2017,6,Poblaciï¿½n Econï¿½micamente Activa,8147564,5439733,2707830
+ENEMDU,jun-17,2017,6,Empleo,7781560,5125446,2656114
+ENEMDU,jun-17,2017,6,Empleo Adecuado/Pleno,3267363,2664344,603020
+ENEMDU,jun-17,2017,6,Subempleo,1668577,1039886,628691
+ENEMDU,jun-17,2017,6,Subempleo por insuficiencia de tiempo de trabajo,1322184,840337,481847
+ENEMDU,jun-17,2017,6,Subempleo por insuficiencia de ingresos,346393,199549,146844
+ENEMDU,jun-17,2017,6,Empleo no remunerado,828059,274950,553109
+ENEMDU,jun-17,2017,6,Otro Empleo no pleno,1978784,1109977,868807
+ENEMDU,mar-17,2017,3,Poblaciï¿½n en Edad de Trabajar (PET),11726450,8159608,3566842
+ENEMDU,dic-11,2011,12,Otro Empleo no pleno,2056875,1089496,967379
+ENEMDU,dic-11,2011,12,Empleo no clasificado,39451,36125,3326
+ENEMDU,dic-11,2011,12,Desempleo,276787,224678,52109
+ENEMDU,dic-11,2011,12,Desempleo Abierto,196178,172349,23830
+ENEMDU,dic-11,2011,12,Desempleo Oculto,80609,52329,28280
+ENEMDU,dic-11,2011,12,Desempleo Cesante,171376,146006,25370
+ENEMDU,dic-11,2011,12,Desempleo Nuevo,105411,78672,26739
+ENEMDU,dic-11,2011,12,Poblaciï¿½n Econï¿½micamente Inactiva,3951382,2667319,1284064
+ENEMDU,jun-12,2012,6,Poblaciï¿½n Total,14578732,9679099,4899633
+ENEMDU,jun-12,2012,6,Poblaciï¿½n menor de 15 aï¿½os,3905374,2472030,1433344
+ENEMDU,jun-12,2012,6,Poblaciï¿½n en Edad de Trabajar (PET),10673358,7207069,3466289
+ENEMDU,jun-12,2012,6,Poblaciï¿½n Econï¿½micamente Activa,6870842,4578419,2292423
+ENEMDU,jun-12,2012,6,Empleo,6588271,4340349,2247922
+ENEMDU,dic-14,2014,12,Empleo no remunerado,508476,202059,306418
+ENEMDU,dic-14,2014,12,Otro Empleo no pleno,1924634,1116206,808428
+ENEMDU,dic-14,2014,12,Empleo no clasificado,16421,13760,2661
+ENEMDU,dic-14,2014,12,Desempleo,273414,221119,52295
+ENEMDU,dic-14,2014,12,Desempleo Abierto,216941,180389,36552
+ENEMDU,dic-14,2014,12,Desempleo Oculto,56472,40730,15743
+ENEMDU,dic-14,2014,12,Desempleo Cesante,191622,159668,31954
+ENEMDU,dic-16,2016,12,Desempleo Cesante,298298,257530,40768
+ENEMDU,dic-16,2016,12,Desempleo Nuevo,112144,89082,23062
+ENEMDU,dic-16,2016,12,Poblaciï¿½n Econï¿½micamente Inactiva,3822110,2824296,997814
+ENEMDU,mar-17,2017,3,Poblaciï¿½n Total,16738420,11381745,5356674
+ENEMDU,mar-17,2017,3,Poblaciï¿½n menor de 15 aï¿½os,5011970,3222138,1789832
+ENEMDU,dic-14,2014,12,Desempleo Nuevo,81792,61451,20341
+ENEMDU,dic-14,2014,12,Poblaciï¿½n Econï¿½micamente Inactiva,3964734,2855369,1109365
+ENEMDU,mar-15,2015,3,Poblaciï¿½n Total,16187232,10995477,5191755
+ENEMDU,mar-15,2015,3,Poblaciï¿½n menor de 15 aï¿½os,4985596,3243766,1741831
+ENEMDU,mar-15,2015,3,Poblaciï¿½n en Edad de Trabajar (PET),11201636,7751711,3449924
+ENEMDU,mar-15,2015,3,Poblaciï¿½n Econï¿½micamente Activa,7374083,4866211,2507872
+ENEMDU,dic-17,2017,12,Desempleo Oculto,72914,52626,20288
+ENEMDU,dic-17,2017,12,Desempleo Cesante,268219,234654,33564
+ENEMDU,dic-17,2017,12,Desempleo Nuevo,105652,84793,20859
+ENEMDU,dic-17,2017,12,Poblaciï¿½n Econï¿½micamente Inactiva,3851880,2846191,1005689
+ENEMDU,mar-18,2018,3,Poblaciï¿½n Total,17008162,11620000,5388162
+ENEMDU,mar-18,2018,3,Poblaciï¿½n menor de 15 aï¿½os,5023315,3283213,1740101
+ENEMDU,mar-18,2018,3,Poblaciï¿½n en Edad de Trabajar (PET),11984847,8336786,3648061
+ENEMDU,mar-18,2018,3,Poblaciï¿½n Econï¿½micamente Activa,8164425,5439125,2725300
+ENEMDU,jun-11,2011,6,Desempleo Cesante,218409,194725,23684
+ENEMDU,jun-11,2011,6,Desempleo Nuevo,110796,84011,26785
+ENEMDU,mar-18,2018,3,Empleo,7802374,5129893,2672481
+ENEMDU,mar-18,2018,3,Empleo Adecuado/Pleno,3356562,2726104,630458
+ENEMDU,mar-18,2018,3,Subempleo,1498139,941409,556730
+ENEMDU,mar-18,2018,3,Subempleo por insuficiencia de tiempo de trabajo,1193096,764916,428180
+ENEMDU,mar-18,2018,3,Subempleo por insuficiencia de ingresos,305043,176493,128550
+ENEMDU,jun-11,2011,6,Poblaciï¿½n Econï¿½micamente Inactiva,3922196,2730153,1192043
+ENEMDU,dic-11,2011,12,Poblaciï¿½n Total,14478129,9610538,4867591
+ENEMDU,dic-11,2011,12,Poblaciï¿½n menor de 15 aï¿½os,3945126,2506354,1438772
+ENEMDU,dic-11,2011,12,Poblaciï¿½n en Edad de Trabajar (PET),10533003,7104184,3428819
+ENEMDU,dic-11,2011,12,Poblaciï¿½n Econï¿½micamente Activa,6581621,4436865,2144756
+ENEMDU,dic-11,2011,12,Empleo,6304834,4212188,2092646
+ENEMDU,dic-11,2011,12,Empleo Adecuado/Pleno,2996566,2460350,536215
+ENEMDU,dic-11,2011,12,Subempleo,706458,421914,284544
+ENEMDU,dic-11,2011,12,Subempleo por insuficiencia de tiempo de trabajo,560164,347668,212497
+ENEMDU,dic-11,2011,12,Subempleo por insuficiencia de ingresos,146294,74247,72047
+ENEMDU,dic-11,2011,12,Empleo no remunerado,505484,204302,301182
+ENEMDU,sep-14,2014,9,Desempleo Oculto,53425,35544,17881
+ENEMDU,sep-14,2014,9,Desempleo Cesante,195086,167775,27311
+ENEMDU,sep-14,2014,9,Desempleo Nuevo,83336,59217,24118
+ENEMDU,sep-14,2014,9,Poblaciï¿½n Econï¿½micamente Inactiva,4124872,2947145,1177728
+ENEMDU,dic-14,2014,12,Poblaciï¿½n Total,16148648,10952870,5195778
+ENEMDU,dic-14,2014,12,Poblaciï¿½n menor de 15 aï¿½os,4989393,3228800,1760593
+ENEMDU,dic-14,2014,12,Poblaciï¿½n en Edad de Trabajar (PET),11159255,7724070,3435185
+ENEMDU,dic-14,2014,12,Poblaciï¿½n Econï¿½micamente Activa,7194521,4868701,2325820
+ENEMDU,dic-14,2014,12,Empleo,6921107,4647582,2273525
+ENEMDU,dic-14,2014,12,Empleo Adecuado/Pleno,3545802,2745575,800227
+ENEMDU,dic-14,2014,12,Subempleo,925774,569983,355791
+ENEMDU,dic-14,2014,12,Subempleo por insuficiencia de tiempo de trabajo,759651,470206,289445
+ENEMDU,dic-14,2014,12,Subempleo por insuficiencia de ingresos,166123,99777,66346
+ENEMDU,dic-16,2016,12,Subempleo por insuficiencia de ingresos,311561,194302,117260
+ENEMDU,dic-16,2016,12,Empleo no remunerado,660893,258945,401949
+ENEMDU,dic-16,2016,12,Otro Empleo no pleno,1978071,1163990,814081
+ENEMDU,dic-16,2016,12,Empleo no clasificado,16497,13498,2999
+ENEMDU,dic-16,2016,12,Desempleo,410441,346612,63829
+ENEMDU,dic-16,2016,12,Desempleo Abierto,321582,280152,41430
+ENEMDU,dic-16,2016,12,Desempleo Oculto,88860,66460,22400
+ENEMDU,sep-14,2014,9,Poblaciï¿½n en Edad de Trabajar (PET),11270069,7812446,3457623
+ENEMDU,sep-14,2014,9,Poblaciï¿½n Econï¿½micamente Activa,7145197,4865302,2279895
+ENEMDU,sep-14,2014,9,Empleo,6866776,4638310,2228466
+ENEMDU,sep-14,2014,9,Empleo Adecuado/Pleno,3414023,2803767,610255
+ENEMDU,sep-14,2014,9,Subempleo,893705,489443,404261
+ENEMDU,sep-14,2014,9,Subempleo por insuficiencia de tiempo de trabajo,732101,412571,319530
+ENEMDU,sep-14,2014,9,Subempleo por insuficiencia de ingresos,161604,76872,84731
+ENEMDU,sep-14,2014,9,Empleo no remunerado,555947,212218,343730
+ENEMDU,sep-14,2014,9,Otro Empleo no pleno,1980199,1111997,868203
+ENEMDU,sep-14,2014,9,Empleo no clasificado,22902,20885,2017
+ENEMDU,sep-14,2014,9,Desempleo,278421,226992,51429
+ENEMDU,sep-14,2014,9,Desempleo Abierto,224996,191448,33548
+ENEMDU,jun-17,2017,6,Empleo no clasificado,38777,36289,2488
+ENEMDU,jun-17,2017,6,Desempleo,366004,314287,51716
+ENEMDU,jun-17,2017,6,Desempleo Abierto,322247,276378,45869
+ENEMDU,jun-17,2017,6,Desempleo Oculto,43756,37909,5847
+ENEMDU,jun-17,2017,6,Desempleo Cesante,272684,239357,33327
+ENEMDU,jun-17,2017,6,Desempleo Nuevo,93320,74930,18389
+ENEMDU,jun-17,2017,6,Poblaciï¿½n Econï¿½micamente Inactiva,3708856,2836777,872079
+ENEMDU,sep-17,2017,9,Poblaciï¿½n Total,16838460,11471519,5366940
+ENEMDU,sep-17,2017,9,Poblaciï¿½n menor de 15 aï¿½os,4958896,3193260,1765636
+ENEMDU,sep-17,2017,9,Poblaciï¿½n en Edad de Trabajar (PET),11879564,8278259,3601305
+ENEMDU,sep-17,2017,9,Poblaciï¿½n Econï¿½micamente Activa,8181049,5467380,2713668
+ENEMDU,sep-17,2017,9,Empleo,7842471,5174135,2668336
+ENEMDU,sep-17,2017,9,Empleo Adecuado/Pleno,3303565,2662423,641142
+ENEMDU,jun-14,2014,6,Subempleo por insuficiencia de ingresos,180975,102708,78267
+ENEMDU,jun-14,2014,6,Empleo no remunerado,437119,178630,258489
+ENEMDU,jun-14,2014,6,Otro Empleo no pleno,1935920,1039676,896244
+ENEMDU,jun-14,2014,6,Empleo no clasificado,17324,16691,633
+ENEMDU,jun-14,2014,6,Desempleo,324289,274616,49672
+ENEMDU,jun-14,2014,6,Desempleo Abierto,260100,225743,34357
+ENEMDU,jun-14,2014,6,Desempleo Oculto,64189,48874,15316
+ENEMDU,jun-14,2014,6,Desempleo Cesante,200508,178414,22093
+ENEMDU,jun-14,2014,6,Desempleo Nuevo,123781,96202,27579
+ENEMDU,jun-14,2014,6,Poblaciï¿½n Econï¿½micamente Inactiva,4269046,2954662,1314384
+ENEMDU,sep-14,2014,9,Poblaciï¿½n Total,16061963,10885953,5176010
+ENEMDU,dic-17,2017,12,Poblaciï¿½n menor de 15 aï¿½os,5023998,3240642,1783357
+ENEMDU,dic-17,2017,12,Poblaciï¿½n en Edad de Trabajar (PET),11937928,8335580,3602348
+ENEMDU,dic-17,2017,12,Poblaciï¿½n Econï¿½micamente Activa,8086048,5489389,2596659
+ENEMDU,dic-17,2017,12,Empleo,7712177,5169942,2542236
+ENEMDU,dic-17,2017,12,Empleo Adecuado/Pleno,3417483,2764716,652768
+ENEMDU,dic-17,2017,12,Subempleo,1602909,1009671,593239
+ENEMDU,dic-17,2017,12,Subempleo por insuficiencia de tiempo de trabajo,1235759,791600,444159
+ENEMDU,dic-17,2017,12,Subempleo por insuficiencia de ingresos,367151,218071,149079
+ENEMDU,dic-17,2017,12,Empleo no remunerado,727778,271059,456719
+ENEMDU,dic-17,2017,12,Otro Empleo no pleno,1951060,1112178,838881
+ENEMDU,dic-17,2017,12,Empleo no clasificado,12947,12318,630
+ENEMDU,dic-17,2017,12,Desempleo,373871,319447,54423
+ENEMDU,dic-17,2017,12,Desempleo Abierto,300956,266821,34135
+ENEMDU,jun-11,2011,6,Poblaciï¿½n en Edad de Trabajar (PET),10475984,7110864,3365121
+ENEMDU,jun-11,2011,6,Poblaciï¿½n Econï¿½micamente Activa,6553789,4380711,2173078
+ENEMDU,jun-11,2011,6,Empleo,6224584,4101975,2122609
+ENEMDU,jun-11,2011,6,Empleo Adecuado/Pleno,2789525,2279869,509656
+ENEMDU,jun-11,2011,6,Subempleo,781525,505913,275612
+ENEMDU,jun-11,2011,6,Subempleo por insuficiencia de tiempo de trabajo,582663,389031,193632
+ENEMDU,jun-11,2011,6,Subempleo por insuficiencia de ingresos,198862,116882,81980
+ENEMDU,jun-11,2011,6,Empleo no remunerado,559469,196896,362573
+ENEMDU,jun-11,2011,6,Otro Empleo no pleno,2032999,1061550,971449
+ENEMDU,jun-11,2011,6,Empleo no clasificado,61066,57747,3320
+ENEMDU,jun-11,2011,6,Desempleo,329205,278736,50469
+ENEMDU,jun-11,2011,6,Desempleo Abierto,250069,226439,23629
+ENEMDU,jun-11,2011,6,Desempleo Oculto,79136,52296,26840
+ENEMDU,sep-14,2014,9,Poblaciï¿½n menor de 15 aï¿½os,4791894,3073507,1718387
+ENEMDU,jun-08,2008,6,Poblaciï¿½n en Edad de Trabajar (PET),9513649,6474364,3039285
+ENEMDU,jun-08,2008,6,Poblaciï¿½n Econï¿½micamente Activa,6589368,4433491,2155877
+ENEMDU,jun-08,2008,6,Empleo,6245225,4151002,2094223
+ENEMDU,jun-08,2008,6,Empleo Adecuado/Pleno,2750595,2248018,502577
+ENEMDU,jun-08,2008,6,Subempleo,1130699,696949,433750
+ENEMDU,jun-08,2008,6,Subempleo por insuficiencia de tiempo de trabajo,846132,527132,319001
+ENEMDU,jun-15,2015,6,Desempleo,332117,277990,54127
+ENEMDU,jun-15,2015,6,Desempleo Abierto,272560,237491,35069
+ENEMDU,jun-15,2015,6,Desempleo Oculto,59557,40499,19058
+ENEMDU,jun-15,2015,6,Desempleo Cesante,253886,217732,36154
+ENEMDU,jun-15,2015,6,Desempleo Nuevo,78231,60258,17973
+ENEMDU,jun-15,2015,6,Poblaciï¿½n Econï¿½micamente Inactiva,3851383,2840307,1011076
+ENEMDU,sep-15,2015,9,Poblaciï¿½n Total,16312205,11073820,5238385
+ENEMDU,sep-15,2015,9,Poblaciï¿½n menor de 15 aï¿½os,4993807,3213425,1780382
+ENEMDU,sep-15,2015,9,Poblaciï¿½n en Edad de Trabajar (PET),11318398,7860395,3458003
+ENEMDU,sep-15,2015,9,Poblaciï¿½n Econï¿½micamente Activa,7599717,5135610,2464107
+ENEMDU,sep-15,2015,9,Empleo,7274221,4854005,2420216
+ENEMDU,sep-15,2015,9,Empleo Adecuado/Pleno,3495965,2793417,702548
+ENEMDU,sep-15,2015,9,Subempleo,1121988,688122,433866
+ENEMDU,mar-18,2018,3,Empleo no remunerado,831628,275624,556004
+ENEMDU,mar-18,2018,3,Otro Empleo no pleno,2096972,1168609,928363
+ENEMDU,mar-18,2018,3,Empleo no clasificado,19073,18147,925
+ENEMDU,mar-18,2018,3,Desempleo,362051,309232,52819
+ENEMDU,mar-18,2018,3,Desempleo Abierto,327391,285326,42065
+ENEMDU,mar-18,2018,3,Desempleo Oculto,34660,23906,10754
+ENEMDU,mar-18,2018,3,Desempleo Cesante,273577,239316,34262
+ENEMDU,dic-07,2007,12,Poblaciï¿½n Total,13682302,9066209,4616093
+ENEMDU,dic-07,2007,12,Poblaciï¿½n menor de 15 aï¿½os,4372812,2723124,1649688
+ENEMDU,dic-07,2007,12,Poblaciï¿½n en Edad de Trabajar (PET),9309490,6343085,2966404
+ENEMDU,dic-07,2007,12,Poblaciï¿½n Econï¿½micamente Activa,6336029,4227702,2108328
+ENEMDU,mar-18,2018,3,Desempleo Nuevo,88474,69916,18558
+ENEMDU,mar-18,2018,3,Poblaciï¿½n Econï¿½micamente Inactiva,3820422,2897661,922761
+ENEMDU,jun-18,2018,6,Poblaciï¿½n Total,17054523,11625674,5428849
+ENEMDU,jun-18,2018,6,Poblaciï¿½n menor de 15 aï¿½os,5030677,3254082,1776595
+ENEMDU,jun-18,2018,6,Poblaciï¿½n en Edad de Trabajar (PET),12023846,8371592,3652255
+ENEMDU,jun-18,2018,6,Poblaciï¿½n Econï¿½micamente Activa,7978870,5290872,2687997
+ENEMDU,dic-07,2007,12,Empleo,6019332,3971040,2048292
+ENEMDU,dic-07,2007,12,Empleo Adecuado/Pleno,2737158,2236440,500719
+ENEMDU,dic-07,2007,12,Subempleo,1155872,687714,468158
+ENEMDU,dic-07,2007,12,Subempleo por insuficiencia de tiempo de trabajo,860315,519627,340688
+ENEMDU,dic-07,2007,12,Subempleo por insuficiencia de ingresos,295556,168087,127470
+ENEMDU,dic-07,2007,12,Empleo no remunerado,557146,215994,341152
+ENEMDU,dic-07,2007,12,Otro Empleo no pleno,1504000,785461,718539
+ENEMDU,dic-07,2007,12,Empleo no clasificado,65155,45430,19725
+ENEMDU,dic-07,2007,12,Desempleo,316697,256662,60036
+ENEMDU,mar-15,2015,3,Poblaciï¿½n Econï¿½micamente Inactiva,3827552,2885500,942052
+ENEMDU,jun-15,2015,6,Poblaciï¿½n Total,16279252,11067830,5211422
+ENEMDU,jun-15,2015,6,Poblaciï¿½n menor de 15 aï¿½os,4997168,3241818,1755350
+ENEMDU,jun-15,2015,6,Poblaciï¿½n en Edad de Trabajar (PET),11282084,7826012,3456072
+ENEMDU,jun-15,2015,6,Poblaciï¿½n Econï¿½micamente Activa,7430701,4985705,2444996
+ENEMDU,jun-08,2008,6,Subempleo por insuficiencia de ingresos,284567,169817,114750
+ENEMDU,jun-08,2008,6,Empleo no remunerado,614172,257629,356542
+ENEMDU,jun-08,2008,6,Otro Empleo no pleno,1688693,909254,779439
+ENEMDU,jun-15,2015,6,Empleo,7098584,4707715,2390869
+ENEMDU,jun-15,2015,6,Empleo Adecuado/Pleno,3410490,2709275,701215
+ENEMDU,jun-15,2015,6,Subempleo,977785,600976,376810
+ENEMDU,jun-15,2015,6,Subempleo por insuficiencia de tiempo de trabajo,803598,499793,303805
+ENEMDU,jun-15,2015,6,Subempleo por insuficiencia de ingresos,174187,101182,73005
+ENEMDU,jun-15,2015,6,Empleo no remunerado,623781,223526,400255
+ENEMDU,jun-15,2015,6,Otro Empleo no pleno,2044691,1135152,909539
+ENEMDU,jun-08,2008,6,Empleo no clasificado,61065,39152,21914
+ENEMDU,jun-08,2008,6,Desempleo,344143,282489,61654
+ENEMDU,jun-08,2008,6,Desempleo Abierto,243614,217324,26290
+ENEMDU,jun-08,2008,6,Desempleo Oculto,100530,65165,35365
+ENEMDU,jun-08,2008,6,Desempleo Cesante,238031,207834,30198
+ENEMDU,jun-08,2008,6,Desempleo Nuevo,106112,74655,31457
+ENEMDU,jun-08,2008,6,Poblaciï¿½n Econï¿½micamente Inactiva,2924281,2040873,883408
+ENEMDU,jun-15,2015,6,Empleo no clasificado,41836,38786,3050
+ENEMDU,mar-17,2017,3,Poblaciï¿½n Econï¿½micamente Activa,8084382,5350429,2733953
+ENEMDU,mar-17,2017,3,Empleo,7728968,5048482,2680487
+ENEMDU,mar-17,2017,3,Empleo Adecuado/Pleno,3112953,2530096,582857
+ENEMDU,mar-17,2017,3,Subempleo,1726030,1119135,606894
+ENEMDU,mar-17,2017,3,Subempleo por insuficiencia de tiempo de trabajo,1400549,920862,479687
+ENEMDU,mar-17,2017,3,Subempleo por insuficiencia de ingresos,325480,198273,127207
+ENEMDU,dic-08,2008,12,Poblaciï¿½n Total,13878704,9202348,4676355
+ENEMDU,dic-08,2008,12,Poblaciï¿½n menor de 15 aï¿½os,4229707,2633450,1596257
+ENEMDU,dic-08,2008,12,Poblaciï¿½n en Edad de Trabajar (PET),9648996,6568898,3080098
+ENEMDU,sep-15,2015,9,Subempleo por insuficiencia de tiempo de trabajo,925647,573228,352419
+ENEMDU,sep-15,2015,9,Subempleo por insuficiencia de ingresos,196340,114893,81447
+ENEMDU,sep-15,2015,9,Empleo no remunerado,655616,244097,411519
+ENEMDU,mar-17,2017,3,Empleo no remunerado,879801,289532,590269
+ENEMDU,mar-17,2017,3,Otro Empleo no pleno,1994537,1095420,899117
+ENEMDU,mar-17,2017,3,Empleo no clasificado,15648,14299,1350
+ENEMDU,mar-17,2017,3,Desempleo,355414,301948,53466
+ENEMDU,mar-17,2017,3,Desempleo Abierto,314283,270634,43649
+ENEMDU,mar-17,2017,3,Desempleo Oculto,41130,31314,9817
+ENEMDU,mar-17,2017,3,Desempleo Cesante,277646,242089,35557
+ENEMDU,dic-07,2007,12,Desempleo Abierto,193225,168728,24497
+ENEMDU,dic-07,2007,12,Desempleo Oculto,123472,87934,35539
+ENEMDU,dic-07,2007,12,Desempleo Cesante,190044,160289,29755
+ENEMDU,dic-07,2007,12,Desempleo Nuevo,126653,96372,30281
+ENEMDU,dic-07,2007,12,Poblaciï¿½n Econï¿½micamente Inactiva,2973460,2115384,858077
+ENEMDU,jun-08,2008,6,Poblaciï¿½n Total,13781797,9129646,4652151
+ENEMDU,jun-08,2008,6,Poblaciï¿½n menor de 15 aï¿½os,4268148,2655282,1612866
+ENEMDU,mar-15,2015,3,Desempleo Abierto,244129,209597,34532
+ENEMDU,mar-15,2015,3,Desempleo Oculto,38839,25870,12969
+ENEMDU,mar-15,2015,3,Desempleo Cesante,226107,187968,38139
+ENEMDU,mar-15,2015,3,Desempleo Nuevo,56860,47499,9362
+ENEMDU,sep-17,2017,9,Subempleo,1679858,1054659,625199
+ENEMDU,sep-17,2017,9,Subempleo por insuficiencia de tiempo de trabajo,1330167,853227,476940
+ENEMDU,sep-17,2017,9,Subempleo por insuficiencia de ingresos,349691,201432,148259
+ENEMDU,sep-17,2017,9,Empleo no remunerado,823329,286111,537218
+ENEMDU,sep-17,2017,9,Otro Empleo no pleno,2020779,1156589,864190
+ENEMDU,sep-17,2017,9,Empleo no clasificado,14940,14354,586
+ENEMDU,sep-17,2017,9,Desempleo,338577,293245,45333
+ENEMDU,sep-17,2017,9,Desempleo Abierto,296327,260861,35465
+ENEMDU,sep-17,2017,9,Desempleo Oculto,42251,32383,9867
+ENEMDU,sep-17,2017,9,Desempleo Cesante,258848,227740,31108
+ENEMDU,sep-17,2017,9,Desempleo Nuevo,79730,65505,14225
+ENEMDU,sep-17,2017,9,Poblaciï¿½n Econï¿½micamente Inactiva,3698515,2810879,887636
+ENEMDU,dic-17,2017,12,Poblaciï¿½n Total,16961926,11576222,5385705
+ENEMDU,jun-12,2012,6,Empleo Adecuado/Pleno,3104824,2506161,598662
+ENEMDU,jun-12,2012,6,Subempleo,664982,410168,254815
+ENEMDU,jun-12,2012,6,Subempleo por insuficiencia de tiempo de trabajo,542328,343767,198561
+ENEMDU,jun-12,2012,6,Subempleo por insuficiencia de ingresos,122654,66400,56254
+ENEMDU,jun-12,2012,6,Empleo no remunerado,658523,225163,433360
+ENEMDU,jun-12,2012,6,Otro Empleo no pleno,2063391,1107179,956213
+ENEMDU,jun-12,2012,6,Empleo no clasificado,96551,91678,4872
+ENEMDU,jun-12,2012,6,Desempleo,282571,238070,44501
+ENEMDU,jun-12,2012,6,Desempleo Abierto,224048,199327,24721
+ENEMDU,jun-12,2012,6,Desempleo Oculto,58523,38743,19780
+ENEMDU,jun-12,2012,6,Desempleo Cesante,194431,172852,21579
+ENEMDU,jun-12,2012,6,Desempleo Nuevo,88140,65217,22922
+ENEMDU,jun-12,2012,6,Poblaciï¿½n Econï¿½micamente Inactiva,3802516,2628650,1173866
+ENEMDU,mar-15,2015,3,Empleo,7091116,4630745,2460371
+ENEMDU,mar-15,2015,3,Empleo Adecuado/Pleno,3223996,2605302,618694
+ENEMDU,mar-15,2015,3,Subempleo,985698,578399,407299
+ENEMDU,mar-15,2015,3,Subempleo por insuficiencia de tiempo de trabajo,783187,468429,314758
+ENEMDU,mar-15,2015,3,Subempleo por insuficiencia de ingresos,202511,109970,92541
+ENEMDU,mar-15,2015,3,Empleo no remunerado,710083,231580,478503
+ENEMDU,mar-15,2015,3,Otro Empleo no pleno,2142958,1187505,955452
+ENEMDU,mar-15,2015,3,Empleo no clasificado,28382,27959,424
+ENEMDU,mar-15,2015,3,Desempleo,282967,235467,47501
+ENEMDU,dic-15,2015,12,Desempleo Oculto,82953,53530,29424
+ENEMDU,dic-08,2008,12,Desempleo Nuevo,154537,120368,34169
+ENEMDU,dic-08,2008,12,Poblaciï¿½n Econï¿½micamente Inactiva,3263575,2239590,1023986
+ENEMDU,dic-09,2009,12,Poblaciï¿½n Total,14081060,9356685,4724375
+ENEMDU,dic-09,2009,12,Poblaciï¿½n menor de 15 aï¿½os,4048344,2548051,1500293
+ENEMDU,dic-09,2009,12,Poblaciï¿½n en Edad de Trabajar (PET),10032716,6808634,3224082
+ENEMDU,dic-09,2009,12,Poblaciï¿½n Econï¿½micamente Activa,6548937,4397247,2151690
+ENEMDU,dic-09,2009,12,Empleo,6125135,4050179,2074956
+ENEMDU,dic-09,2009,12,Empleo Adecuado/Pleno,2565691,2100511,465180
+ENEMDU,dic-09,2009,12,Subempleo,1071615,664855,406760
+ENEMDU,dic-09,2009,12,Subempleo por insuficiencia de tiempo de trabajo,764486,479299,285187
+ENEMDU,dic-09,2009,12,Subempleo por insuficiencia de ingresos,307129,185556,121573
+ENEMDU,dic-09,2009,12,Empleo no remunerado,582204,213115,369089
+ENEMDU,dic-09,2009,12,Otro Empleo no pleno,1778578,951354,827224
+ENEMDU,dic-08,2008,12,Poblaciï¿½n Econï¿½micamente Activa,6385421,4329308,2056113
+ENEMDU,dic-08,2008,12,Empleo,6005395,4012298,1993097
+ENEMDU,dic-08,2008,12,Empleo Adecuado/Pleno,2858659,2339288,519370
+ENEMDU,dic-08,2008,12,Subempleo,957978,588824,369155
+ENEMDU,dic-08,2008,12,Subempleo por insuficiencia de tiempo de trabajo,704516,445009,259507
+ENEMDU,dic-08,2008,12,Subempleo por insuficiencia de ingresos,253462,143815,109648
+ENEMDU,dic-08,2008,12,Empleo no remunerado,523928,211070,312858
+ENEMDU,dic-08,2008,12,Otro Empleo no pleno,1649349,859126,790223
+ENEMDU,dic-08,2008,12,Empleo no clasificado,15481,13990,1491
+ENEMDU,dic-08,2008,12,Desempleo,380026,317011,63015
+ENEMDU,dic-08,2008,12,Desempleo Abierto,252924,226983,25942
+ENEMDU,dic-08,2008,12,Desempleo Oculto,127102,90028,37074
+ENEMDU,dic-08,2008,12,Desempleo Cesante,225489,196643,28847
+ENEMDU,dic-15,2015,12,Poblaciï¿½n en Edad de Trabajar (PET),11399276,7937476,3461800
+ENEMDU,dic-15,2015,12,Poblaciï¿½n Econï¿½micamente Activa,7498528,5129995,2368533
+ENEMDU,dic-15,2015,12,Empleo,7140636,4840314,2300322
+ENEMDU,dic-15,2015,12,Empleo Adecuado/Pleno,3487110,2772286,714823
+ENEMDU,dic-15,2015,12,Subempleo,1050646,653874,396772
+ENEMDU,dic-15,2015,12,Subempleo por insuficiencia de tiempo de trabajo,848626,532630,315996
+ENEMDU,dic-15,2015,12,Subempleo por insuficiencia de ingresos,202020,121243,80776
+ENEMDU,dic-15,2015,12,Empleo no remunerado,574061,218673,355388
+ENEMDU,dic-15,2015,12,Otro Empleo no pleno,1981205,1152517,828688
+ENEMDU,dic-15,2015,12,Empleo no clasificado,47614,42964,4650
+ENEMDU,dic-15,2015,12,Desempleo,357892,289681,68212
+ENEMDU,dic-15,2015,12,Desempleo Abierto,274939,236151,38788
+ENEMDU,sep-15,2015,9,Otro Empleo no pleno,1961901,1092254,869648
+ENEMDU,sep-15,2015,9,Empleo no clasificado,38751,36115,2635
+ENEMDU,sep-15,2015,9,Desempleo,325496,281605,43892
+ENEMDU,sep-15,2015,9,Desempleo Abierto,277827,246804,31023
+ENEMDU,sep-15,2015,9,Desempleo Oculto,47669,34800,12868
+ENEMDU,sep-15,2015,9,Desempleo Cesante,236647,206120,30527
+ENEMDU,sep-15,2015,9,Desempleo Nuevo,88849,75485,13364
+ENEMDU,sep-15,2015,9,Poblaciï¿½n Econï¿½micamente Inactiva,3718681,2724785,993896
+ENEMDU,dic-15,2015,12,Poblaciï¿½n Total,16404531,11154183,5250348
+ENEMDU,dic-15,2015,12,Poblaciï¿½n menor de 15 aï¿½os,5005254,3216707,1788548
+ENEMDU*,mar-25,2025,3,Desempleo Abierto,259216,215857,43359
+ENEMDU*,mar-25,2025,3,Desempleo Oculto,29940,24487,5453
+ENEMDU*,mar-25,2025,3,Desempleo Cesante,194685,167030,27655
+ENEMDU*,mar-25,2025,3,Desempleo Nuevo,94471,73314,21157
+ENEMDU*,mar-25,2025,3,Poblaciï¿½n Econï¿½micamente Inactiva,4623009,3649437,973572
+ENEMDU*,abr-25,2025,4,Poblaciï¿½n Total,18812332,12825099,5987233
+ENEMDU*,abr-25,2025,4,Poblaciï¿½n menor de 15 aï¿½os,5442570,3507010,1935560
+ENEMDU*,abr-25,2025,4,Poblaciï¿½n en Edad de Trabajar (PET),13369762,9318089,4051673
+ENEMDU*,abr-25,2025,4,Poblaciï¿½n Econï¿½micamente Activa,8497491,5585289,2912202
+ENEMDU*,abr-25,2025,4,Empleo,8188436,5324285,2864151
+ENEMDU*,abr-25,2025,4,Empleo Adecuado/Pleno,3039729,2468838,570891
+ENEMDU*,jul-24,2024,7,Poblaciï¿½n Econï¿½micamente Activa,8682533,5731522,2951011
+ENEMDU*,jul-24,2024,7,Empleo,8359158,5452904,2906254
+ENEMDU*,jul-24,2024,7,Empleo Adecuado/Pleno,3027054,2522570,504484
+ENEMDU*,jul-24,2024,7,Subempleo,1732215,1150717,581498
+ENEMDU*,jul-24,2024,7,Subempleo por insuficiencia de tiempo de trabajo,1630532,1100302,530230
+ENEMDU*,jul-24,2024,7,Subempleo por insuficiencia de ingresos,101683,50416,51267
+ENEMDU*,jul-24,2024,7,Empleo no remunerado,995508,241705,753803
+ENEMDU*,jul-24,2024,7,Otro Empleo no pleno,2596235,1530503,1065732
+ENEMDU*,jul-24,2024,7,Empleo no clasificado,8146,7409,737
+ENEMDU*,feb-25,2025,2,Desempleo Nuevo,110250,92848,17402
+ENEMDU*,feb-25,2025,2,Poblaciï¿½n Econï¿½micamente Inactiva,4693397,3649976,1043421
+ENEMDU*,mar-25,2025,3,Poblaciï¿½n Total,18791027,12810573,5980453
+ENEMDU*,mar-25,2025,3,Poblaciï¿½n menor de 15 aï¿½os,5436406,3503038,1933368
+ENEMDU*,mar-25,2025,3,Poblaciï¿½n en Edad de Trabajar (PET),13354620,9307535,4047085
+ENEMDU*,mar-25,2025,3,Poblaciï¿½n Econï¿½micamente Activa,8731612,5658098,3073513
+ENEMDU*,mar-25,2025,3,Empleo,8442456,5417755,3024701
+ENEMDU*,mar-25,2025,3,Empleo Adecuado/Pleno,2982139,2462804,519335
+ENEMDU*,mar-25,2025,3,Subempleo,1825818,1175150,650668
+ENEMDU*,mar-25,2025,3,Subempleo por insuficiencia de tiempo de trabajo,1705191,1142157,563034
+ENEMDU*,mar-25,2025,3,Subempleo por insuficiencia de ingresos,120627,32993,87634
+ENEMDU*,mar-25,2025,3,Empleo no remunerado,1031840,242306,789534
+ENEMDU*,mar-25,2025,3,Otro Empleo no pleno,2595835,1530962,1064874
+ENEMDU*,jul-24,2024,7,Desempleo,323375,278618,44756
+ENEMDU*,jul-24,2024,7,Desempleo Abierto,294846,257693,37153
+ENEMDU*,jul-24,2024,7,Desempleo Oculto,28529,20925,7604
+ENEMDU*,jul-24,2024,7,Desempleo Cesante,238349,209129,29220
+ENEMDU*,jul-24,2024,7,Desempleo Nuevo,85026,69489,15536
+ENEMDU*,jul-24,2024,7,Poblaciï¿½n Econï¿½micamente Inactiva,4551545,3491998,1059548
+ENEMDU*,ago-24,2024,8,Poblaciï¿½n Total,18642527,12709339,5933188
+ENEMDU*,ago-24,2024,8,Poblaciï¿½n menor de 15 aï¿½os,5393443,3475357,1918086
+ENEMDU*,ago-24,2024,8,Poblaciï¿½n en Edad de Trabajar (PET),13249084,9233982,4015102
+ENEMDU*,ago-24,2024,8,Poblaciï¿½n Econï¿½micamente Activa,8607462,5627632,2979831
+ENEMDU*,ago-24,2024,8,Empleo,8263468,5327402,2936066
+ENEMDU*,ago-24,2024,8,Empleo Adecuado/Pleno,2956130,2414477,541653
+ENEMDU*,ago-24,2024,8,Subempleo,1829470,1191283,638187
+ENEMDU*,mar-25,2025,3,Empleo no clasificado,6823,6533,290
+ENEMDU*,mar-25,2025,3,Desempleo,289156,240344,48812
+ENEMDU*,mar-24,2024,3,Subempleo,1728586,1138338,590247
+ENEMDU*,mar-24,2024,3,Subempleo por insuficiencia de tiempo de trabajo,1616480,1084521,531959
+ENEMDU*,mar-24,2024,3,Subempleo por insuficiencia de ingresos,112106,53817,58289
+ENEMDU*,mar-24,2024,3,Empleo no remunerado,966927,225426,741501
+ENEMDU*,mar-24,2024,3,Otro Empleo no pleno,2565476,1468424,1097052
+ENEMDU*,mar-24,2024,3,Empleo no clasificado,9566,8123,1443
+ENEMDU*,mar-24,2024,3,Desempleo,320863,290220,30643
+ENEMDU*,mar-24,2024,3,Desempleo Abierto,305635,277005,28630
+ENEMDU*,mar-24,2024,3,Desempleo Oculto,15229,13216,2013
+ENEMDU*,mar-24,2024,3,Desempleo Cesante,219171,204937,14234
+ENEMDU*,mar-24,2024,3,Desempleo Nuevo,101692,85283,16409
+ENEMDU*,mar-24,2024,3,Poblaciï¿½n Econï¿½micamente Inactiva,4644971,3593762,1051209
+ENEMDU*,abr-24,2024,4,Poblaciï¿½n Total,18557974,12651693,5906281
+ENEMDU*,ene-26,2026,1,Desempleo Abierto,253635,200538,53098
+ENEMDU*,ene-26,2026,1,Desempleo Oculto,30967,22101,8867
+ENEMDU*,ene-26,2026,1,Desempleo Cesante,192455,146302,46154
+ENEMDU*,ene-26,2026,1,Desempleo Nuevo,92148,76337,15811
+ENEMDU*,ene-26,2026,1,Poblaciï¿½n Econï¿½micamente Inactiva,5079341,3787701,1291640
+ENEMDU*,feb-26,2026,2,Poblaciï¿½n Total,19026779,12971298,6055481
+ENEMDU*,feb-26,2026,2,Poblaciï¿½n menor de 15 aï¿½os,5504607,3546987,1957620
+ENEMDU*,feb-26,2026,2,Poblaciï¿½n en Edad de Trabajar (PET),13522172,9424311,4097861
+ENEMDU*,feb-26,2026,2,Poblaciï¿½n Econï¿½micamente Activa,8684101,5699496,2984606
+ENEMDU*,feb-26,2026,2,Empleo,8411379,5476080,2935299
+ENEMDU*,feb-26,2026,2,Empleo Adecuado/Pleno,3220185,2709889,510296
+ENEMDU*,feb-26,2026,2,Subempleo,1539580,967450,572129
+ENEMDU*,feb-26,2026,2,Subempleo por insuficiencia de tiempo de trabajo,1476381,939836,536545
+ENEMDU*,abr-26,2026,4,Empleo no clasificado,22157,18260,3897
+ENEMDU*,abr-26,2026,4,Desempleo,277210,240682,36527
+ENEMDU*,abr-26,2026,4,Desempleo Abierto,262156,229841,32315
+ENEMDU*,abr-26,2026,4,Desempleo Oculto,15054,10841,4212
+ENEMDU*,abr-26,2026,4,Desempleo Cesante,207306,188248,19058
+ENEMDU*,abr-26,2026,4,Desempleo Nuevo,69903,52434,17469
+ENEMDU*,abr-26,2026,4,Poblaciï¿½n Econï¿½micamente Inactiva,4697271,3536726,1160544
+ENEMDU*,jun-24,2024,6,Poblaciï¿½n Econï¿½micamente Inactiva,4538946,3580880,958066
+ENEMDU*,jul-24,2024,7,Poblaciï¿½n Total,18621413,12694939,5926474
+ENEMDU*,jul-24,2024,7,Poblaciï¿½n menor de 15 aï¿½os,5387335,3471419,1915916
+ENEMDU*,jul-24,2024,7,Poblaciï¿½n en Edad de Trabajar (PET),13234078,9223520,4010558
+ENEMDU*,jun-25,2025,6,Poblaciï¿½n Total,18855037,12854216,6000821
+ENEMDU*,jun-25,2025,6,Poblaciï¿½n menor de 15 aï¿½os,5454924,3514973,1939951
+ENEMDU*,jun-25,2025,6,Poblaciï¿½n en Edad de Trabajar (PET),13400113,9339243,4060870
+ENEMDU*,jun-25,2025,6,Poblaciï¿½n Econï¿½micamente Activa,8842921,5781228,3061693
+ENEMDU*,jun-25,2025,6,Empleo,8533532,5519953,3013578
+ENEMDU*,jun-25,2025,6,Empleo Adecuado/Pleno,3172018,2583197,588821
+ENEMDU*,jun-25,2025,6,Subempleo,1733506,1127699,605807
+ENEMDU*,jun-25,2025,6,Subempleo por insuficiencia de tiempo de trabajo,1574321,1063497,510824
+ENEMDU*,jun-25,2025,6,Subempleo por insuficiencia de ingresos,159185,64202,94983
+ENEMDU*,sep-24,2024,9,Desempleo Cesante,223801,205491,18310
+ENEMDU*,sep-24,2024,9,Desempleo Nuevo,98448,76417,22031
+ENEMDU*,sep-24,2024,9,Poblaciï¿½n Econï¿½micamente Inactiva,4533001,3537402,995599
+ENEMDU*,oct-24,2024,10,Poblaciï¿½n Total,18684844,12738184,5946660
+ENEMDU*,oct-24,2024,10,Poblaciï¿½n menor de 15 aï¿½os,5405690,3483246,1922444
+ENEMDU*,oct-24,2024,10,Poblaciï¿½n en Edad de Trabajar (PET),13279154,9254938,4024216
+ENEMDU*,oct-24,2024,10,Poblaciï¿½n Econï¿½micamente Activa,8421281,5570990,2850291
+ENEMDU*,oct-24,2024,10,Empleo,8123455,5309181,2814274
+ENEMDU*,oct-24,2024,10,Empleo Adecuado/Pleno,2972172,2467714,504458
+ENEMDU*,oct-24,2024,10,Subempleo,1788229,1176599,611630
+ENEMDU*,oct-24,2024,10,Subempleo por insuficiencia de tiempo de trabajo,1725099,1145011,580089
+ENEMDU*,oct-24,2024,10,Subempleo por insuficiencia de ingresos,63130,31588,31542
+ENEMDU*,oct-24,2024,10,Empleo no remunerado,792862,214551,578311
+ENEMDU*,may-25,2025,5,Desempleo Oculto,23777,17619,6158
+ENEMDU*,may-25,2025,5,Desempleo Cesante,235563,200384,35179
+ENEMDU*,may-25,2025,5,Desempleo Nuevo,124215,105651,18565
+ENEMDU*,may-25,2025,5,Poblaciï¿½n Econï¿½micamente Inactiva,4632051,3489476,1142575
+ENEMDU*,sep-24,2024,9,Poblaciï¿½n en Edad de Trabajar (PET),13264107,9244451,4019656
+ENEMDU*,sep-24,2024,9,Poblaciï¿½n Econï¿½micamente Activa,8731106,5707049,3024057
+ENEMDU*,sep-24,2024,9,Empleo,8408857,5425141,2983716
+ENEMDU*,sep-24,2024,9,Empleo Adecuado/Pleno,3155113,2569004,586109
+ENEMDU*,sep-24,2024,9,Subempleo,1849048,1182134,666914
+ENEMDU*,sep-24,2024,9,Subempleo por insuficiencia de tiempo de trabajo,1736411,1141645,594766
+ENEMDU*,sep-24,2024,9,Subempleo por insuficiencia de ingresos,112637,40489,72147
+ENEMDU*,sep-24,2024,9,Empleo no remunerado,954343,207413,746930
+ENEMDU*,sep-24,2024,9,Otro Empleo no pleno,2429177,1451370,977807
+ENEMDU*,sep-24,2024,9,Empleo no clasificado,21177,15220,5957
+ENEMDU*,sep-24,2024,9,Desempleo,322249,281908,40341
+ENEMDU*,sep-24,2024,9,Desempleo Abierto,301380,268247,33134
+ENEMDU*,sep-24,2024,9,Desempleo Oculto,20868,13661,7207
+ENEMDU*,may-25,2025,5,Poblaciï¿½n menor de 15 aï¿½os,5448742,3510987,1937755
+ENEMDU*,may-25,2025,5,Poblaciï¿½n en Edad de Trabajar (PET),13384924,9328655,4056269
+ENEMDU*,may-25,2025,5,Poblaciï¿½n Econï¿½micamente Activa,8752873,5839179,2913694
+ENEMDU*,may-25,2025,5,Empleo,8393095,5533144,2859950
+ENEMDU*,may-25,2025,5,Empleo Adecuado/Pleno,3080071,2565818,514253
+ENEMDU*,may-25,2025,5,Subempleo,1826910,1114907,712004
+ENEMDU*,may-25,2025,5,Subempleo por insuficiencia de tiempo de trabajo,1733632,1066835,666797
+ENEMDU*,may-25,2025,5,Subempleo por insuficiencia de ingresos,93278,48072,45206
+ENEMDU*,may-25,2025,5,Empleo no remunerado,829776,238563,591213
+ENEMDU*,may-25,2025,5,Otro Empleo no pleno,2645564,1603083,1042481
+ENEMDU*,may-25,2025,5,Empleo no clasificado,10774,10774,0
+ENEMDU*,may-25,2025,5,Desempleo,359778,306034,53744
+ENEMDU*,may-25,2025,5,Desempleo Abierto,336001,288416,47586
+ENEMDU*,ago-24,2024,8,Subempleo por insuficiencia de tiempo de trabajo,1743340,1147928,595412
+ENEMDU*,ago-24,2024,8,Subempleo por insuficiencia de ingresos,86130,43355,42774
+ENEMDU*,ago-24,2024,8,Empleo no remunerado,892449,215015,677434
+ENEMDU*,ago-24,2024,8,Otro Empleo no pleno,2571208,1493181,1078027
+ENEMDU*,ago-24,2024,8,Empleo no clasificado,14211,13446,765
+ENEMDU*,ago-24,2024,8,Desempleo,343995,300230,43765
+ENEMDU*,ago-24,2024,8,Desempleo Abierto,322177,283177,39000
+ENEMDU*,ago-24,2024,8,Desempleo Oculto,21818,17053,4765
+ENEMDU*,ago-24,2024,8,Desempleo Cesante,250896,220487,30408
+ENEMDU*,ago-24,2024,8,Desempleo Nuevo,93099,79742,13357
+ENEMDU*,ago-24,2024,8,Poblaciï¿½n Econï¿½micamente Inactiva,4641622,3606350,1035271
+ENEMDU*,sep-24,2024,9,Poblaciï¿½n Total,18663668,12723749,5939919
+ENEMDU*,sep-24,2024,9,Poblaciï¿½n menor de 15 aï¿½os,5399561,3479298,1920263
+ENEMDU*,abr-25,2025,4,Subempleo,1792390,1217230,575161
+ENEMDU*,abr-25,2025,4,Subempleo por insuficiencia de tiempo de trabajo,1702108,1170535,531573
+ENEMDU*,abr-25,2025,4,Subempleo por insuficiencia de ingresos,90283,46695,43588
+ENEMDU*,abr-25,2025,4,Empleo no remunerado,803328,195511,607816
+ENEMDU*,abr-25,2025,4,Otro Empleo no pleno,2545349,1435691,1109659
+ENEMDU*,abr-25,2025,4,Empleo no clasificado,7639,7015,624
+ENEMDU*,abr-25,2025,4,Desempleo,309055,261004,48051
+ENEMDU*,abr-25,2025,4,Desempleo Abierto,278438,235924,42514
+ENEMDU*,abr-25,2025,4,Desempleo Oculto,30617,25080,5538
+ENEMDU*,abr-25,2025,4,Desempleo Cesante,222970,193309,29661
+ENEMDU*,abr-25,2025,4,Desempleo Nuevo,86086,67695,18390
+ENEMDU*,abr-25,2025,4,Poblaciï¿½n Econï¿½micamente Inactiva,4872271,3732800,1139471
+ENEMDU*,may-25,2025,5,Poblaciï¿½n Total,18833666,12839642,5994024
+ENEMDU*,ago-25,2025,8,Desempleo Oculto,21658,18909,2749
+ENEMDU*,ago-25,2025,8,Desempleo Cesante,219030,201203,17828
+ENEMDU*,ago-25,2025,8,Desempleo Nuevo,101000,83876,17125
+ENEMDU*,ago-25,2025,8,Poblaciï¿½n Econï¿½micamente Inactiva,4489870,3492965,996905
+ENEMDU*,sep-25,2025,9,Poblaciï¿½n Total,18919254,12897990,6021264
+ENEMDU*,sep-25,2025,9,Poblaciï¿½n menor de 15 aï¿½os,5473501,3526940,1946561
+ENEMDU*,sep-25,2025,9,Poblaciï¿½n en Edad de Trabajar (PET),13445753,9371050,4074703
+ENEMDU*,sep-25,2025,9,Poblaciï¿½n Econï¿½micamente Activa,8873597,5808179,3065418
+ENEMDU*,jul-25,2025,7,Poblaciï¿½n Econï¿½micamente Inactiva,4842234,3628820,1213414
+ENEMDU*,ago-25,2025,8,Poblaciï¿½n Total,18897823,12883381,6014442
+ENEMDU*,ago-25,2025,8,Poblaciï¿½n menor de 15 aï¿½os,5467303,3522947,1944356
+ENEMDU*,ago-25,2025,8,Poblaciï¿½n en Edad de Trabajar (PET),13430520,9360434,4070086
+ENEMDU*,ago-25,2025,8,Poblaciï¿½n Econï¿½micamente Activa,8940650,5867469,3073181
+ENEMDU*,ago-25,2025,8,Empleo,8620619,5582390,3038229
+ENEMDU*,ago-25,2025,8,Empleo Adecuado/Pleno,3138567,2639921,498645
+ENEMDU*,ago-25,2025,8,Subempleo,1730032,1096341,633691
+ENEMDU*,ago-25,2025,8,Subempleo por insuficiencia de tiempo de trabajo,1610439,1039530,570910
+ENEMDU*,ago-25,2025,8,Subempleo por insuficiencia de ingresos,119593,56811,62782
+ENEMDU*,ago-25,2025,8,Empleo no remunerado,925308,218055,707253
+ENEMDU*,ago-25,2025,8,Otro Empleo no pleno,2798365,1609592,1188774
+ENEMDU*,ago-25,2025,8,Empleo no clasificado,28347,18481,9866
+ENEMDU*,dic-24,2024,12,Desempleo Abierto,199341,177999,21342
+ENEMDU*,dic-24,2024,12,Desempleo Oculto,31050,20718,10332
+ENEMDU*,dic-24,2024,12,Desempleo Cesante,129740,116437,13303
+ENEMDU*,dic-24,2024,12,Desempleo Nuevo,100651,82280,18371
+ENEMDU*,dic-24,2024,12,Poblaciï¿½n Econï¿½micamente Inactiva,4738992,3766073,972919
+ENEMDU*,ene-25,2025,1,Poblaciï¿½n Total,18748480,12781567,5966913
+ENEMDU*,ene-25,2025,1,Poblaciï¿½n menor de 15 aï¿½os,5424097,3495105,1928992
+ENEMDU*,ene-25,2025,1,Poblaciï¿½n en Edad de Trabajar (PET),13324383,9286462,4037921
+ENEMDU*,ene-25,2025,1,Poblaciï¿½n Econï¿½micamente Activa,8380942,5343015,3037927
+ENEMDU*,ene-25,2025,1,Empleo,8060945,5072133,2988812
+ENEMDU*,ene-25,2025,1,Empleo Adecuado/Pleno,2852323,2360057,492266
+ENEMDU*,ene-25,2025,1,Subempleo,1730479,1160359,570121
+ENEMDU*,ene-25,2025,1,Subempleo por insuficiencia de tiempo de trabajo,1659303,1123680,535623
+ENEMDU*,ago-25,2025,8,Desempleo,320031,285078,34953
+ENEMDU*,ago-25,2025,8,Desempleo Abierto,298373,266169,32203
+ENEMDU*,nov-24,2024,11,Empleo Adecuado/Pleno,2905637,2393536,512101
+ENEMDU*,nov-24,2024,11,Subempleo,1958120,1272083,686037
+ENEMDU*,nov-24,2024,11,Subempleo por insuficiencia de tiempo de trabajo,1863632,1227291,636342
+ENEMDU*,nov-24,2024,11,Subempleo por insuficiencia de ingresos,94487,44792,49695
+ENEMDU*,nov-24,2024,11,Empleo no remunerado,958189,223347,734842
+ENEMDU*,nov-24,2024,11,Otro Empleo no pleno,2471745,1404692,1067053
+ENEMDU*,nov-24,2024,11,Empleo no clasificado,8042,7116,926
+ENEMDU*,nov-24,2024,11,Desempleo,322001,283358,38643
+ENEMDU*,nov-24,2024,11,Desempleo Abierto,305336,268334,37002
+ENEMDU*,nov-24,2024,11,Desempleo Oculto,16665,15024,1641
+ENEMDU*,nov-24,2024,11,Desempleo Cesante,226189,198339,27850
+ENEMDU*,nov-24,2024,11,Desempleo Nuevo,95812,85019,10793
+ENEMDU*,nov-24,2024,11,Poblaciï¿½n Econï¿½micamente Inactiva,4670476,3681297,989179
+ENEMDU*,jul-25,2025,7,Empleo,8291971,5479266,2812705
+ENEMDU*,jul-25,2025,7,Empleo Adecuado/Pleno,3309499,2675672,633827
+ENEMDU*,jul-25,2025,7,Subempleo,1735505,1107421,628084
+ENEMDU*,jul-25,2025,7,Subempleo por insuficiencia de tiempo de trabajo,1666120,1073134,592986
+ENEMDU*,jul-25,2025,7,Subempleo por insuficiencia de ingresos,69385,34287,35098
+ENEMDU*,jul-25,2025,7,Empleo no remunerado,747977,193232,554745
+ENEMDU*,jul-25,2025,7,Otro Empleo no pleno,2474895,1478846,996049
+ENEMDU*,jul-25,2025,7,Empleo no clasificado,24096,24096,0
+ENEMDU*,jul-25,2025,7,Desempleo,281097,241742,39355
+ENEMDU*,jul-25,2025,7,Desempleo Abierto,249366,212441,36925
+ENEMDU*,jul-25,2025,7,Desempleo Oculto,31731,29302,2430
+ENEMDU*,jul-25,2025,7,Desempleo Cesante,201690,171362,30328
+ENEMDU*,jul-25,2025,7,Desempleo Nuevo,79408,70380,9027
+ENEMDU*,oct-24,2024,10,Otro Empleo no pleno,2561480,1441833,1119647
+ENEMDU*,oct-24,2024,10,Empleo no clasificado,8711,8483,228
+ENEMDU*,oct-24,2024,10,Desempleo,297826,261809,36017
+ENEMDU*,oct-24,2024,10,Desempleo Abierto,283604,249830,33774
+ENEMDU*,oct-24,2024,10,Desempleo Oculto,14222,11980,2242
+ENEMDU*,oct-24,2024,10,Desempleo Cesante,216633,191071,25561
+ENEMDU*,oct-24,2024,10,Desempleo Nuevo,81194,70738,10455
+ENEMDU*,oct-24,2024,10,Poblaciï¿½n Econï¿½micamente Inactiva,4857873,3683948,1173925
+ENEMDU*,nov-24,2024,11,Poblaciï¿½n Total,18706022,12752618,5953404
+ENEMDU*,nov-24,2024,11,Poblaciï¿½n menor de 15 aï¿½os,5411812,3487189,1924623
+ENEMDU*,nov-24,2024,11,Poblaciï¿½n en Edad de Trabajar (PET),13294210,9265429,4028781
+ENEMDU*,nov-24,2024,11,Poblaciï¿½n Econï¿½micamente Activa,8623734,5584132,3039602
+ENEMDU*,nov-24,2024,11,Empleo,8301733,5300774,3000959
+ENEMDU*,jun-25,2025,6,Empleo no remunerado,976855,220138,756717
+ENEMDU*,jun-25,2025,6,Otro Empleo no pleno,2634560,1572711,1061849
+ENEMDU*,jun-25,2025,6,Empleo no clasificado,16592,16209,383
+ENEMDU*,jun-25,2025,6,Desempleo,309389,261275,48115
+ENEMDU*,jun-25,2025,6,Desempleo Abierto,274710,239763,34947
+ENEMDU*,jun-25,2025,6,Desempleo Oculto,34679,21511,13168
+ENEMDU*,jun-25,2025,6,Desempleo Cesante,197575,166691,30884
+ENEMDU*,jun-25,2025,6,Desempleo Nuevo,111815,94584,17231
+ENEMDU*,jun-25,2025,6,Poblaciï¿½n Econï¿½micamente Inactiva,4557192,3558015,999177
+ENEMDU*,jul-25,2025,7,Poblaciï¿½n Total,18876415,12868786,6007629
+ENEMDU*,jul-25,2025,7,Poblaciï¿½n menor de 15 aï¿½os,5461112,3518958,1942154
+ENEMDU*,dic-24,2024,12,Poblaciï¿½n Total,18727237,12767086,5960151
+ENEMDU*,dic-24,2024,12,Poblaciï¿½n menor de 15 aï¿½os,5417949,3491145,1926804
+ENEMDU*,dic-24,2024,12,Poblaciï¿½n en Edad de Trabajar (PET),13309288,9275941,4033347
+ENEMDU*,dic-24,2024,12,Poblaciï¿½n Econï¿½micamente Activa,8570296,5509867,3060428
+ENEMDU*,dic-24,2024,12,Empleo,8339905,5311151,3028754
+ENEMDU*,jul-25,2025,7,Poblaciï¿½n en Edad de Trabajar (PET),13415303,9349828,4065475
+ENEMDU*,jul-25,2025,7,Poblaciï¿½n Econï¿½micamente Activa,8573069,5721008,2852061
+ENEMDU*,dic-24,2024,12,Empleo Adecuado/Pleno,2830688,2288322,542366
+ENEMDU*,dic-24,2024,12,Subempleo,2095810,1379683,716127
+ENEMDU*,dic-24,2024,12,Subempleo por insuficiencia de tiempo de trabajo,1987748,1332952,654796
+ENEMDU*,dic-24,2024,12,Subempleo por insuficiencia de ingresos,108062,46732,61331
+ENEMDU*,dic-24,2024,12,Empleo no remunerado,931399,196862,734537
+ENEMDU*,dic-24,2024,12,Otro Empleo no pleno,2471543,1436117,1035426
+ENEMDU*,dic-24,2024,12,Empleo no clasificado,10464,10165,299
+ENEMDU*,dic-24,2024,12,Desempleo,230391,198717,31674
+ENEMDU*,nov-23,2023,11,Desempleo Nuevo,74585,63349,11237
+ENEMDU*,nov-23,2023,11,Poblaciï¿½n Econï¿½micamente Inactiva,4622213,3581480,1040733
+ENEMDU*,dic-23,2023,12,Poblaciï¿½n Total,18474053,12594520,5879533
+ENEMDU*,dic-23,2023,12,Poblaciï¿½n menor de 15 aï¿½os,5344682,3443952,1900730
+ENEMDU*,dic-23,2023,12,Poblaciï¿½n en Edad de Trabajar (PET),13129371,9150568,3978803
+ENEMDU*,dic-23,2023,12,Poblaciï¿½n Econï¿½micamente Activa,8613358,5643240,2970118
+ENEMDU*,dic-23,2023,12,Empleo,8321939,5392820,2929119
+ENEMDU*,dic-23,2023,12,Subempleo,1824737,1161340,663397
+ENEMDU*,dic-23,2023,12,Subempleo por insuficiencia de tiempo de trabajo,1711790,1112678,599112
+ENEMDU*,oct-25,2025,10,Desempleo Cesante,178518,156891,21628
+ENEMDU*,oct-25,2025,10,Desempleo Nuevo,98448,79371,19077
+ENEMDU*,oct-25,2025,10,Poblaciï¿½n Econï¿½micamente Inactiva,4839545,3681355,1158191
+ENEMDU*,dic-23,2023,12,Empleo Adecuado/Pleno,3093647,2554931,538716
+ENEMDU*,abr-24,2024,4,Empleo no clasificado,10717,10717,0
+ENEMDU*,abr-24,2024,4,Desempleo,291597,251342,40255
+ENEMDU*,abr-24,2024,4,Desempleo Abierto,266373,230522,35850
+ENEMDU*,dic-23,2023,12,Subempleo por insuficiencia de ingresos,112947,48662,64285
+ENEMDU*,dic-23,2023,12,Empleo no remunerado,941134,265385,675749
+ENEMDU*,nov-25,2025,11,Poblaciï¿½n Total,18962191,12927267,6034924
+ENEMDU*,nov-25,2025,11,Poblaciï¿½n menor de 15 aï¿½os,5485926,3534949,1950977
+ENEMDU*,nov-25,2025,11,Poblaciï¿½n en Edad de Trabajar (PET),13476265,9392318,4083947
+ENEMDU*,nov-25,2025,11,Poblaciï¿½n Econï¿½micamente Activa,8889518,5845369,3044149
+ENEMDU*,nov-25,2025,11,Empleo,8595647,5624256,2971390
+ENEMDU*,nov-25,2025,11,Empleo Adecuado/Pleno,3228701,2769686,459015
+ENEMDU*,nov-25,2025,11,Subempleo,1664688,1148330,516358
+ENEMDU*,nov-25,2025,11,Subempleo por insuficiencia de tiempo de trabajo,1610186,1119621,490565
+ENEMDU*,nov-25,2025,11,Subempleo por insuficiencia de ingresos,54502,28709,25793
+ENEMDU*,nov-25,2025,11,Empleo no remunerado,959469,222236,737234
+ENEMDU*,abr-24,2024,4,Poblaciï¿½n menor de 15 aï¿½os,5368982,3459593,1909389
+ENEMDU*,abr-24,2024,4,Poblaciï¿½n en Edad de Trabajar (PET),13188992,9192100,3996892
+ENEMDU*,abr-24,2024,4,Poblaciï¿½n Econï¿½micamente Activa,8608443,5592772,3015671
+ENEMDU*,abr-24,2024,4,Empleo,8316846,5341430,2975417
+ENEMDU*,abr-24,2024,4,Empleo Adecuado/Pleno,2894141,2410852,483289
+ENEMDU*,abr-24,2024,4,Subempleo,1812153,1150111,662042
+ENEMDU*,abr-24,2024,4,Subempleo por insuficiencia de tiempo de trabajo,1716143,1088847,627296
+ENEMDU*,abr-24,2024,4,Subempleo por insuficiencia de ingresos,96010,61264,34746
+ENEMDU*,abr-24,2024,4,Empleo no remunerado,978103,229713,748390
+ENEMDU*,abr-24,2024,4,Otro Empleo no pleno,2621732,1540037,1081696
+ENEMDU*,nov-23,2023,11,Desempleo Abierto,273101,249497,23604
+ENEMDU*,nov-23,2023,11,Desempleo Oculto,20480,15908,4572
+ENEMDU*,nov-23,2023,11,Desempleo Cesante,218996,202056,16940
+ENEMDU*,oct-25,2025,10,Subempleo,1723617,1125007,598610
+ENEMDU*,oct-25,2025,10,Subempleo por insuficiencia de tiempo de trabajo,1639132,1076066,563066
+ENEMDU*,oct-25,2025,10,Subempleo por insuficiencia de ingresos,84485,48941,35544
+ENEMDU*,oct-25,2025,10,Empleo no remunerado,730681,187715,542966
+ENEMDU*,oct-25,2025,10,Otro Empleo no pleno,2620713,1481415,1139298
+ENEMDU*,oct-25,2025,10,Empleo no clasificado,44189,43870,319
+ENEMDU*,oct-25,2025,10,Desempleo,276966,236262,40704
+ENEMDU*,oct-25,2025,10,Desempleo Abierto,243928,211972,31955
+ENEMDU*,oct-25,2025,10,Desempleo Oculto,33038,24289,8749
+ENEMDU*,ene-25,2025,1,Subempleo por insuficiencia de ingresos,71176,36679,34497
+ENEMDU*,ene-25,2025,1,Empleo no remunerado,1050103,182396,867707
+ENEMDU*,ene-25,2025,1,Otro Empleo no pleno,2409448,1351159,1058288
+ENEMDU*,ene-25,2025,1,Empleo no clasificado,18592,18162,430
+ENEMDU*,ene-25,2025,1,Desempleo,319997,270882,49115
+ENEMDU*,ene-25,2025,1,Desempleo Abierto,277732,245938,31793
+ENEMDU*,ene-25,2025,1,Desempleo Oculto,42265,24943,17322
+ENEMDU*,ene-25,2025,1,Desempleo Cesante,226983,201176,25807
+ENEMDU*,ene-25,2025,1,Desempleo Nuevo,93014,69706,23308
+ENEMDU*,ene-25,2025,1,Poblaciï¿½n Econï¿½micamente Inactiva,4943441,3943447,999994
+ENEMDU*,feb-25,2025,2,Poblaciï¿½n Total,18769750,12796069,5973681
+ENEMDU*,feb-25,2025,2,Poblaciï¿½n menor de 15 aï¿½os,5430254,3499076,1931179
+ENEMDU*,feb-25,2025,2,Poblaciï¿½n en Edad de Trabajar (PET),13339496,9296993,4042502
+ENEMDU*,sep-25,2025,9,Subempleo por insuficiencia de tiempo de trabajo,1468629,1000812,467817
+ENEMDU*,sep-25,2025,9,Subempleo por insuficiencia de ingresos,94212,51364,42848
+ENEMDU*,sep-25,2025,9,Empleo no remunerado,994001,223302,770699
+ENEMDU*,sep-25,2025,9,Otro Empleo no pleno,2729468,1601386,1128082
+ENEMDU*,sep-25,2025,9,Empleo no clasificado,19377,17489,1888
+ENEMDU*,sep-25,2025,9,Desempleo,283279,236484,46795
+ENEMDU*,sep-25,2025,9,Desempleo Abierto,253827,216540,37287
+ENEMDU*,sep-25,2025,9,Desempleo Oculto,29452,19944,9508
+ENEMDU*,sep-25,2025,9,Desempleo Cesante,187193,154078,33115
+ENEMDU*,sep-25,2025,9,Desempleo Nuevo,96086,82406,13680
+ENEMDU*,sep-25,2025,9,Poblaciï¿½n Econï¿½micamente Inactiva,4572156,3562871,1009285
+ENEMDU*,oct-25,2025,10,Poblaciï¿½n Total,18940711,12912618,6028093
+ENEMDU*,oct-25,2025,10,Poblaciï¿½n menor de 15 aï¿½os,5479711,3530942,1948769
+ENEMDU*,sep-25,2025,9,Empleo,8590318,5571695,3018623
+ENEMDU*,sep-25,2025,9,Empleo Adecuado/Pleno,3284631,2677342,607289
+ENEMDU*,sep-25,2025,9,Subempleo,1562841,1052176,510665
+ENEMDU*,feb-25,2025,2,Poblaciï¿½n Econï¿½micamente Activa,8646099,5647017,2999082
+ENEMDU*,feb-25,2025,2,Empleo,8347388,5397579,2949809
+ENEMDU*,feb-25,2025,2,Empleo Adecuado/Pleno,3063042,2428184,634859
+ENEMDU*,feb-25,2025,2,Subempleo,1665780,1184949,480831
+ENEMDU*,feb-25,2025,2,Subempleo por insuficiencia de tiempo de trabajo,1607932,1156670,451262
+ENEMDU*,feb-25,2025,2,Subempleo por insuficiencia de ingresos,57848,28279,29569
+ENEMDU*,feb-25,2025,2,Empleo no remunerado,1025644,254022,771622
+ENEMDU*,feb-25,2025,2,Otro Empleo no pleno,2582321,1520417,1061904
+ENEMDU*,feb-25,2025,2,Empleo no clasificado,10600,10007,594
+ENEMDU*,feb-25,2025,2,Desempleo,298711,249438,49273
+ENEMDU*,feb-25,2025,2,Desempleo Abierto,254360,209233,45128
+ENEMDU*,feb-25,2025,2,Desempleo Oculto,44351,40206,4145
+ENEMDU*,feb-25,2025,2,Desempleo Cesante,188461,156590,31871
+ENEMDU*,oct-25,2025,10,Poblaciï¿½n en Edad de Trabajar (PET),13460999,9381676,4079323
+ENEMDU*,oct-25,2025,10,Poblaciï¿½n Econï¿½micamente Activa,8621454,5700321,2921133
+ENEMDU*,oct-25,2025,10,Empleo,8344488,5464059,2880428
+ENEMDU*,oct-25,2025,10,Empleo Adecuado/Pleno,3225288,2626052,599235
+ENEMDU*,feb-24,2024,2,Empleo no clasificado,27038,22908,4130
+ENEMDU*,feb-24,2024,2,Desempleo,353705,299687,54018
+ENEMDU*,feb-24,2024,2,Desempleo Abierto,322082,275350,46733
+ENEMDU*,feb-24,2024,2,Desempleo Oculto,31622,24337,7285
+ENEMDU*,feb-24,2024,2,Desempleo Cesante,252495,223055,29440
+ENEMDU*,ene-26,2026,1,Subempleo por insuficiencia de ingresos,45809,28903,16906
+ENEMDU*,ene-26,2026,1,Empleo no remunerado,611093,186764,424329
+ENEMDU*,ene-26,2026,1,Otro Empleo no pleno,2628737,1452397,1176339
+ENEMDU*,feb-24,2024,2,Desempleo Nuevo,101210,76632,24578
+ENEMDU*,feb-24,2024,2,Poblaciï¿½n Econï¿½micamente Inactiva,4813670,3736506,1077164
+ENEMDU*,mar-24,2024,3,Poblaciï¿½n Total,18536996,12637407,5899589
+ENEMDU*,mar-24,2024,3,Poblaciï¿½n menor de 15 aï¿½os,5362901,3455685,1907216
+ENEMDU*,mar-24,2024,3,Poblaciï¿½n en Edad de Trabajar (PET),13174095,9181722,3992373
+ENEMDU*,mar-24,2024,3,Poblaciï¿½n Econï¿½micamente Activa,8529124,5587960,2941164
+ENEMDU*,mar-24,2024,3,Empleo,8208260,5297740,2910521
+ENEMDU*,ene-26,2026,1,Empleo no clasificado,16938,16691,246
+ENEMDU*,ene-26,2026,1,Desempleo,284603,222638,61965
+ENEMDU*,mar-26,2026,3,Desempleo Nuevo,97359,75119,22240
+ENEMDU*,mar-26,2026,3,Poblaciï¿½n Econï¿½micamente Inactiva,4816681,3763501,1053180
+ENEMDU*,abr-26,2026,4,Poblaciï¿½n Total,19069973,13000742,6069231
+ENEMDU*,abr-26,2026,4,Poblaciï¿½n menor de 15 aï¿½os,5517109,3555040,1962069
+ENEMDU*,abr-26,2026,4,Poblaciï¿½n en Edad de Trabajar (PET),13552865,9445703,4107162
+ENEMDU*,mar-24,2024,3,Empleo Adecuado/Pleno,2937706,2457428,480278
+ENEMDU*,abr-26,2026,4,Poblaciï¿½n Econï¿½micamente Activa,8855594,5908976,2946617
+ENEMDU*,abr-26,2026,4,Empleo,8578384,5668294,2910090
+ENEMDU*,abr-26,2026,4,Empleo Adecuado/Pleno,3035144,2520721,514422
+ENEMDU*,abr-26,2026,4,Subempleo,1731147,1156233,574914
+ENEMDU*,abr-26,2026,4,Subempleo por insuficiencia de tiempo de trabajo,1673931,1129857,544074
+ENEMDU*,abr-26,2026,4,Subempleo por insuficiencia de ingresos,57216,26376,30840
+ENEMDU*,abr-26,2026,4,Empleo no remunerado,785164,203133,582030
+ENEMDU*,abr-26,2026,4,Otro Empleo no pleno,3004772,1769946,1234826
+ENEMDU*,jun-24,2024,6,Empleo,8407861,5398939,3008921
+ENEMDU*,jun-24,2024,6,Empleo Adecuado/Pleno,3074822,2542431,532391
+ENEMDU*,jun-24,2024,6,Subempleo,1729715,1128566,601149
+ENEMDU*,jun-24,2024,6,Subempleo por insuficiencia de tiempo de trabajo,1626314,1066433,559880
+ENEMDU*,jun-24,2024,6,Subempleo por insuficiencia de ingresos,103401,62132,41269
+ENEMDU*,jun-24,2024,6,Empleo no remunerado,973842,221170,752672
+ENEMDU*,jun-24,2024,6,Otro Empleo no pleno,2620684,1500955,1119729
+ENEMDU*,jun-24,2024,6,Empleo no clasificado,8798,5818,2980
+ENEMDU*,jun-24,2024,6,Desempleo,272275,233250,39025
+ENEMDU*,jun-24,2024,6,Desempleo Abierto,252251,221780,30471
+ENEMDU*,jun-24,2024,6,Desempleo Oculto,20024,11470,8554
+ENEMDU*,jun-24,2024,6,Desempleo Cesante,191927,168548,23379
+ENEMDU*,jun-24,2024,6,Desempleo Nuevo,80348,64702,15646
+ENEMDU*,feb-24,2024,2,Poblaciï¿½n Total,18515953,12623092,5892861
+ENEMDU*,feb-24,2024,2,Poblaciï¿½n menor de 15 aï¿½os,5356842,3451784,1905058
+ENEMDU*,feb-24,2024,2,Poblaciï¿½n en Edad de Trabajar (PET),13159111,9171308,3987803
+ENEMDU*,feb-24,2024,2,Poblaciï¿½n Econï¿½micamente Activa,8345441,5434802,2910639
+ENEMDU*,feb-24,2024,2,Empleo,7991736,5135116,2856621
+ENEMDU*,feb-24,2024,2,Empleo Adecuado/Pleno,2832153,2354669,477484
+ENEMDU*,feb-24,2024,2,Subempleo,1773116,1138587,634529
+ENEMDU*,feb-24,2024,2,Subempleo por insuficiencia de tiempo de trabajo,1688953,1082830,606124
+ENEMDU*,feb-24,2024,2,Subempleo por insuficiencia de ingresos,84163,55757,28406
+ENEMDU*,feb-24,2024,2,Empleo no remunerado,931088,229771,701318
+ENEMDU*,feb-24,2024,2,Otro Empleo no pleno,2428341,1389182,1039159
+ENEMDU*,ene-26,2026,1,Poblaciï¿½n Total,19005230,12956604,6048626
+ENEMDU*,ene-26,2026,1,Poblaciï¿½n menor de 15 aï¿½os,5498377,3542972,1955405
+ENEMDU*,ene-26,2026,1,Poblaciï¿½n en Edad de Trabajar (PET),13506853,9413632,4093221
+ENEMDU*,ene-26,2026,1,Poblaciï¿½n Econï¿½micamente Activa,8427512,5625931,2801581
+ENEMDU*,ene-26,2026,1,Empleo,8142909,5403293,2739616
+ENEMDU*,ene-26,2026,1,Empleo Adecuado/Pleno,3085781,2516164,569617
+ENEMDU*,ene-26,2026,1,Subempleo,1800361,1231276,569084
+ENEMDU*,ene-26,2026,1,Subempleo por insuficiencia de tiempo de trabajo,1754551,1202374,552178
+ENEMDU*,ene-24,2024,1,Desempleo Cesante,244556,213158,31397
+ENEMDU*,dic-25,2025,12,Empleo Adecuado/Pleno,3178815,2580518,598297
+ENEMDU*,dic-25,2025,12,Subempleo,1489246,1001595,487651
+ENEMDU*,dic-25,2025,12,Subempleo por insuficiencia de tiempo de trabajo,1408385,976209,432176
+ENEMDU*,dic-25,2025,12,Subempleo por insuficiencia de ingresos,80861,25386,55475
+ENEMDU*,dic-25,2025,12,Empleo no remunerado,838925,175411,663514
+ENEMDU*,dic-25,2025,12,Otro Empleo no pleno,2811839,1638284,1173555
+ENEMDU*,dic-25,2025,12,Empleo no clasificado,32625,31511,1114
+ENEMDU*,dic-25,2025,12,Desempleo,223995,179520,44475
+ENEMDU*,dic-25,2025,12,Desempleo Abierto,207514,170539,36975
+ENEMDU*,dic-25,2025,12,Desempleo Oculto,16481,8981,7500
+ENEMDU*,dic-25,2025,12,Desempleo Cesante,133655,111962,21693
+ENEMDU*,dic-25,2025,12,Desempleo Nuevo,90340,67558,22781
+ENEMDU*,dic-25,2025,12,Poblaciï¿½n Econï¿½micamente Inactiva,4916110,3796134,1119976
+ENEMDU*,mar-26,2026,3,Poblaciï¿½n Econï¿½micamente Activa,8720823,5671495,3049328
+ENEMDU*,mar-26,2026,3,Empleo,8468803,5464119,3004684
+ENEMDU*,mar-26,2026,3,Empleo Adecuado/Pleno,2795897,2296487,499410
+ENEMDU*,mar-26,2026,3,Subempleo,1708726,1179920,528806
+ENEMDU*,mar-26,2026,3,Subempleo por insuficiencia de tiempo de trabajo,1611763,1132961,478802
+ENEMDU*,mar-26,2026,3,Subempleo por insuficiencia de ingresos,96964,46959,50005
+ENEMDU*,mar-26,2026,3,Empleo no remunerado,908041,160285,747756
+ENEMDU*,mar-26,2026,3,Otro Empleo no pleno,3039206,1813025,1226180
+ENEMDU*,mar-26,2026,3,Empleo no clasificado,16933,14402,2531
+ENEMDU*,mar-26,2026,3,Desempleo,252020,207376,44643
+ENEMDU*,mar-26,2026,3,Desempleo Abierto,226504,191851,34653
+ENEMDU*,mar-26,2026,3,Desempleo Oculto,25516,15525,9990
+ENEMDU*,mar-26,2026,3,Desempleo Cesante,154661,132257,22404
+ENEMDU*,may-24,2024,5,Empleo no remunerado,869022,234327,634695
+ENEMDU*,may-24,2024,5,Otro Empleo no pleno,2493787,1491878,1001909
+ENEMDU*,may-24,2024,5,Empleo no clasificado,7205,5995,1210
+ENEMDU*,may-24,2024,5,Desempleo,298898,257394,41504
+ENEMDU*,may-24,2024,5,Desempleo Abierto,275272,240243,35029
+ENEMDU*,may-24,2024,5,Desempleo Oculto,23626,17151,6475
+ENEMDU*,may-24,2024,5,Desempleo Cesante,197880,174671,23209
+ENEMDU*,may-24,2024,5,Desempleo Nuevo,101018,82723,18295
+ENEMDU*,dic-23,2023,12,Otro Empleo no pleno,2449364,1398465,1050900
+ENEMDU*,dic-23,2023,12,Empleo no clasificado,13057,12699,358
+ENEMDU*,dic-23,2023,12,Desempleo,291419,250421,40999
+ENEMDU*,dic-23,2023,12,Desempleo Abierto,264616,232267,32350
+ENEMDU*,dic-23,2023,12,Desempleo Oculto,26803,18154,8649
+ENEMDU*,may-24,2024,5,Poblaciï¿½n Econï¿½micamente Inactiva,4776312,3640997,1135315
+ENEMDU*,jun-24,2024,6,Poblaciï¿½n Total,18600312,12680555,5919757
+ENEMDU*,jun-24,2024,6,Poblaciï¿½n menor de 15 aï¿½os,5381231,3467486,1913745
+ENEMDU*,jun-24,2024,6,Poblaciï¿½n en Edad de Trabajar (PET),13219081,9213069,4006012
+ENEMDU*,jun-24,2024,6,Poblaciï¿½n Econï¿½micamente Activa,8680135,5632189,3047946
+ENEMDU*,ene-24,2024,1,Desempleo Nuevo,90865,83717,7148
+ENEMDU*,ene-24,2024,1,Poblaciï¿½n Econï¿½micamente Inactiva,4596608,3650073,946535
+ENEMDU*,dic-23,2023,12,Desempleo Cesante,200610,176744,23866
+ENEMDU*,dic-23,2023,12,Desempleo Nuevo,90809,73677,17132
+ENEMDU*,dic-23,2023,12,Poblaciï¿½n Econï¿½micamente Inactiva,4516013,3507328,1008685
+ENEMDU*,ene-24,2024,1,Poblaciï¿½n Total,18494957,12608757,5886200
+ENEMDU*,ene-24,2024,1,Poblaciï¿½n menor de 15 aï¿½os,5350758,3447872,1902886
+ENEMDU*,ene-24,2024,1,Poblaciï¿½n en Edad de Trabajar (PET),13144199,9160885,3983314
+ENEMDU*,nov-25,2025,11,Otro Empleo no pleno,2710836,1457732,1253105
+ENEMDU*,nov-25,2025,11,Empleo no clasificado,31952,26274,5678
+ENEMDU*,nov-25,2025,11,Desempleo,293872,221113,72759
+ENEMDU*,nov-25,2025,11,Desempleo Abierto,260561,208032,52529
+ENEMDU*,nov-25,2025,11,Desempleo Oculto,33311,13081,20230
+ENEMDU*,nov-25,2025,11,Desempleo Cesante,184264,149700,34564
+ENEMDU*,nov-25,2025,11,Desempleo Nuevo,109608,71413,38195
+ENEMDU*,nov-25,2025,11,Poblaciï¿½n Econï¿½micamente Inactiva,4586747,3546949,1039798
+ENEMDU*,dic-25,2025,12,Poblaciï¿½n Total,18983704,12941929,6041775
+ENEMDU*,dic-25,2025,12,Poblaciï¿½n menor de 15 aï¿½os,5492149,3538956,1953193
+ENEMDU*,dic-25,2025,12,Poblaciï¿½n en Edad de Trabajar (PET),13491555,9402973,4088582
+ENEMDU*,dic-25,2025,12,Poblaciï¿½n Econï¿½micamente Activa,8575445,5606839,2968606
+ENEMDU*,dic-25,2025,12,Empleo,8351450,5427319,2924131
+ENEMDU*,feb-26,2026,2,Subempleo por insuficiencia de ingresos,63198,27614,35584
+ENEMDU*,feb-26,2026,2,Empleo no remunerado,773368,196002,577366
+ENEMDU*,feb-26,2026,2,Otro Empleo no pleno,2858691,1583184,1275508
+ENEMDU*,feb-26,2026,2,Empleo no clasificado,19555,19555,0
+ENEMDU*,feb-26,2026,2,Desempleo,272722,223415,49307
+ENEMDU*,feb-26,2026,2,Desempleo Abierto,244680,202180,42501
+ENEMDU*,feb-26,2026,2,Desempleo Oculto,28042,21236,6806
+ENEMDU*,feb-26,2026,2,Desempleo Cesante,174541,148335,26206
+ENEMDU*,feb-26,2026,2,Desempleo Nuevo,98181,75081,23100
+ENEMDU*,feb-26,2026,2,Poblaciï¿½n Econï¿½micamente Inactiva,4838071,3724815,1113255
+ENEMDU*,mar-26,2026,3,Poblaciï¿½n Total,19048357,12986005,6062352
+ENEMDU*,mar-26,2026,3,Poblaciï¿½n menor de 15 aï¿½os,5510853,3551009,1959844
+ENEMDU*,mar-26,2026,3,Poblaciï¿½n en Edad de Trabajar (PET),13537504,9434996,4102508
+ENEMDU*,abr-24,2024,4,Desempleo Oculto,25224,20819,4405
+ENEMDU*,abr-24,2024,4,Desempleo Cesante,207557,179897,27660
+ENEMDU*,abr-24,2024,4,Desempleo Nuevo,84039,71445,12594
+ENEMDU*,abr-24,2024,4,Poblaciï¿½n Econï¿½micamente Inactiva,4580549,3599328,981221
+ENEMDU*,may-24,2024,5,Poblaciï¿½n Total,18579256,12666202,5913054
+ENEMDU*,may-24,2024,5,Poblaciï¿½n menor de 15 aï¿½os,5375136,3463561,1911575
+ENEMDU*,may-24,2024,5,Poblaciï¿½n en Edad de Trabajar (PET),13204120,9202641,4001479
+ENEMDU*,may-24,2024,5,Poblaciï¿½n Econï¿½micamente Activa,8427808,5561644,2866164
+ENEMDU*,may-24,2024,5,Empleo,8128910,5304250,2824660
+ENEMDU*,may-24,2024,5,Empleo Adecuado/Pleno,2816152,2346439,469713
+ENEMDU*,may-24,2024,5,Subempleo,1942744,1225611,717133
+ENEMDU*,may-24,2024,5,Subempleo por insuficiencia de tiempo de trabajo,1821041,1154624,666417
+ENEMDU*,may-24,2024,5,Subempleo por insuficiencia de ingresos,121703,70987,50716
+ENEMDU*,ene-24,2024,1,Poblaciï¿½n Econï¿½micamente Activa,8547591,5510812,3036779
+ENEMDU*,ene-24,2024,1,Empleo,8212170,5213936,2998234
+ENEMDU*,ene-24,2024,1,Empleo Adecuado/Pleno,2970116,2431608,538508
+ENEMDU*,ene-24,2024,1,Subempleo,1747815,1174559,573257
+ENEMDU*,ene-24,2024,1,Subempleo por insuficiencia de tiempo de trabajo,1655058,1119732,535326
+ENEMDU*,ene-24,2024,1,Subempleo por insuficiencia de ingresos,92757,54827,37930
+ENEMDU*,ene-24,2024,1,Empleo no remunerado,1034446,244608,789838
+ENEMDU*,ene-24,2024,1,Otro Empleo no pleno,2447174,1351194,1095980
+ENEMDU*,ene-24,2024,1,Empleo no clasificado,12619,11968,651
+ENEMDU*,ene-24,2024,1,Desempleo,335421,296876,38545
+ENEMDU*,ene-24,2024,1,Desempleo Abierto,308063,271390,36673
+ENEMDU*,ene-24,2024,1,Desempleo Oculto,27358,25486,1872

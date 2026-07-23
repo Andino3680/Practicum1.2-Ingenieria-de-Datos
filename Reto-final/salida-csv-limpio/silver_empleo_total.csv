@@ -1,0 +1,241 @@
+﻿anio,codigo_cie,seccion,industria,valor,unidad,fuente,ruta_logica,id_rpa,dato_clave,fecha_extraccion
+2021,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),14655.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40264,2021_31,2026-07-09
+2022,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),11975.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40265,2022_31,2026-07-09
+2023,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),15806.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40266,2023_31,2026-07-09
+2024P,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),12010.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40267,2024P_31,2026-07-09
+2018,643478,Total C -Manufactura de productos no alimenticios,679238,609157.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40268,2018_643478,2026-07-09
+2019,643478,Total C -Manufactura de productos no alimenticios,679238,576056.5,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40269,2019_643478,2026-07-09
+2020,643478,Total C -Manufactura de productos no alimenticios,679238,560150.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40270,2020_643478,2026-07-09
+2021,643478,Total C -Manufactura de productos no alimenticios,679238,582849.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40271,2021_643478,2026-07-09
+2022,643478,Total C -Manufactura de productos no alimenticios,679238,549784.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40272,2022_643478,2026-07-09
+2018,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,6310.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40273,2018_40,2026-07-09
+2019,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,6475.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40274,2019_40,2026-07-09
+2020,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,6355.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40275,2020_40,2026-07-09
+2021,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,5930.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40276,2021_40,2026-07-09
+2022,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,5767.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40277,2022_40,2026-07-09
+2023,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,3999.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40278,2023_40,2026-07-09
+2024P,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,3756.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40279,2024P_40,2026-07-09
+2021,54149,Total B -ExplotaciÃ³n de minas y canteras,58968,94236.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40247,2021_54149,2026-07-09
+2022,54149,Total B -ExplotaciÃ³n de minas y canteras,58968,72363.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40248,2022_54149,2026-07-09
+2018,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,65858.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40249,2018_17,2026-07-09
+2019,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,71839.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40250,2019_17,2026-07-09
+2020,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,69868.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40251,2020_17,2026-07-09
+2021,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,67926.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40252,2021_17,2026-07-09
+2022,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,71865.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40253,2022_17,2026-07-09
+2023,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,80146.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40254,2023_17,2026-07-09
+2024P,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,87403.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40255,2024P_17,2026-07-09
+2018,533108,Total C -Manufactura de productos alimenticios,554206,553574.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40256,2018_533108,2026-07-09
+2019,533108,Total C -Manufactura de productos alimenticios,554206,623858.5,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40257,2019_533108,2026-07-09
+2020,533108,Total C -Manufactura de productos alimenticios,554206,638648.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40258,2020_533108,2026-07-09
+2021,533108,Total C -Manufactura de productos alimenticios,554206,682573.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40259,2021_533108,2026-07-09
+2022,533108,Total C -Manufactura de productos alimenticios,554206,665032.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40260,2022_533108,2026-07-09
+2018,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),15399.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40261,2018_31,2026-07-09
+2019,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),16117.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40262,2019_31,2026-07-09
+2020,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),16043.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40263,2020_31,2026-07-09
+2018,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",171607.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40213,2018_01,2026-07-09
+2019,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",158626.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40214,2019_01,2026-07-09
+2020,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",140330.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40215,2020_01,2026-07-09
+2021,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",139874.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40216,2021_01,2026-07-09
+2022,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",121847.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40217,2022_01,2026-07-09
+2023,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",106489.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40218,2023_01,2026-07-09
+2024P,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",102486.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40219,2024P_01,2026-07-09
+2018,2123047,"Total A -Agricultura, ganaderÃ­a y silvicultura",2356433,2448657.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40220,2018_2123047,2026-07-09
+2019,2123047,"Total A -Agricultura, ganaderÃ­a y silvicultura",2356433,2312930.5,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40221,2019_2123047,2026-07-09
+2020,2123047,"Total A -Agricultura, ganaderÃ­a y silvicultura",2356433,2206282.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40222,2020_2123047,2026-07-09
+2021,2123047,"Total A -Agricultura, ganaderÃ­a y silvicultura",2356433,2256674.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40223,2021_2123047,2026-07-09
+2022,2123047,"Total A -Agricultura, ganaderÃ­a y silvicultura",2356433,2354197.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40224,2022_2123047,2026-07-09
+2018,12,A -Pesca y acuicultura,Pesca y acuicultura,115399.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40225,2018_12,2026-07-09
+2019,12,A -Pesca y acuicultura,Pesca y acuicultura,117477.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40226,2019_12,2026-07-09
+2020,12,A -Pesca y acuicultura,Pesca y acuicultura,133240.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40227,2020_12,2026-07-09
+2021,12,A -Pesca y acuicultura,Pesca y acuicultura,107136.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40228,2021_12,2026-07-09
+2022,12,A -Pesca y acuicultura,Pesca y acuicultura,103543.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40229,2022_12,2026-07-09
+2020,58,F -ConstrucciÃ³n,ConstrucciÃ³n,327990.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40299,2020_58,2026-07-09
+2021,58,F -ConstrucciÃ³n,ConstrucciÃ³n,357274.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40300,2021_58,2026-07-09
+2022,58,F -ConstrucciÃ³n,ConstrucciÃ³n,372535.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40301,2022_58,2026-07-09
+2023,58,F -ConstrucciÃ³n,ConstrucciÃ³n,366922.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40302,2023_58,2026-07-09
+2024P,58,F -ConstrucciÃ³n,ConstrucciÃ³n,393292.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40303,2024P_58,2026-07-09
+2018,394563,Total F -ConstrucciÃ³n,415663,327990.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40304,2018_394563,2026-07-09
+2023,12,A -Pesca y acuicultura,Pesca y acuicultura,135711.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40230,2023_12,2026-07-09
+2024P,12,A -Pesca y acuicultura,Pesca y acuicultura,144095.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40231,2024P_12,2026-07-09
+2018,115399,Total A -Pesca y acuicultura,117477,133240.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40232,2018_115399,2026-07-09
+2019,115399,Total A -Pesca y acuicultura,117477,107136.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40233,2019_115399,2026-07-09
+2020,115399,Total A -Pesca y acuicultura,117477,103543.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40234,2020_115399,2026-07-09
+2021,115399,Total A -Pesca y acuicultura,117477,135711.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40235,2021_115399,2026-07-09
+2019,394563,Total F -ConstrucciÃ³n,415663,357274.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40305,2019_394563,2026-07-09
+2020,394563,Total F -ConstrucciÃ³n,415663,372535.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40306,2020_394563,2026-07-09
+2021,394563,Total F -ConstrucciÃ³n,415663,366922.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40307,2021_394563,2026-07-09
+2022,394563,Total F -ConstrucciÃ³n,415663,393292.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40308,2022_394563,2026-07-09
+2018,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,1591790.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40309,2018_59,2026-07-09
+2019,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,1475364.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40310,2019_59,2026-07-09
+2020,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,1462771.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40311,2020_59,2026-07-09
+2021,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,1514009.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40312,2021_59,2026-07-09
+2022,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,1549318.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40313,2022_59,2026-07-09
+2023,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,1471555.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40314,2023_59,2026-07-09
+2022,115399,Total A -Pesca y acuicultura,117477,144095.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40236,2022_115399,2026-07-09
+2018,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",24156.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40237,2018_13,2026-07-09
+2019,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",23781.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40238,2019_13,2026-07-09
+2020,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",24610.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40239,2020_13,2026-07-09
+2021,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",23207.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40240,2021_13,2026-07-09
+2022,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",28867.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40241,2022_13,2026-07-09
+2023,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",25621.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40242,2023_13,2026-07-09
+2024P,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",22828.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40243,2024P_13,2026-07-09
+2018,54149,Total B -ExplotaciÃ³n de minas y canteras,58968,71849.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40244,2018_54149,2026-07-09
+2024P,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,1449337.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40315,2024P_59,2026-07-09
+2018,1591790,Total G -Comercio,1475364,1462771.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40316,2018_1591790,2026-07-09
+2020,309360,"Total R - S - U -Arte, entretenimiento y otras actividades de servicios",244456,260976.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40438,2020_309360,2026-07-09
+2021,309360,"Total R - S - U -Arte, entretenimiento y otras actividades de servicios",244456,269471.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40439,2021_309360,2026-07-09
+2022,309360,"Total R - S - U -Arte, entretenimiento y otras actividades de servicios",244456,265904.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40440,2022_309360,2026-07-09
+2018,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,209767.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40441,2018_76,2026-07-09
+2019,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,238379.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40442,2019_76,2026-07-09
+2020,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,176036.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40443,2020_76,2026-07-09
+2021,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,197459.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40444,2021_76,2026-07-09
+2019,54149,Total B -ExplotaciÃ³n de minas y canteras,58968,76420.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40245,2019_54149,2026-07-09
+2020,54149,Total B -ExplotaciÃ³n de minas y canteras,58968,94093.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40246,2020_54149,2026-07-09
+2022,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,205058.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40445,2022_76,2026-07-09
+2023,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,215261.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40446,2023_76,2026-07-09
+2024P,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,220126.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40447,2024P_76,2026-07-09
+2018,209767,Total T -Actividades de los Hogares como empleadores,238379,176036.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40448,2018_209767,2026-07-09
+2019,209767,Total T -Actividades de los Hogares como empleadores,238379,197459.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40449,2019_209767,2026-07-09
+2020,209767,Total T -Actividades de los Hogares como empleadores,238379,205058.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40450,2020_209767,2026-07-09
+2021,209767,Total T -Actividades de los Hogares como empleadores,238379,215261.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40451,2021_209767,2026-07-09
+2022,209767,Total T -Actividades de los Hogares como empleadores,238379,220126.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40452,2022_209767,2026-07-09
+2019,68,L -Actividades inmobiliarias,Actividades inmobiliarias,29597.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40370,2019_68,2026-07-09
+2020,68,L -Actividades inmobiliarias,Actividades inmobiliarias,35271.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40371,2020_68,2026-07-09
+2021,68,L -Actividades inmobiliarias,Actividades inmobiliarias,26013.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40372,2021_68,2026-07-09
+2022,68,L -Actividades inmobiliarias,Actividades inmobiliarias,27273.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40373,2022_68,2026-07-09
+2023,68,L -Actividades inmobiliarias,Actividades inmobiliarias,25504.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40374,2023_68,2026-07-09
+2021,69556,Total D-E -Suministro de electricidad y agua,51912.5,69066.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40295,2021_69556,2026-07-09
+2022,69556,Total D-E -Suministro de electricidad y agua,51912.5,67644.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40296,2022_69556,2026-07-09
+2018,58,F -ConstrucciÃ³n,ConstrucciÃ³n,394563.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40297,2018_58,2026-07-09
+2019,58,F -ConstrucciÃ³n,ConstrucciÃ³n,415663.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40298,2019_58,2026-07-09
+2023,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,132703.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40422,2023_73,2026-07-09
+2024P,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,131137.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40423,2024P_73,2026-07-09
+2018,229989,Total Q -Salud y asistencia social,207603,218801.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40424,2018_229989,2026-07-09
+2019,229989,Total Q -Salud y asistencia social,207603,212997.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40425,2019_229989,2026-07-09
+2024P,68,L -Actividades inmobiliarias,Actividades inmobiliarias,24391.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40375,2024P_68,2026-07-09
+2018,31730,Total L -Actividades inmobiliarias,29597,35271.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40376,2018_31730,2026-07-09
+2019,31730,Total L -Actividades inmobiliarias,29597,26013.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40377,2019_31730,2026-07-09
+2020,31730,Total L -Actividades inmobiliarias,29597,27273.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40378,2020_31730,2026-07-09
+2021,31730,Total L -Actividades inmobiliarias,29597,25504.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40379,2021_31730,2026-07-09
+2022,31730,Total L -Actividades inmobiliarias,29597,24391.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40380,2022_31730,2026-07-09
+2018,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",488387.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40381,2018_69,2026-07-09
+2019,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",542569.5,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40382,2019_69,2026-07-09
+2020,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",575980.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40383,2020_69,2026-07-09
+2021,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",481066.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40384,2021_69,2026-07-09
+2022,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",512202.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40385,2022_69,2026-07-09
+2023,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",499137.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40386,2023_69,2026-07-09
+2020,229989,Total Q -Salud y asistencia social,207603,226642.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40426,2020_229989,2026-07-09
+2021,229989,Total Q -Salud y asistencia social,207603,219803.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40427,2021_229989,2026-07-09
+2022,229989,Total Q -Salud y asistencia social,207603,216982.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40428,2022_229989,2026-07-09
+2018,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",309360.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40429,2018_75,2026-07-09
+2019,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",244456.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40430,2019_75,2026-07-09
+2020,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",276180.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40431,2020_75,2026-07-09
+2021,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",252112.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40432,2021_75,2026-07-09
+2022,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",260976.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40433,2022_75,2026-07-09
+2023,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",269471.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40434,2023_75,2026-07-09
+2024P,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",265904.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40435,2024P_75,2026-07-09
+2018,309360,"Total R - S - U -Arte, entretenimiento y otras actividades de servicios",244456,276180.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40436,2018_309360,2026-07-09
+2019,309360,"Total R - S - U -Arte, entretenimiento y otras actividades de servicios",244456,252112.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40437,2019_309360,2026-07-09
+2019,117366,Total J -InformaciÃ³n y comunicaciÃ³n,93593,75667.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40353,2019_117366,2026-07-09
+2020,117366,Total J -InformaciÃ³n y comunicaciÃ³n,93593,81393.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40354,2020_117366,2026-07-09
+2021,117366,Total J -InformaciÃ³n y comunicaciÃ³n,93593,84243.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40355,2021_117366,2026-07-09
+2022,117366,Total J -InformaciÃ³n y comunicaciÃ³n,93593,102538.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40356,2022_117366,2026-07-09
+2018,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",77062.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40357,2018_65,2026-07-09
+2019,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",75899.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40358,2019_65,2026-07-09
+2020,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",59588.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40359,2020_65,2026-07-09
+2021,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",73173.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40360,2021_65,2026-07-09
+2022,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",81601.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40361,2022_65,2026-07-09
+2023,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",141165.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40362,2023_65,2026-07-09
+2024P,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",121116.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40363,2024P_65,2026-07-09
+2018,110304,Total K -Actividades financieras y de seguros,105223,81799.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40364,2018_110304,2026-07-09
+2019,110304,Total K -Actividades financieras y de seguros,105223,94425.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40365,2019_110304,2026-07-09
+2020,110304,Total K -Actividades financieras y de seguros,105223,112191.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40366,2020_110304,2026-07-09
+2021,110304,Total K -Actividades financieras y de seguros,105223,169531.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40367,2021_110304,2026-07-09
+2022,110304,Total K -Actividades financieras y de seguros,105223,154366.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40368,2022_110304,2026-07-09
+2018,68,L -Actividades inmobiliarias,Actividades inmobiliarias,31730.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40369,2018_68,2026-07-09
+2022,235471,Total O -AdministraciÃ³n pÃºblica,234451,202224.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40404,2022_235471,2026-07-09
+2018,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,123930.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40405,2018_71,2026-07-09
+2019,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,119949.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40406,2019_71,2026-07-09
+2020,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,130526.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40407,2020_71,2026-07-09
+2021,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,140587.5,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40408,2021_71,2026-07-09
+2020,62,I -Alojamiento y comidas,Actividades de alojamiento,25090.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40335,2020_62,2026-07-09
+2022,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,141124.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40409,2022_71,2026-07-09
+2023,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,140491.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40410,2023_71,2026-07-09
+2024P,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,129793.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40411,2024P_71,2026-07-09
+2018,351896,Total P -EnseÃ±anza,348197,346184.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40412,2018_351896,2026-07-09
+2019,351896,Total P -EnseÃ±anza,348197,355370.5,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40413,2019_351896,2026-07-09
+2020,351896,Total P -EnseÃ±anza,348197,360185.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40414,2020_351896,2026-07-09
+2021,351896,Total P -EnseÃ±anza,348197,361149.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40415,2021_351896,2026-07-09
+2022,351896,Total P -EnseÃ±anza,348197,349207.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40416,2022_351896,2026-07-09
+2018,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,149438.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40417,2018_73,2026-07-09
+2019,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,128224.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40418,2019_73,2026-07-09
+2018,6310,Total C -Refinados de petroleo,6475,6355.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40280,2018_6310,2026-07-09
+2019,1591790,Total G -Comercio,1475364,1514009.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40317,2019_1591790,2026-07-09
+2020,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,140077.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40419,2020_73,2026-07-09
+2021,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,134624.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40420,2021_73,2026-07-09
+2022,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,145320.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40421,2022_73,2026-07-09
+2021,62,I -Alojamiento y comidas,Actividades de alojamiento,27387.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40336,2021_62,2026-07-09
+2022,62,I -Alojamiento y comidas,Actividades de alojamiento,33440.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40337,2022_62,2026-07-09
+2023,62,I -Alojamiento y comidas,Actividades de alojamiento,22816.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40338,2023_62,2026-07-09
+2024P,62,I -Alojamiento y comidas,Actividades de alojamiento,20826.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40339,2024P_62,2026-07-09
+2018,518888,Total I -Alojamiento y comidas,433449,417019.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40340,2018_518888,2026-07-09
+2019,518888,Total I -Alojamiento y comidas,433449,422100.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40341,2019_518888,2026-07-09
+2020,518888,Total I -Alojamiento y comidas,433449,413073.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40342,2020_518888,2026-07-09
+2021,518888,Total I -Alojamiento y comidas,433449,400929.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40343,2021_518888,2026-07-09
+2022,518888,Total I -Alojamiento y comidas,433449,384649.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40344,2022_518888,2026-07-09
+2018,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,117366.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40345,2018_64,2026-07-09
+2019,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,93593.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40346,2019_64,2026-07-09
+2020,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,73910.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40347,2020_64,2026-07-09
+2021,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,75667.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40348,2021_64,2026-07-09
+2022,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,81393.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40349,2022_64,2026-07-09
+2024P,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",549617.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40387,2024P_69,2026-07-09
+2018,488387,"Total M - N -Actividades profesionales, tÃ©cnicas",542569.5,575980.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40388,2018_488387,2026-07-09
+2019,488387,"Total M - N -Actividades profesionales, tÃ©cnicas",542569.5,481066.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40389,2019_488387,2026-07-09
+2020,488387,"Total M - N -Actividades profesionales, tÃ©cnicas",542569.5,512202.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40390,2020_488387,2026-07-09
+2020,1591790,Total G -Comercio,1475364,1549318.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40318,2020_1591790,2026-07-09
+2021,1591790,Total G -Comercio,1475364,1471555.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40319,2021_1591790,2026-07-09
+2022,1591790,Total G -Comercio,1475364,1449337.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40320,2022_1591790,2026-07-09
+2018,60,H -Transporte y almacenamiento,Transporte y almacenamiento,449519.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40321,2018_60,2026-07-09
+2019,60,H -Transporte y almacenamiento,Transporte y almacenamiento,474139.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40322,2019_60,2026-07-09
+2023,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,84243.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40350,2023_64,2026-07-09
+2024P,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,102538.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40351,2024P_64,2026-07-09
+2018,117366,Total J -InformaciÃ³n y comunicaciÃ³n,93593,73910.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40352,2018_117366,2026-07-09
+2021,488387,"Total M - N -Actividades profesionales, tÃ©cnicas",542569.5,499137.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40391,2021_488387,2026-07-09
+2022,488387,"Total M - N -Actividades profesionales, tÃ©cnicas",542569.5,549617.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40392,2022_488387,2026-07-09
+2018,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,235471.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40393,2018_70,2026-07-09
+2019,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,234451.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40394,2019_70,2026-07-09
+2020,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,208037.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40395,2020_70,2026-07-09
+2021,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,221176.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40396,2021_70,2026-07-09
+2022,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,216325.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40397,2022_70,2026-07-09
+2023,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,195221.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40398,2023_70,2026-07-09
+2024P,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,202224.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40399,2024P_70,2026-07-09
+2019,6310,Total C -Refinados de petroleo,6475,5930.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40281,2019_6310,2026-07-09
+2020,6310,Total C -Refinados de petroleo,6475,5767.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40282,2020_6310,2026-07-09
+2021,6310,Total C -Refinados de petroleo,6475,3999.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40283,2021_6310,2026-07-09
+2022,6310,Total C -Refinados de petroleo,6475,3756.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40284,2022_6310,2026-07-09
+2018,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",50071.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40285,2018_56,2026-07-09
+2020,60,H -Transporte y almacenamiento,Transporte y almacenamiento,450393.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40323,2020_60,2026-07-09
+2021,60,H -Transporte y almacenamiento,Transporte y almacenamiento,458133.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40324,2021_60,2026-07-09
+2022,60,H -Transporte y almacenamiento,Transporte y almacenamiento,450010.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40325,2022_60,2026-07-09
+2023,60,H -Transporte y almacenamiento,Transporte y almacenamiento,436450.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40326,2023_60,2026-07-09
+2024P,60,H -Transporte y almacenamiento,Transporte y almacenamiento,448367.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40327,2024P_60,2026-07-09
+2018,465056,Total H -Transporte y almacenamiento,492660,483914.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40328,2018_465056,2026-07-09
+2019,465056,Total H -Transporte y almacenamiento,492660,484325.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40329,2019_465056,2026-07-09
+2020,465056,Total H -Transporte y almacenamiento,492660,477217.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40330,2020_465056,2026-07-09
+2021,465056,Total H -Transporte y almacenamiento,492660,466750.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40331,2021_465056,2026-07-09
+2022,465056,Total H -Transporte y almacenamiento,492660,475090.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40332,2022_465056,2026-07-09
+2018,235471,Total O -AdministraciÃ³n pÃºblica,234451,208037.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40400,2018_235471,2026-07-09
+2019,235471,Total O -AdministraciÃ³n pÃºblica,234451,221176.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40401,2019_235471,2026-07-09
+2020,235471,Total O -AdministraciÃ³n pÃºblica,234451,216325.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40402,2020_235471,2026-07-09
+2021,235471,Total O -AdministraciÃ³n pÃºblica,234451,195221.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40403,2021_235471,2026-07-09
+2019,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",32535.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40286,2019_56,2026-07-09
+2020,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",20662.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40287,2020_56,2026-07-09
+2021,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",36037.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40288,2021_56,2026-07-09
+2022,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",48274.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40289,2022_56,2026-07-09
+2023,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",42915.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40290,2023_56,2026-07-09
+2024P,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",43030.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40291,2024P_56,2026-07-09
+2018,69556,Total D-E -Suministro de electricidad y agua,51912.5,42567.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40292,2018_69556,2026-07-09
+2019,69556,Total D-E -Suministro de electricidad y agua,51912.5,64381.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40293,2019_69556,2026-07-09
+2020,69556,Total D-E -Suministro de electricidad y agua,51912.5,76489.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40294,2020_69556,2026-07-09
+2018,62,I -Alojamiento y comidas,Actividades de alojamiento,40328.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40333,2018_62,2026-07-09
+2019,62,I -Alojamiento y comidas,Actividades de alojamiento,39042.0,NÃºmero de personas,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/TOTAL_EMPLEO,40334,2019_62,2026-07-09

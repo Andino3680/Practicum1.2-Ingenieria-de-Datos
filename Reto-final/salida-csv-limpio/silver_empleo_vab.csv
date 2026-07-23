@@ -1,0 +1,231 @@
+﻿anio,codigo_cie,seccion,industria,valor,unidad,fuente,ruta_logica,id_rpa,dato_clave,fecha_extraccion
+2019,12,A -Pesca y acuicultura,Pesca y acuicultura,1368134.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39996,2019_12,2026-07-09
+2020,12,A -Pesca y acuicultura,Pesca y acuicultura,1233335.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39997,2020_12,2026-07-09
+2021,12,A -Pesca y acuicultura,Pesca y acuicultura,1594242.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39998,2021_12,2026-07-09
+2022,12,A -Pesca y acuicultura,Pesca y acuicultura,1466999.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39999,2022_12,2026-07-09
+2023,12,A -Pesca y acuicultura,Pesca y acuicultura,1526465.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40000,2023_12,2026-07-09
+2024P,12,A -Pesca y acuicultura,Pesca y acuicultura,1557250.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40001,2024P_12,2026-07-09
+2018,1326952,Total A -Pesca y acuicultura,1368134,1233335.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40002,2018_1326952,2026-07-09
+2019,1326952,Total A -Pesca y acuicultura,1368134,1594242.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40003,2019_1326952,2026-07-09
+2020,1326952,Total A -Pesca y acuicultura,1368134,1466999.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40004,2020_1326952,2026-07-09
+2021,1326952,Total A -Pesca y acuicultura,1368134,1526465.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40005,2021_1326952,2026-07-09
+2022,1326952,Total A -Pesca y acuicultura,1368134,1557250.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40006,2022_1326952,2026-07-09
+2018,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",2565542.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40007,2018_13,2026-07-09
+2019,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",2498162.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40008,2019_13,2026-07-09
+2020,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",1682067.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40009,2020_13,2026-07-09
+2021,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",2633410.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40010,2021_13,2026-07-09
+2022,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",3113294.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40011,2022_13,2026-07-09
+2023,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",2683993.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40012,2023_13,2026-07-09
+2024P,13,B -ExplotaciÃ³n de minas y canteras,"Servicios Petroleros - ExplotaciÃ³n de otras minas y canteras, y actividades de apoyo",2728292.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40013,2024P_13,2026-07-09
+2018,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",389928.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39983,2018_01,2026-07-09
+2019,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",410649.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39984,2019_01,2026-07-09
+2020,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",384715.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39985,2020_01,2026-07-09
+2021,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",432450.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39986,2021_01,2026-07-09
+2022,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",463245.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39987,2022_01,2026-07-09
+2023,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",476125.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39988,2023_01,2026-07-09
+2024P,01,"A -Agricultura, ganaderÃ­a y silvicultura","Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",520735.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39989,2024P_01,2026-07-09
+2018,6889879,"Total A -Agricultura, ganaderÃ­a y silvicultura",7010100,6805703.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39990,2018_6889879,2026-07-09
+2019,6889879,"Total A -Agricultura, ganaderÃ­a y silvicultura",7010100,7065827.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39991,2019_6889879,2026-07-09
+2020,6889879,"Total A -Agricultura, ganaderÃ­a y silvicultura",7010100,7118769.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39992,2020_6889879,2026-07-09
+2021,6889879,"Total A -Agricultura, ganaderÃ­a y silvicultura",7010100,8199016.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39993,2021_6889879,2026-07-09
+2022,6889879,"Total A -Agricultura, ganaderÃ­a y silvicultura",7010100,9876771.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39994,2022_6889879,2026-07-09
+2018,12,A -Pesca y acuicultura,Pesca y acuicultura,1326952.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,39995,2018_12,2026-07-09
+2019,68,L -Actividades inmobiliarias,Actividades inmobiliarias,7383988.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40130,2019_68,2026-07-09
+2020,68,L -Actividades inmobiliarias,Actividades inmobiliarias,7276626.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40131,2020_68,2026-07-09
+2021,68,L -Actividades inmobiliarias,Actividades inmobiliarias,7106948.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40132,2021_68,2026-07-09
+2022,68,L -Actividades inmobiliarias,Actividades inmobiliarias,7436186.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40133,2022_68,2026-07-09
+2023,68,L -Actividades inmobiliarias,Actividades inmobiliarias,7832978.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40134,2023_68,2026-07-09
+2024P,68,L -Actividades inmobiliarias,Actividades inmobiliarias,8071707.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40135,2024P_68,2026-07-09
+2018,7316735,Total L -Actividades inmobiliarias,7383988,7276626.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40136,2018_7316735,2026-07-09
+2019,7316735,Total L -Actividades inmobiliarias,7383988,7106948.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40137,2019_7316735,2026-07-09
+2020,7316735,Total L -Actividades inmobiliarias,7383988,7436186.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40138,2020_7316735,2026-07-09
+2021,7316735,Total L -Actividades inmobiliarias,7383988,7832978.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40139,2021_7316735,2026-07-09
+2022,7316735,Total L -Actividades inmobiliarias,7383988,8071707.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40140,2022_7316735,2026-07-09
+2018,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",7768852.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40141,2018_69,2026-07-09
+2019,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",7750344.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40142,2019_69,2026-07-09
+2018,8020002,Total O -AdministraciÃ³n pÃºblica,8003155,7955241.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40160,2018_8020002,2026-07-09
+2019,8020002,Total O -AdministraciÃ³n pÃºblica,8003155,7881308.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40161,2019_8020002,2026-07-09
+2020,8020002,Total O -AdministraciÃ³n pÃºblica,8003155,8252090.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40162,2020_8020002,2026-07-09
+2021,8020002,Total O -AdministraciÃ³n pÃºblica,8003155,8446015.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40163,2021_8020002,2026-07-09
+2022,8020002,Total O -AdministraciÃ³n pÃºblica,8003155,8635852.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40164,2022_8020002,2026-07-09
+2018,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,1574291.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40165,2018_71,2026-07-09
+2019,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,1685789.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40166,2019_71,2026-07-09
+2020,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,1618555.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40167,2020_71,2026-07-09
+2021,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,1594325.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40168,2021_71,2026-07-09
+2022,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,1638041.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40169,2022_71,2026-07-09
+2023,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,1763632.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40170,2023_71,2026-07-09
+2024P,71,P -EnseÃ±anza,Servicios de enseÃ±anza privada,1864937.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40171,2024P_71,2026-07-09
+2018,5371089,Total P -EnseÃ±anza,5450125,5050793.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40172,2018_5371089,2026-07-09
+2019,5371089,Total P -EnseÃ±anza,5450125,5084214.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40173,2019_5371089,2026-07-09
+2020,5371089,Total P -EnseÃ±anza,5450125,5217507.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40174,2020_5371089,2026-07-09
+2021,5371089,Total P -EnseÃ±anza,5450125,5745918.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40175,2021_5371089,2026-07-09
+2022,5371089,Total P -EnseÃ±anza,5450125,5824742.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40176,2022_5371089,2026-07-09
+2018,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,1416272.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40177,2018_73,2026-07-09
+2019,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,1521328.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40178,2019_73,2026-07-09
+2018,1087372,"Total R - S - U -Arte, entretenimiento y otras actividades de servicios",1177071,1032143.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40196,2018_1087372,2026-07-09
+2019,1087372,"Total R - S - U -Arte, entretenimiento y otras actividades de servicios",1177071,1081417.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40197,2019_1087372,2026-07-09
+2020,1087372,"Total R - S - U -Arte, entretenimiento y otras actividades de servicios",1177071,1093336.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40198,2020_1087372,2026-07-09
+2020,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,2310192.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40107,2020_64,2026-07-09
+2021,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,2310112.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40108,2021_64,2026-07-09
+2022,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,2483292.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40109,2022_64,2026-07-09
+2023,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,2466267.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40110,2023_64,2026-07-09
+2024P,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,2475743.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40111,2024P_64,2026-07-09
+2018,2567002,Total J -InformaciÃ³n y comunicaciÃ³n,2485971,2310192.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40112,2018_2567002,2026-07-09
+2019,2567002,Total J -InformaciÃ³n y comunicaciÃ³n,2485971,2310112.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40113,2019_2567002,2026-07-09
+2020,2567002,Total J -InformaciÃ³n y comunicaciÃ³n,2485971,2483292.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40114,2020_2567002,2026-07-09
+2021,2567002,Total J -InformaciÃ³n y comunicaciÃ³n,2485971,2466267.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40115,2021_2567002,2026-07-09
+2022,2567002,Total J -InformaciÃ³n y comunicaciÃ³n,2485971,2475743.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40116,2022_2567002,2026-07-09
+2018,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",3323745.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40117,2018_65,2026-07-09
+2019,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",3435861.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40118,2019_65,2026-07-09
+2020,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",3344792.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40119,2020_65,2026-07-09
+2021,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",3768773.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40120,2021_65,2026-07-09
+2022,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",4472377.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40121,2022_65,2026-07-09
+2023,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",4659672.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40122,2023_65,2026-07-09
+2024P,65,K -Actividades financieras y de seguros,"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones",4750744.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40123,2024P_65,2026-07-09
+2018,4017074,Total K -Actividades financieras y de seguros,4167908.9999999995,3970252.9999999995,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40124,2018_4017074,2026-07-09
+2020,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",6731403.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40143,2020_69,2026-07-09
+2021,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",7310324.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40144,2021_69,2026-07-09
+2022,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",7920924.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40145,2022_69,2026-07-09
+2023,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",8410829.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40146,2023_69,2026-07-09
+2021,1087372,"Total R - S - U -Arte, entretenimiento y otras actividades de servicios",1177071,1189363.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40199,2021_1087372,2026-07-09
+2024P,69,"M - N -Actividades profesionales, tÃ©cnicas","Actividades profesionales, cientÃ­ficas, tÃ©cnicas y administrativas",8457864.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40147,2024P_69,2026-07-09
+2018,7768852,"Total M - N -Actividades profesionales, tÃ©cnicas",7750344,6731403.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40148,2018_7768852,2026-07-09
+2019,7768852,"Total M - N -Actividades profesionales, tÃ©cnicas",7750344,7310324.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40149,2019_7768852,2026-07-09
+2020,7768852,"Total M - N -Actividades profesionales, tÃ©cnicas",7750344,7920924.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40150,2020_7768852,2026-07-09
+2021,7768852,"Total M - N -Actividades profesionales, tÃ©cnicas",7750344,8410829.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40151,2021_7768852,2026-07-09
+2022,7768852,"Total M - N -Actividades profesionales, tÃ©cnicas",7750344,8457864.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40152,2022_7768852,2026-07-09
+2018,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,8020002.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40153,2018_70,2026-07-09
+2019,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,8003155.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40154,2019_70,2026-07-09
+2020,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,7955241.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40155,2020_70,2026-07-09
+2021,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,7881308.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40156,2021_70,2026-07-09
+2022,1087372,"Total R - S - U -Arte, entretenimiento y otras actividades de servicios",1177071,1153037.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40200,2022_1087372,2026-07-09
+2018,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,847047.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40201,2018_76,2026-07-09
+2019,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,912513.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40202,2019_76,2026-07-09
+2020,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,653703.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40203,2020_76,2026-07-09
+2021,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,709587.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40204,2021_76,2026-07-09
+2022,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,782321.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40205,2022_76,2026-07-09
+2023,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,832526.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40206,2023_76,2026-07-09
+2024P,76,T -Actividades de los Hogares como empleadores,Actividades de los hogares como empleadores de personal domÃ©stico,867453.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40207,2024P_76,2026-07-09
+2018,847047,Total T -Actividades de los Hogares como empleadores,912513,653703.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40208,2018_847047,2026-07-09
+2022,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,8252090.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40157,2022_70,2026-07-09
+2023,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,8446015.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40158,2023_70,2026-07-09
+2024P,70,O -AdministraciÃ³n pÃºblica,AdministraciÃ³n pÃºblica y defensa; planes de seguridad social de afiliaciÃ³n obligatoria,8635852.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40159,2024P_70,2026-07-09
+2019,847047,Total T -Actividades de los Hogares como empleadores,912513,709587.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40209,2019_847047,2026-07-09
+2020,847047,Total T -Actividades de los Hogares como empleadores,912513,782321.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40210,2020_847047,2026-07-09
+2021,847047,Total T -Actividades de los Hogares como empleadores,912513,832526.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40211,2021_847047,2026-07-09
+2022,847047,Total T -Actividades de los Hogares como empleadores,912513,867453.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40212,2022_847047,2026-07-09
+2019,4017074,Total K -Actividades financieras y de seguros,4167908.9999999995,4309643.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40125,2019_4017074,2026-07-09
+2020,4017074,Total K -Actividades financieras y de seguros,4167908.9999999995,5044137.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40126,2020_4017074,2026-07-09
+2020,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,1423610.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40179,2020_73,2026-07-09
+2021,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,1726811.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40180,2021_73,2026-07-09
+2022,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,1900484.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40181,2022_73,2026-07-09
+2023,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,1935175.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40182,2023_73,2026-07-09
+2021,4017074,Total K -Actividades financieras y de seguros,4167908.9999999995,5438137.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40127,2021_4017074,2026-07-09
+2024P,73,Q -Salud y asistencia social,Actividades de atenciÃ³n de la salud humana y de asistencia social privada,1869038.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40183,2024P_73,2026-07-09
+2018,4111156,Total Q -Salud y asistencia social,4237764,4213823.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40184,2018_4111156,2026-07-09
+2019,4111156,Total Q -Salud y asistencia social,4237764,4346745.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40185,2019_4111156,2026-07-09
+2020,4111156,Total Q -Salud y asistencia social,4237764,4536224.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40186,2020_4111156,2026-07-09
+2021,4111156,Total Q -Salud y asistencia social,4237764,4652310.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40187,2021_4111156,2026-07-09
+2022,4111156,Total Q -Salud y asistencia social,4237764,4653785.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40188,2022_4111156,2026-07-09
+2018,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",1087372.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40189,2018_75,2026-07-09
+2019,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",1177071.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40190,2019_75,2026-07-09
+2020,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",1032143.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40191,2020_75,2026-07-09
+2021,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",1081417.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40192,2021_75,2026-07-09
+2022,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",1093336.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40193,2022_75,2026-07-09
+2023,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",1189363.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40194,2023_75,2026-07-09
+2024P,75,"R - S - U -Arte, entretenimiento y otras actividades de servicios","Servicios de asociaciones, personales; esparcimiento; culturales y deportivos",1153037.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40195,2024P_75,2026-07-09
+2022,4017074,Total K -Actividades financieras y de seguros,4167908.9999999995,5604299.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40128,2022_4017074,2026-07-09
+2018,68,L -Actividades inmobiliarias,Actividades inmobiliarias,7316735.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40129,2018_68,2026-07-09
+2020,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,13602415.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40076,2020_59,2026-07-09
+2021,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,16230150.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40077,2021_59,2026-07-09
+2022,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,18183800.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40078,2022_59,2026-07-09
+2023,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,18669768.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40079,2023_59,2026-07-09
+2024P,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,18002742.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40080,2024P_59,2026-07-09
+2018,15248874,Total G -Comercio,15276686,13602415.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40081,2018_15248874,2026-07-09
+2019,15248874,Total G -Comercio,15276686,16230150.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40082,2019_15248874,2026-07-09
+2020,15248874,Total G -Comercio,15276686,18183800.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40083,2020_15248874,2026-07-09
+2021,15248874,Total G -Comercio,15276686,18669768.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40084,2021_15248874,2026-07-09
+2022,15248874,Total G -Comercio,15276686,18002742.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40085,2022_15248874,2026-07-09
+2018,60,H -Transporte y almacenamiento,Transporte y almacenamiento,5190070.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40086,2018_60,2026-07-09
+2019,60,H -Transporte y almacenamiento,Transporte y almacenamiento,5416852.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40087,2019_60,2026-07-09
+2018,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",1425173.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40050,2018_56,2026-07-09
+2019,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",1608520.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40051,2019_56,2026-07-09
+2020,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",1512436.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40052,2020_56,2026-07-09
+2021,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",1601494.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40053,2021_56,2026-07-09
+2022,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",1681656.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40054,2022_56,2026-07-09
+2023,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",1544538.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40055,2023_56,2026-07-09
+2024P,56,D-E -Suministro de electricidad y agua,"Suministro de electricidad, gas, vapor y aire acondicionado",1298391.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40056,2024P_56,2026-07-09
+2018,1758395,Total D-E -Suministro de electricidad y agua,1997046,1833665.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40057,2018_1758395,2026-07-09
+2019,1758395,Total D-E -Suministro de electricidad y agua,1997046,2015916.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40058,2019_1758395,2026-07-09
+2020,1758395,Total D-E -Suministro de electricidad y agua,1997046,2129568.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40059,2020_1758395,2026-07-09
+2021,1758395,Total D-E -Suministro de electricidad y agua,1997046,2029874.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40060,2021_1758395,2026-07-09
+2022,1758395,Total D-E -Suministro de electricidad y agua,1997046,1777118.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40061,2022_1758395,2026-07-09
+2018,58,F -ConstrucciÃ³n,ConstrucciÃ³n,5503806.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40062,2018_58,2026-07-09
+2019,58,F -ConstrucciÃ³n,ConstrucciÃ³n,5124577.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40063,2019_58,2026-07-09
+2020,58,F -ConstrucciÃ³n,ConstrucciÃ³n,3618265.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40064,2020_58,2026-07-09
+2021,58,F -ConstrucciÃ³n,ConstrucciÃ³n,4325575.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40065,2021_58,2026-07-09
+2022,58,F -ConstrucciÃ³n,ConstrucciÃ³n,5028430.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40066,2022_58,2026-07-09
+2023,58,F -ConstrucciÃ³n,ConstrucciÃ³n,5348651.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40067,2023_58,2026-07-09
+2024P,58,F -ConstrucciÃ³n,ConstrucciÃ³n,5152300.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40068,2024P_58,2026-07-09
+2024P,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),249026.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40032,2024P_31,2026-07-09
+2018,7023350,Total C -Manufactura de productos no alimenticios,6713217.000000001,5704503.999999999,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40033,2018_7023350,2026-07-09
+2019,7023350,Total C -Manufactura de productos no alimenticios,6713217.000000001,6406200.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40034,2019_7023350,2026-07-09
+2020,7023350,Total C -Manufactura de productos no alimenticios,6713217.000000001,6450388.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40035,2020_7023350,2026-07-09
+2021,7023350,Total C -Manufactura de productos no alimenticios,6713217.000000001,6909748.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40036,2021_7023350,2026-07-09
+2022,7023350,Total C -Manufactura de productos no alimenticios,6713217.000000001,6722056.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40037,2022_7023350,2026-07-09
+2018,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,1464344.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40038,2018_40,2026-07-09
+2019,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,931943.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40039,2019_40,2026-07-09
+2020,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,666979.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40040,2020_40,2026-07-09
+2021,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,955474.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40041,2021_40,2026-07-09
+2022,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,664626.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40042,2022_40,2026-07-09
+2023,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,633606.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40043,2023_40,2026-07-09
+2024P,40,C -Refinados de petroleo,FabricaciÃ³n de productos refinados de petrÃ³leo y de otros,896954.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40044,2024P_40,2026-07-09
+2018,1464344,Total C -Refinados de petroleo,931943,666979.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40045,2018_1464344,2026-07-09
+2019,1464344,Total C -Refinados de petroleo,931943,955474.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40046,2019_1464344,2026-07-09
+2020,60,H -Transporte y almacenamiento,Transporte y almacenamiento,4707817.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40088,2020_60,2026-07-09
+2021,60,H -Transporte y almacenamiento,Transporte y almacenamiento,4822491.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40089,2021_60,2026-07-09
+2022,60,H -Transporte y almacenamiento,Transporte y almacenamiento,5105801.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40090,2022_60,2026-07-09
+2023,60,H -Transporte y almacenamiento,Transporte y almacenamiento,5105271.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40091,2023_60,2026-07-09
+2024P,60,H -Transporte y almacenamiento,Transporte y almacenamiento,5119136.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40092,2024P_60,2026-07-09
+2018,62,I -Alojamiento y comidas,Actividades de alojamiento,395502.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40093,2018_62,2026-07-09
+2019,62,I -Alojamiento y comidas,Actividades de alojamiento,399867.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40094,2019_62,2026-07-09
+2020,1464344,Total C -Refinados de petroleo,931943,664626.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40047,2020_1464344,2026-07-09
+2021,1464344,Total C -Refinados de petroleo,931943,633606.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40048,2021_1464344,2026-07-09
+2022,1464344,Total C -Refinados de petroleo,931943,896954.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40049,2022_1464344,2026-07-09
+2020,62,I -Alojamiento y comidas,Actividades de alojamiento,225961.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40095,2020_62,2026-07-09
+2021,62,I -Alojamiento y comidas,Actividades de alojamiento,275211.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40096,2021_62,2026-07-09
+2022,62,I -Alojamiento y comidas,Actividades de alojamiento,330776.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40097,2022_62,2026-07-09
+2023,62,I -Alojamiento y comidas,Actividades de alojamiento,362045.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40098,2023_62,2026-07-09
+2024P,62,I -Alojamiento y comidas,Actividades de alojamiento,351526.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40099,2024P_62,2026-07-09
+2018,1430626,Total I -Alojamiento y comidas,1520651,1128312.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40100,2018_1430626,2026-07-09
+2019,1430626,Total I -Alojamiento y comidas,1520651,1296705.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40101,2019_1430626,2026-07-09
+2020,1430626,Total I -Alojamiento y comidas,1520651,1372823.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40102,2020_1430626,2026-07-09
+2021,1430626,Total I -Alojamiento y comidas,1520651,1583358.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40103,2021_1430626,2026-07-09
+2022,1430626,Total I -Alojamiento y comidas,1520651,1621746.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40104,2022_1430626,2026-07-09
+2018,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,2567002.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40105,2018_64,2026-07-09
+2019,64,J -InformaciÃ³n y comunicaciÃ³n,InformaciÃ³n y comunicaciÃ³n,2485971.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40106,2019_64,2026-07-09
+2018,8481791,Total B -ExplotaciÃ³n de minas y canteras,7911642.000000001,5130968.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40014,2018_8481791,2026-07-09
+2019,8481791,Total B -ExplotaciÃ³n de minas y canteras,7911642.000000001,9027398.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40015,2019_8481791,2026-07-09
+2020,8481791,Total B -ExplotaciÃ³n de minas y canteras,7911642.000000001,12234909.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40016,2020_8481791,2026-07-09
+2021,8481791,Total B -ExplotaciÃ³n de minas y canteras,7911642.000000001,10081203.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40017,2021_8481791,2026-07-09
+2022,8481791,Total B -ExplotaciÃ³n de minas y canteras,7911642.000000001,10010641.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40018,2022_8481791,2026-07-09
+2018,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,993327.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40019,2018_17,2026-07-09
+2019,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,1026593.0000000001,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40020,2019_17,2026-07-09
+2020,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,959845.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40021,2020_17,2026-07-09
+2021,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,1025370.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40022,2021_17,2026-07-09
+2022,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,1049197.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40023,2022_17,2026-07-09
+2023,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,1145813.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40024,2023_17,2026-07-09
+2024P,17,C -Manufactura de productos alimenticios,ElaboraciÃ³n y conservaciÃ³n de carne,1264199.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40025,2024P_17,2026-07-09
+2018,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),300113.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40026,2018_31,2026-07-09
+2019,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),256750.99999999997,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40027,2019_31,2026-07-09
+2020,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),216173.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40028,2020_31,2026-07-09
+2021,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),210665.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40029,2021_31,2026-07-09
+2022,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),205337.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40030,2022_31,2026-07-09
+2018,5503806,Total F -ConstrucciÃ³n,5124577,3618265.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40069,2018_5503806,2026-07-09
+2019,5503806,Total F -ConstrucciÃ³n,5124577,4325575.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40070,2019_5503806,2026-07-09
+2020,5503806,Total F -ConstrucciÃ³n,5124577,5028430.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40071,2020_5503806,2026-07-09
+2021,5503806,Total F -ConstrucciÃ³n,5124577,5348651.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40072,2021_5503806,2026-07-09
+2022,5503806,Total F -ConstrucciÃ³n,5124577,5152300.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40073,2022_5503806,2026-07-09
+2018,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,15248874.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40074,2018_59,2026-07-09
+2019,59,G -Comercio,Comercio al por mayor y al por menor; reparaciÃ³n de vehÃ­culos automotores y motocicletas,15276686.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40075,2019_59,2026-07-09
+2023,31,C -Manufactura de productos no alimenticios,ElaboraciÃ³n bebidas no alcohÃ³licas (excepto jugos),260757.0,Miles de USD,Banco Central del Ecuador,BCE/MATRIZ_EMPLEO/VAB,40031,2023_31,2026-07-09
